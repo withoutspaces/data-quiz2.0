@@ -4,7 +4,7 @@ interface LogoProps {
 
 export function Logo({ small = false }: LogoProps) {
   return (
-    <div className={small ? "flex items-center justify-center mt-16" : "flex items-center flex-col"}>
+    <div className={small ? "flex items-center justify-center" : "flex items-center flex-col"}>
       <img src="src/assets/logo2.png" alt="DataQuiz logo" />
       <h1
         className={
