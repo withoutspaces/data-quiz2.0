@@ -1,44 +1,7 @@
 import { Logo } from "@/components/quiz/logo";
 import { useLocation, useNavigate } from "react-router-dom";
 
-const contributors: string[] = [
-  "Danmiel",
-  "Lucas",
-  "Rafael",
-  "Rafaela",
-  "Vitor",
-  "Yuri",
-  "Danmiel",
-  "Lucas",
-  "Rafael",
-  "Rafaela",
-  "Vitor",
-  "Yuri",
-  "Danmiel",
-  "Lucas",
-  "Rafael",
-  "Rafaela",
-  "Vitor",
-  "Yuri",
-  "Danmiel",
-  "Lucas",
-  "Rafael",
-  "Rafaela",
-  "Vitor",
-  "Yuri",
-  "Danmiel",
-  "Lucas",
-  "Rafael",
-  "Rafaela",
-  "Vitor",
-  "Yuri",
-  "Danmiel",
-  "Lucas",
-  "Rafael",
-  "Rafaela",
-  "Vitor",
-  "Yuri",
-];
+const contributors: string[] = [];
 
 export function EndGame() {
   const location = useLocation();
@@ -96,7 +59,7 @@ export function EndGame() {
 
         <a
           target="_blank"
-          href="https://github.com/withoutspaces"
+          href="https://github.com/withoutspaces/data-quiz2.0"
           className="flex items-center gap-2 ring-1 ring-indigo-600 p-2 rounded-md"
         >
           <i className="fa fa-github text-2xl" />
