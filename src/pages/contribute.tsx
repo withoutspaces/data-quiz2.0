@@ -1,6 +1,12 @@
-import { z } from "zod";
-import { useForm } from "react-hook-form";
 import { zodResolver } from "@hookform/resolvers/zod";
+import { useFirebase } from "@/hooks/useFirebase";
+import { useEffect } from "react";
+import { useForm } from "react-hook-form";
+import { Button } from "@/components/ui/button";
+import { toast } from "sonner";
+import { Input } from "@/components/ui/input";
+import { Logo } from "@/components/quiz/logo";
+import { z } from "zod";
 import {
   Form,
   FormControl,
@@ -10,8 +16,6 @@ import {
   FormMessage,
   FormDescription
 } from "@/components/ui/form";
-import { Input } from "@/components/ui/input";
-import { Button } from "@/components/ui/button";
 import {
   Select,
   SelectContent,
@@ -19,7 +23,8 @@ import {
   SelectTrigger,
   SelectValue,
 } from "@/components/ui/select";
-import { Logo } from "@/components/quiz/logo";
+
+
 
 const contributeSchema = z.object({
   question: z.string({
@@ -63,6 +68,27 @@ export function Contribute() {
   const form = useForm<ContributeFormData>({
     resolver: zodResolver(contributeSchema),
   });
+  console.log(form.getValues());
+  
+  const { addQuestion } = useFirebase()
+
+ 
+  function getUserInfo() {
+    const userInfo = localStorage.getItem("userInfo");
+    if (userInfo) {
+      const { name, githubProfile } = JSON.parse(userInfo);
+      form.setValue("name", name);
+      form.setValue("githubProfile", githubProfile);
+    }
+  }
+
+
+  function saveUserInfo() {
+    const name = form.getValues("name");
+    const githubProfile = form.getValues("githubProfile");
+    localStorage.setItem("userInfo", JSON.stringify({ name, githubProfile }));
+  }
+
 
   function onSubmit(data: ContributeFormData) {
     const createObjectToDatabase = {
@@ -72,14 +98,31 @@ export function Contribute() {
       category: data.category,
       difficulty: data.difficulty,
       contributor: data.name,
+      githubProfile: data.githubProfile,
       createdAt: new Date().toISOString(),
     };
-    console.log(createObjectToDatabase);
-    
+    saveUserInfo();
+    addQuestion(createObjectToDatabase)
+    .then(() => {
+      toast.success("Questão enviada com sucesso! Obrigado pela contribuição.")
+    })
+    .then(() => {
+      window.location.reload() 
+    })
+    .catch((err: Error) => {
+      toast.error(err.message)
+    })
   }
 
+  useEffect(() => {
+    form.reset()
+    console.log(form.getValues());
+    
+    getUserInfo();
+  }, []);
+
   return (
-    <div className="h-screen w-full flex justify-center items-center">
+    <div className="h-screen w-full flex justify-center items-start">
       <Form {...form}>
         <form
           onSubmit={form.handleSubmit(onSubmit)}
