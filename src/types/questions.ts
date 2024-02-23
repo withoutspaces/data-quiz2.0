@@ -17,3 +17,19 @@ export interface Questions {
     general: QuestionsDifficulty
     pop: QuestionsDifficulty
 }
+
+export interface QuestionData {
+    question: string,
+    correctAnswer: string,
+    alternatives: string[],
+    category: string,
+    difficulty: string,
+    contributor: string,
+    githubProfile: string,
+    createdAt: string,
+  };
+
+  export interface Category {
+    category: string;
+    difficulty: string;
+  }
