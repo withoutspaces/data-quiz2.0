@@ -1,4 +1,4 @@
-import { useLocation, useNavigate } from "react-router-dom";
+import { useNavigate } from "react-router-dom";
 import { Alternative } from "@/components/quiz/alternative";
 import { questoes } from "@/data/questions";
 import { useState } from "react";
