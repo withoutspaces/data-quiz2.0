@@ -1,55 +1,72 @@
-import { useNavigate } from "react-router-dom";
+import type { Category, Difficulty } from "../types/questions";
+import { useLocation, useNavigate } from "react-router-dom";
+import { useState, useMemo } from "react";
+import { ScoreDisplay } from "@/components/quiz/scoreDisplay";
 import { Alternative } from "@/components/quiz/alternative";
-import { questoes } from "@/data/questions";
-import { useState } from "react";
+import { useSound } from "@/hooks/useSound";
+import { shuffle } from "@/utils/shuffle";
 import { Button } from "@/components/ui/button";
 import { Title } from "@/components/quiz/title";
 import { toast } from "sonner";
 
-/*
-  *ideias* 
-  colocar botoes de proximo e anterior
-  salvar o estado das respostas anteriores
-  deixar o user livre para ir e voltar respondendo as questoes
-  
-*/
+import response from "../data/data.json";
+
+const TOTAL_QUESTIONS = 10;
+const LAST_QUESTION_INDEX = TOTAL_QUESTIONS - 1;
+
 export function Game() {
+  const [currentAlternativeSelected, setCurrentAlternativeSelected] = useState<
+    string | null
+  >(null);
+  const [showRightAlternative, setShowRightAlternative] = useState(false);
   const [currentQuestion, setCurrentQuestion] = useState(0);
-  const [correctAnswers, setCorrectAnswers] = useState(0);
-  const [currentAlternativeSelected, setCurrentAlternativeSelected] = useState<string | null>(null);
-  // const location = useLocation();
+  const [currentScore, setCurrentScore] = useState(0);
+
   const navigate = useNavigate();
+  const { category, difficulty } = useLocation().state as {
+    category: Category;
+    difficulty: Difficulty;
+  };
 
   const { alternatives, correctAnswer, question } =
-    questoes.general.easy[currentQuestion];
+    response[category][difficulty][currentQuestion];
+
+  const shuffledAlternatives = useMemo(() => {
+    return shuffle(alternatives);
+  }, [alternatives]);
+
+  const { playSound: playCorretSound } = useSound(
+    "/src/assets/sounds/correct.mp3"
+  );
+  const { playSound: playWrongSound } = useSound(
+    "/src/assets/sounds/wrong.mp3"
+  );
 
   function handleClickedOption(alternative: string) {
     setCurrentAlternativeSelected(alternative);
   }
 
+  function handleEndGame() {
+    navigate("/end", {
+      state: { score: currentScore, numberOfQuestions: TOTAL_QUESTIONS },
+    });
+  }
+
   function verifyAnswer() {
-    if(currentAlternativeSelected === correctAnswer) {
-      setCorrectAnswers(correctAnswers + 1);
+    setShowRightAlternative(true);
+    if (currentAlternativeSelected === correctAnswer) {
+      setCurrentScore((prev) => prev + 1);
+      playCorretSound();
       toast.success("Resposta correta");
-      return ;
+    } else {
+      playWrongSound();
+      toast.error("Resposta incorreta");
     }
-    toast.error("Resposta incorreta");
   }
 
   function handleNextQuestion() {
-    if (!currentAlternativeSelected) {
-      toast.warning("Selecione uma alternativa");
-      return;
-    }
-    verifyAnswer()
-    if(currentQuestion === 9 && currentAlternativeSelected) {
-      navigate("/end", { state: { correctAnswers } })
-    }
+    setShowRightAlternative(false);
     setCurrentAlternativeSelected(null);
-    setCurrentQuestion(currentQuestion + 1);
-  }
-
-  function handleJumpQuestion() {
     setCurrentQuestion(currentQuestion + 1);
   }
 
@@ -60,56 +77,59 @@ export function Game() {
         <h1 className="font-bold tracking-tighter text-xl">DataQuiz</h1>
       </div>
 
-      <div className="flex gap-4 items-center">
-        <span className="font-semibold">Questão: {currentQuestion + 1}/10</span>
-        {currentQuestion > 0 && (
-          <>
-            <div className="ring-1 ring-indigo-400 py-1 pl-1 pr-2 flex gap-1 rounded-sm">
-              <span>✅</span>
-              <p>{correctAnswers}</p>
-            </div>
-            <div className="ring-1 ring-indigo-400 py-1 pl-1 pr-2 flex gap-1 rounded-sm">
-              <span>❌</span>
-              <p>{currentQuestion - correctAnswers}</p>
-            </div>
-          </>
-        )}
-      </div>
+      <ScoreDisplay
+        currentQuestion={currentQuestion}
+        currentScore={currentScore}
+      />
 
       <Title title={question} />
 
       <div className="flex flex-col min-w-80 gap-4">
-        {alternatives.map((alternative, index) => (
+        {shuffledAlternatives.map((alternative, index) => (
           <Alternative
+            isRight={showRightAlternative && alternative === correctAnswer}
+            isWrong={showRightAlternative && alternative !== correctAnswer}
             selected={currentAlternativeSelected === alternative}
+            disabled={showRightAlternative}
             handleClickedOption={() => handleClickedOption(alternative)}
-            alternative={alternative}
             key={index}
-          />
+          >
+            {alternative}
+          </Alternative>
         ))}
       </div>
 
-      <div className="space-x-4">
+      {currentQuestion === LAST_QUESTION_INDEX && showRightAlternative ? (
         <Button
-          onClick={handleNextQuestion}
+          disabled={currentAlternativeSelected == null}
           variant="default"
-          className="bg-indigo-700 text-white p-4 rounded-md w-28 outline-none
-            hover:bg-indigo-800 hover:scale-110 ease-in-out transition-all active:bg-indigo-800
-             active:scale-110"
+          onClick={handleEndGame}
+          className="bg-green-700 hover:bg-green-800 hover:scale-110 transition-all ease-in-out w-4/5 md:w-1/5"
         >
-          {currentQuestion === 9 ? "Finalizar" : "Próximo"}
+          Finalizar
         </Button>
+      ) : showRightAlternative ? (
         <Button
-          onClick={handleJumpQuestion}
-          disabled={currentQuestion === 9}
-          variant="destructive"
-          className="text-white p-4 rounded-md w-28 outline-none
-            hover:bg-red-700 hover:scale-110 ease-in-out transition-all active:bg-red-700
-            active:scale-110"
+          onClick={() => handleNextQuestion()}
+          variant="default"
+          className="bg-indigo-700 text-white p-4 rounded-md outline-none
+          hover:bg-indigo-800 hover:scale-110 ease-in-out transition-all active:bg-indigo-800
+          active:scale-110 disabled:cursor-not-allowed w-4/5 md:w-1/5"
         >
-          Pular
+          Próxima pergunta
         </Button>
-      </div>
+      ) : (
+        <Button
+          disabled={currentAlternativeSelected == null}
+          onClick={() => verifyAnswer()}
+          variant="default"
+          className="bg-indigo-700 text-white p-4 rounded-md outline-none
+          hover:bg-indigo-800 hover:scale-110 ease-in-out transition-all active:bg-indigo-800
+          active:scale-110 disabled:cursor-not-allowed w-4/5 md:w-1/5"
+        >
+          Confirmar
+        </Button>
+      )}
     </div>
   );
 }

@@ -14,7 +14,7 @@ import {
   FormItem,
   FormLabel,
   FormMessage,
-  FormDescription
+  FormDescription,
 } from "@/components/ui/form";
 import {
   Select,
@@ -23,8 +23,6 @@ import {
   SelectTrigger,
   SelectValue,
 } from "@/components/ui/select";
-
-
 
 const contributeSchema = z.object({
   question: z.string({
@@ -42,24 +40,30 @@ const contributeSchema = z.object({
   wrongAnswer3: z.string({
     required_error: "Digite uma resposta incorreta",
   }),
-  category: z.string({
-    required_error: "Selecione uma categoria",
-  }).min(1, {
-    message: "Selecione uma categoria",
-  }),
-  difficulty: z.string({
-    required_error: "Selecione uma dificuldade",
-  }).min(1, {
-    message: "Selecione uma dificuldade",
-  }),
+  category: z
+    .string({
+      required_error: "Selecione uma categoria",
+    })
+    .min(1, {
+      message: "Selecione uma categoria",
+    }),
+  difficulty: z
+    .string({
+      required_error: "Selecione uma dificuldade",
+    })
+    .min(1, {
+      message: "Selecione uma dificuldade",
+    }),
   name: z.string({
     required_error: "Digite seu nome",
   }),
-  githubProfile: z.string({
-    required_error: "Digite seu perfil do GitHub",
-  }).url({
-    message: "Digite um perfil do GitHub válido",
-  }),
+  githubProfile: z
+    .string({
+      required_error: "Digite seu perfil do GitHub",
+    })
+    .url({
+      message: "Digite um perfil do GitHub válido",
+    }),
 });
 
 type ContributeFormData = z.infer<typeof contributeSchema>;
@@ -69,10 +73,9 @@ export function Contribute() {
     resolver: zodResolver(contributeSchema),
   });
   console.log(form.getValues());
-  
-  const { addQuestion } = useFirebase()
 
- 
+  const { addQuestion } = useFirebase();
+
   function getUserInfo() {
     const userInfo = localStorage.getItem("userInfo");
     if (userInfo) {
@@ -82,19 +85,22 @@ export function Contribute() {
     }
   }
 
-
   function saveUserInfo() {
     const name = form.getValues("name");
     const githubProfile = form.getValues("githubProfile");
     localStorage.setItem("userInfo", JSON.stringify({ name, githubProfile }));
   }
 
-
   function onSubmit(data: ContributeFormData) {
     const createObjectToDatabase = {
       question: data.question,
       correctAnswer: data.correctAnswer,
-      alternatives: [data.wrongAnswer1, data.wrongAnswer2, data.wrongAnswer3, data.correctAnswer],
+      alternatives: [
+        data.wrongAnswer1,
+        data.wrongAnswer2,
+        data.wrongAnswer3,
+        data.correctAnswer,
+      ],
       category: data.category,
       difficulty: data.difficulty,
       contributor: data.name,
@@ -103,21 +109,23 @@ export function Contribute() {
     };
     saveUserInfo();
     addQuestion(createObjectToDatabase)
-    .then(() => {
-      toast.success("Questão enviada com sucesso! Obrigado pela contribuição.")
-    })
-    .then(() => {
-      window.location.reload() 
-    })
-    .catch((err: Error) => {
-      toast.error(err.message)
-    })
+      .then(() => {
+        toast.success(
+          "Questão enviada com sucesso! Obrigado pela contribuição."
+        );
+      })
+      .then(() => {
+        window.location.reload();
+      })
+      .catch((err: Error) => {
+        toast.error(err.message);
+      });
   }
 
   useEffect(() => {
-    form.reset()
+    form.reset();
     console.log(form.getValues());
-    
+
     getUserInfo();
   }, []);
 
@@ -128,7 +136,7 @@ export function Contribute() {
           onSubmit={form.handleSubmit(onSubmit)}
           className="w-4/5 md:w-3/5 md:bg-indigo-50 md:p-12 space-y-4 md:text-indigo-900 rounded-sm"
         >
-          <Logo small/>
+          <Logo small />
           <h1 className="text-3xl font-bold tracking-tighter">
             Cadastrar nova questão
           </h1>
@@ -137,7 +145,6 @@ export function Contribute() {
             name="question"
             render={({ field }) => (
               <FormItem>
-                <FormLabel>Enunciado</FormLabel>
                 <FormControl>
                   <Input
                     {...field}
@@ -294,8 +301,9 @@ export function Contribute() {
                 <FormControl>
                   <Input
                     {...field}
-                    placeholder="https://github.com/"
+                    // placeholder="https://github.com/"
                     className="bg-indigo-200 text-indigo-950 focus-visible:ring-indigo-500"
+                    defaultValue={"https://github.com/"}
                   />
                 </FormControl>
                 <FormDescription>
@@ -305,10 +313,7 @@ export function Contribute() {
               </FormItem>
             )}
           />
-          <Button
-            type="submit"
-            className="bg-indigo-800 self-center w-1/2"
-          >
+          <Button type="submit" className="bg-indigo-800 self-center w-1/2">
             Enviar
           </Button>
         </form>

@@ -1,0 +1,2292 @@
+{
+  "history": {
+    "easy": [
+      {
+        "question": "Qual foi o ano da Proclamação da República do Brasil?",
+        "alternatives": [
+          "1889",
+          "1822",
+          "1900",
+          "1898"
+        ],
+        "correctAnswer": "1889",
+        "category": "history",
+        "contributor": "Daniel Moreira",
+        "createdAt": "2025-07-19T17:36:33.860421Z",
+        "difficulty": "easy",
+        "githubProfile": ""
+      },
+      {
+        "question": "Quem foi o primeiro imperador do Brasil?",
+        "alternatives": [
+          "Dom Pedro I",
+          "Dom Pedro II",
+          "Princesa Isabel",
+          "Marechal Deodoro da Fonseca"
+        ],
+        "correctAnswer": "Dom Pedro I",
+        "category": "history",
+        "contributor": "Daniel Moreira",
+        "createdAt": "2025-07-19T17:36:33.860421Z",
+        "difficulty": "easy",
+        "githubProfile": ""
+      },
+      {
+      "question": "Em que ano o homem pisou na Lua pela primeira vez?",
+        "alternatives": [
+          "1969",
+          "1959",
+          "1979",
+          "1989"
+        ],
+        "correctAnswer": "1969",
+        "category": "history",
+        "contributor": "Daniel Moreira",
+        "createdAt": "2025-07-19T17:36:33.860421Z",
+        "difficulty": "easy",
+        "githubProfile": ""
+      },
+      {
+        "question": "Qual civilização construiu as pirâmides de Gizé?",
+        "alternatives": [
+          "Egípcia",
+          "Romana",
+          "Grega",
+          "Maia"
+        ],
+        "correctAnswer": "Egípcia",
+        "category": "history",
+        "contributor": "Daniel Moreira",
+        "createdAt": "2025-07-19T17:36:33.860421Z",
+        "difficulty": "easy",
+        "githubProfile": ""
+      },
+      {
+        "question": "Quem foi o líder da Revolução Cubana?",
+        "alternatives": [
+          "Fidel Castro",
+          "Che Guevara",
+          "Raúl Castro",
+          "Fulgêncio Batista"
+        ],
+        "correctAnswer": "Fidel Castro",
+        "category": "history",
+        "contributor": "Daniel Moreira",
+        "createdAt": "2025-07-19T17:36:33.860421Z",
+        "difficulty": "easy",
+        "githubProfile": ""
+      },
+      {
+        "question": "Qual era o nome do navio que afundou em 1912 após colidir com um iceberg?",
+        "alternatives": [
+          "Titanic",
+          "Britannic",
+          "Olympic",
+          "Lusitania"
+        ],
+        "correctAnswer": "Titanic",
+        "category": "history",
+        "contributor": "Daniel Moreira",
+        "createdAt": "2025-07-19T17:36:33.860421Z",
+        "difficulty": "easy",
+        "githubProfile": ""
+      },
+      {
+        "question": "Quem pintou a Mona Lisa?",
+        "alternatives": [
+          "Leonardo da Vinci",
+          "Michelangelo",
+          "Raphael",
+          "Donatello"
+        ],
+        "correctAnswer": "Leonardo da Vinci",
+        "category": "history",
+        "contributor": "Daniel Moreira",
+        "createdAt": "2025-07-19T17:36:33.860421Z",
+        "difficulty": "easy",
+        "githubProfile": ""
+      },
+      {
+        "question": "Em que país nasceu Adolf Hitler?",
+        "alternatives": [
+          "Áustria",
+          "Alemanha",
+          "França",
+          "Itália"
+        ],
+        "correctAnswer": "Áustria",
+        "category": "history",
+        "contributor": "Daniel Moreira",
+        "createdAt": "2025-07-19T17:36:33.860421Z",
+        "difficulty": "easy",
+        "githubProfile": ""
+      },
+      {
+        "question": "Qual evento marcou o início da Segunda Guerra Mundial na Europa?",
+        "alternatives": [
+          "Invasão da Polônia pela Alemanha",
+          "Ataque a Pearl Harbor",
+          "Batalha de Stalingrado",
+          "Queda do Muro de Berlim"
+        ],
+        "correctAnswer": "Invasão da Polônia pela Alemanha",
+        "category": "history",
+        "contributor": "Daniel Moreira",
+        "createdAt": "2025-07-19T17:36:33.860421Z",
+        "difficulty": "easy",
+        "githubProfile": ""
+      },
+      {
+        "question": "Quem foi o primeiro presidente dos Estados Unidos?",
+        "alternatives": [
+          "George Washington",
+          "Abraham Lincoln",
+          "Thomas Jefferson",
+          "John Adams"
+        ],
+        "correctAnswer": "George Washington",
+        "category": "history",
+        "contributor": "Daniel Moreira",
+        "createdAt": "2025-07-19T17:36:33.860421Z",
+        "difficulty": "easy",
+        "githubProfile": ""
+      }
+    ],
+    "medium": [
+      {
+        "question": "Qual tratado encerrou oficialmente a Primeira Guerra Mundial?",
+        "alternatives": [
+          "Tratado de Versalhes",
+          "Tratado de Paris",
+          "Tratado de Tordesilhas",
+          "Tratado de Roma"
+        ],
+        "correctAnswer": "Tratado de Versalhes",
+        "category": "history",
+        "contributor": "Daniel Moreira",
+        "createdAt": "2025-07-19T17:36:33.860421Z",
+        "difficulty": "medium",
+        "githubProfile": ""
+      },
+      {
+        "question": "Quem foi o líder pacifista que defendeu a independência da Índia através da desobediência civil?",
+        "alternatives": [
+          "Mahatma Gandhi",
+          "Jawaharlal Nehru",
+          "Nelson Mandela",
+          "Martin Luther King Jr."
+        ],
+        "correctAnswer": "Mahatma Gandhi",
+        "category": "history",
+        "contributor": "Daniel Moreira",
+        "createdAt": "2025-07-19T17:36:33.860421Z",
+        "difficulty": "medium",
+        "githubProfile": ""
+      },
+      {
+        "question": "A Guerra dos Cem Anos foi travada entre quais dois países?",
+        "alternatives": [
+          "Inglaterra e França",
+          "Alemanha e Rússia",
+          "Espanha e Portugal",
+          "Itália e Áustria"
+        ],
+        "correctAnswer": "Inglaterra e França",
+        "category": "history",
+        "contributor": "Daniel Moreira",
+        "createdAt": "2025-07-19T17:36:33.860421Z",
+        "difficulty": "medium",
+        "githubProfile": ""
+      },
+      {
+        "question": "Qual imperador romano tornou o cristianismo a religião oficial do Império Romano?",
+        "alternatives": [
+          "Teodósio I",
+          "Constantino I",
+          "Nero",
+          "Augusto"
+        ],
+        "correctAnswer": "Teodósio I",
+        "category": "history",
+        "contributor": "Daniel Moreira",
+        "createdAt": "2025-07-19T17:36:33.860421Z",
+        "difficulty": "medium",
+        "githubProfile": ""
+      },
+      {
+        "question": "Em que ano a Queda do Muro de Berlim aconteceu?",
+        "alternatives": [
+          "1989",
+          "1991",
+          "1985",
+          "1990"
+        ],
+        "correctAnswer": "1989",
+        "category": "history",
+        "contributor": "Daniel Moreira",
+        "createdAt": "2025-07-19T17:36:33.860421Z",
+        "difficulty": "medium",
+        "githubProfile": ""
+      },
+      {
+        "question": "Qual civilização antiga é conhecida por desenvolver a escrita cuneiforme?",
+        "alternatives": [
+          "Mesopotâmica",
+          "Egípcia",
+          "Grega",
+          "Romana"
+        ],
+        "correctAnswer": "Mesopotâmica",
+        "category": "history",
+        "contributor": "Daniel Moreira",
+        "createdAt": "2025-07-19T17:36:33.860421Z",
+        "difficulty": "medium",
+        "githubProfile": ""
+      },
+      {
+        "question": "Quem foi o faraó egípcio cujo túmulo foi descoberto quase intacto em 1922?",
+        "alternatives": [
+          "Tutancâmon",
+          "Ramsés II",
+          "Cleópatra",
+          "Akhenaton"
+        ],
+        "correctAnswer": "Tutancâmon",
+        "category": "history",
+        "contributor": "Daniel Moreira",
+        "createdAt": "2025-07-19T17:36:33.860421Z",
+        "difficulty": "medium",
+        "githubProfile": ""
+      },
+      {
+        "question": "Qual batalha naval foi decisiva para a vitória dos Aliados na Guerra do Pacífico durante a Segunda Guerra Mundial?",
+        "alternatives": [
+          "Batalha de Midway",
+          "Batalha de Pearl Harbor",
+          "Batalha de Iwo Jima",
+          "Batalha de Okinawa"
+        ],
+        "correctAnswer": "Batalha de Midway",
+        "category": "history",
+        "contributor": "Daniel Moreira",
+        "createdAt": "2025-07-19T17:36:33.860421Z",
+        "difficulty": "medium",
+        "githubProfile": ""
+      },
+      {
+        "question": "Quem foi o principal autor da Declaração de Independência dos Estados Unidos?",
+        "alternatives": [
+          "Thomas Jefferson",
+          "George Washington",
+          "Benjamin Franklin",
+          "John Adams"
+        ],
+        "correctAnswer": "Thomas Jefferson",
+        "category": "history",
+        "contributor": "Daniel Moreira",
+        "createdAt": "2025-07-19T17:36:33.860421Z",
+        "difficulty": "medium",
+        "githubProfile": ""
+      },
+      {
+        "question": "Qual evento é considerado o estopim da Revolução Francesa?",
+        "alternatives": [
+          "Queda da Bastilha",
+          "Tomada do Palácio de Inverno",
+          "Revolta dos Boxers",
+          "Marcha sobre Roma"
+        ],
+        "correctAnswer": "Queda da Bastilha",
+        "category": "history",
+        "contributor": "Daniel Moreira",
+        "createdAt": "2025-07-19T17:36:33.860421Z",
+        "difficulty": "medium",
+        "githubProfile": ""
+      }
+    ],
+    "hard": [
+      {
+        "question": "Qual foi o nome do plano econômico americano para ajudar a reconstruir a Europa após a Segunda Guerra Mundial?",
+        "alternatives": [
+          "Plano Marshall",
+          "Doutrina Truman",
+          "Plano Colombo",
+          "Plano Morgenthau"
+        ],
+        "correctAnswer": "Plano Marshall",
+        "category": "history",
+        "contributor": "Daniel Moreira",
+        "createdAt": "2025-07-19T17:36:33.860421Z",
+        "difficulty": "hard",
+        "githubProfile": ""
+      },
+      {
+        "question": "Quem foi a rainha egípcia que teve um romance com Júlio César e Marco Antônio?",
+        "alternatives": [
+          "Cleópatra VII",
+          "Nefertiti",
+          "Hatshepsut",
+          "Ankhesenamun"
+        ],
+        "correctAnswer": "Cleópatra VII",
+        "category": "history",
+        "contributor": "Daniel Moreira",
+        "createdAt": "2025-07-19T17:36:33.860421Z",
+        "difficulty": "hard",
+        "githubProfile": ""
+      },
+      {
+        "question": "Qual foi o nome da revolta de escravos liderada por Spartacus na Roma Antiga?",
+        "alternatives": [
+          "Terceira Guerra Servil",
+          "Revolta de Spartacus",
+          "Guerra Social",
+          "Revolta dos Gladiadores"
+        ],
+        "correctAnswer": "Terceira Guerra Servil",
+        "category": "history",
+        "contributor": "Daniel Moreira",
+        "createdAt": "2025-07-19T17:36:33.860421Z",
+        "difficulty": "hard",
+        "githubProfile": ""
+      },
+      {
+        "question": "Em que ano ocorreu o massacre da Praça da Paz Celestial na China?",
+        "alternatives": [
+          "1989",
+          "1979",
+          "1999",
+          "1969"
+        ],
+        "correctAnswer": "1989",
+        "category": "history",
+        "contributor": "Daniel Moreira",
+        "createdAt": "2025-07-19T17:36:33.860421Z",
+        "difficulty": "hard",
+        "githubProfile": ""
+      },
+      {
+        "question": "Qual foi o nome da dinastia que unificou a China pela primeira vez?",
+        "alternatives": [
+          "Dinastia Qin",
+          "Dinastia Han",
+          "Dinastia Tang",
+          "Dinastia Ming"
+        ],
+        "correctAnswer": "Dinastia Qin",
+        "category": "history",
+        "contributor": "Daniel Moreira",
+        "createdAt": "2025-07-19T17:36:33.860421Z",
+        "difficulty": "hard",
+        "githubProfile": ""
+      },
+      {
+        "question": "Quem foi o navegador português que realizou a primeira circunavegação completa da Terra?",
+        "alternatives": [
+          "Fernão de Magalhães",
+          "Vasco da Gama",
+          "Cristóvão Colombo",
+          "Pedro Álvares Cabral"
+        ],
+        "correctAnswer": "Fernão de Magalhães",
+        "category": "history",
+        "contributor": "Daniel Moreira",
+        "createdAt": "2025-07-19T17:36:33.860421Z",
+        "difficulty": "hard",
+        "githubProfile": ""
+      },
+      {
+        "question": "Qual foi a principal causa da Guerra do Ópio entre a Grã-Bretanha e a China no século XIX?",
+        "alternatives": [
+          "Comércio de ópio",
+          "Disputas territoriais",
+          "Conflitos religiosos",
+          "Questões dinásticas"
+        ],
+        "correctAnswer": "Comércio de ópio",
+        "category": "history",
+        "contributor": "Daniel Moreira",
+        "createdAt": "2025-07-19T17:36:33.860421Z",
+        "difficulty": "hard",
+        "githubProfile": ""
+      },
+      {
+        "question": "Quem foi o último czar da Rússia antes da Revolução Russa de 1917?",
+        "alternatives": [
+          "Nicolau II",
+          "Alexandre III",
+          "Pedro, o Grande",
+          "Ivan, o Terrível"
+        ],
+        "correctAnswer": "Nicolau II",
+        "category": "history",
+        "contributor": "Daniel Moreira",
+        "createdAt": "2025-07-19T17:36:33.860421Z",
+        "difficulty": "hard",
+        "githubProfile": ""
+      },
+      {
+        "question": "Qual foi o nome da operação aliada de desembarque na Normandia durante a Segunda Guerra Mundial?",
+        "alternatives": [
+          "Operação Overlord",
+          "Operação Barbarossa",
+          "Operação Torch",
+          "Operação Husky"
+        ],
+        "correctAnswer": "Operação Overlord",
+        "category": "history",
+        "contributor": "Daniel Moreira",
+        "createdAt": "2025-07-19T17:36:33.860421Z",
+        "difficulty": "hard",
+        "githubProfile": ""
+      },
+      {
+        "question": "Qual tratado estabeleceu a divisão da Alemanha após a Segunda Guerra Mundial?",
+        "alternatives": [
+          "Acordo de Potsdam",
+          "Tratado de Genebra",
+          "Pacto de Varsóvia",
+          "Tratado de Maastricht"
+        ],
+        "correctAnswer": "Acordo de Potsdam",
+        "category": "history",
+        "contributor": "Daniel Moreira",
+        "createdAt": "2025-07-19T17:36:33.860421Z",
+        "difficulty": "hard",
+        "githubProfile": ""
+      }
+    ]
+  },
+  "science": {
+    "easy": [
+      {
+        "question": "Qual é o planeta mais próximo do Sol?",
+        "alternatives": [
+          "Mercúrio",
+          "Vênus",
+          "Terra",
+          "Marte"
+        ],
+        "correctAnswer": "Mercúrio",
+        "category": "science",
+        "contributor": "Daniel Moreira",
+        "createdAt": "2025-07-19T17:36:33.860421Z",
+        "difficulty": "easy",
+        "githubProfile": ""
+      },
+      {
+        "question": "Qual gás as plantas absorvem da atmosfera para fazer fotossíntese?",
+        "alternatives": [
+          "Dióxido de carbono",
+          "Oxigênio",
+          "Nitrogênio",
+          "Metano"
+        ],
+        "correctAnswer": "Dióxido de carbono",
+        "category": "science",
+        "contributor": "Daniel Moreira",
+        "createdAt": "2025-07-19T17:36:33.860421Z",
+        "difficulty": "easy",
+        "githubProfile": ""
+      },
+      {
+        "question": "Qual é o nome do processo pelo qual a água evapora das folhas das plantas?",
+        "alternatives": [
+          "Transpiração",
+          "Evaporação",
+          "Condensação",
+          "Precipitação"
+        ],
+        "correctAnswer": "Transpiração",
+        "category": "science",
+        "contributor": "Daniel Moreira",
+        "createdAt": "2025-07-19T17:36:33.860421Z",
+        "difficulty": "easy",
+        "githubProfile": ""
+      },
+      {
+        "question": "Qual é a unidade básica da vida?",
+        "alternatives": [
+          "Célula",
+          "Átomo",
+          "Molécula",
+          "Tecido"
+        ],
+        "correctAnswer": "Célula",
+        "category": "science",
+        "contributor": "Daniel Moreira",
+        "createdAt": "2025-07-19T17:36:33.860421Z",
+        "difficulty": "easy",
+        "githubProfile": ""
+      },
+      {
+        "question": "Qual é a força que nos puxa para o centro da Terra?",
+        "alternatives": [
+          "Gravidade",
+          "Magnetismo",
+          "Eletricidade",
+          "Fricção"
+        ],
+        "correctAnswer": "Gravidade",
+        "category": "science",
+        "contributor": "Daniel Moreira",
+        "createdAt": "2025-07-19T17:36:33.860421Z",
+        "difficulty": "easy",
+        "githubProfile": ""
+      },
+      {
+        "question": "Qual é o principal componente do ar que respiramos?",
+        "alternatives": [
+          "Nitrogênio",
+          "Oxigênio",
+          "Dióxido de carbono",
+          "Argônio"
+        ],
+        "correctAnswer": "Nitrogênio",
+        "category": "science",
+        "contributor": "Daniel Moreira",
+        "createdAt": "2025-07-19T17:36:33.860421Z",
+        "difficulty": "easy",
+        "githubProfile": ""
+      },
+      {
+        "question": "Qual é o maior órgão do corpo humano?",
+        "alternatives": [
+          "Pele",
+          "Fígado",
+          "Coração",
+          "Cérebro"
+        ],
+        "correctAnswer": "Pele",
+        "category": "science",
+        "contributor": "Daniel Moreira",
+        "createdAt": "2025-07-19T17:36:33.860421Z",
+        "difficulty": "easy",
+        "githubProfile": ""
+      },
+      {
+        "question": "Qual é a capital do Brasil?",
+        "alternatives": [
+          "Brasília",
+          "Rio de Janeiro",
+          "São Paulo",
+          "Salvador"
+        ],
+        "correctAnswer": "Brasília",
+        "category": "science",
+        "contributor": "Daniel Moreira",
+        "createdAt": "2025-07-19T17:36:33.860421Z",
+        "difficulty": "easy",
+        "githubProfile": ""
+      },
+      {
+        "question": "Qual é o processo pelo qual a água congela?",
+        "alternatives": [
+          "Solidificação",
+          "Evaporação",
+          "Fusão",
+          "Sublimação"
+        ],
+        "correctAnswer": "Solidificação",
+        "category": "science",
+        "contributor": "Daniel Moreira",
+        "createdAt": "2025-07-19T17:36:33.860421Z",
+        "difficulty": "easy",
+        "githubProfile": ""
+      },
+      {
+        "question": "Qual é o animal terrestre mais rápido?",
+        "alternatives": [
+          "Guepardo",
+          "Leão",
+          "Antílope",
+          "Cavalo"
+        ],
+        "correctAnswer": "Guepardo",
+        "category": "science",
+        "contributor": "Daniel Moreira",
+        "createdAt": "2025-07-19T17:36:33.860421Z",
+        "difficulty": "easy",
+        "githubProfile": ""
+      }
+    ],
+    "medium": [
+      {
+        "question": "Qual cientista formulou a teoria da relatividade?",
+        "alternatives": [
+          "Albert Einstein",
+          "Isaac Newton",
+          "Galileu Galilei",
+          "Marie Curie"
+        ],
+        "correctAnswer": "Albert Einstein",
+        "category": "science",
+        "contributor": "Daniel Moreira",
+        "createdAt": "2025-07-19T17:36:33.860421Z",
+        "difficulty": "medium",
+        "githubProfile": ""
+      },
+      {
+        "question": "Qual é o nome da galáxia em que o nosso sistema solar está localizado?",
+        "alternatives": [
+          "Via Láctea",
+          "Andrômeda",
+          "Triângulo",
+          "Redemoinho"
+        ],
+        "correctAnswer": "Via Láctea",
+        "category": "science",
+        "contributor": "Daniel Moreira",
+        "createdAt": "2025-07-19T17:36:33.860421Z",
+        "difficulty": "medium",
+        "githubProfile": ""
+      },
+      {
+        "question": "Qual é a parte do olho que controla a quantidade de luz que entra?",
+        "alternatives": [
+          "Íris",
+          "Pupila",
+          "Retina",
+          "Córnea"
+        ],
+        "correctAnswer": "Íris",
+        "category": "science",
+        "contributor": "Daniel Moreira",
+        "createdAt": "2025-07-19T17:36:33.860421Z",
+        "difficulty": "medium",
+        "githubProfile": ""
+      },
+      {
+        "question": "Qual é o elemento químico mais abundante na crosta terrestre?",
+        "alternatives": [
+          "Oxigênio",
+          "Silício",
+          "Alumínio",
+          "Ferro"
+        ],
+        "correctAnswer": "Oxigênio",
+        "category": "science",
+        "contributor": "Daniel Moreira",
+        "createdAt": "2025-07-19T17:36:33.860421Z",
+        "difficulty": "medium",
+        "githubProfile": ""
+      },
+      {
+        "question": "Qual é a menor partícula de um elemento que ainda retém as propriedades desse elemento?",
+        "alternatives": [
+          "Átomo",
+          "Molécula",
+          "Elétron",
+          "Próton"
+        ],
+        "correctAnswer": "Átomo",
+        "category": "science",
+        "contributor": "Daniel Moreira",
+        "createdAt": "2025-07-19T17:36:33.860421Z",
+        "difficulty": "medium",
+        "githubProfile": ""
+      },
+      {
+        "question": "Qual é o nome da camada da atmosfera terrestre que contém a camada de ozônio?",
+        "alternatives": [
+          "Estratosfera",
+          "Troposfera",
+          "Mesosfera",
+          "Termosfera"
+        ],
+        "correctAnswer": "Estratosfera",
+        "category": "science",
+        "contributor": "Daniel Moreira",
+        "createdAt": "2025-07-19T17:36:33.860421Z",
+        "difficulty": "medium",
+        "githubProfile": ""
+      },
+      {
+        "question": "Qual tipo de rocha é formado a partir do resfriamento e solidificação do magma ou lava?",
+        "alternatives": [
+          "Ígnea",
+          "Sedimentar",
+          "Metamórfica",
+          "Vulcânica"
+        ],
+        "correctAnswer": "Ígnea",
+        "category": "science",
+        "contributor": "Daniel Moreira",
+        "createdAt": "2025-07-19T17:36:33.860421Z",
+        "difficulty": "medium",
+        "githubProfile": ""
+      },
+      {
+        "question": "Qual é o processo pelo qual os organismos se adaptam ao seu ambiente ao longo do tempo?",
+        "alternatives": [
+          "Evolução",
+          "Mutação",
+          "Seleção natural",
+          "Adaptação"
+        ],
+        "correctAnswer": "Evolução",
+        "category": "science",
+        "contributor": "Daniel Moreira",
+        "createdAt": "2025-07-19T17:36:33.860421Z",
+        "difficulty": "medium",
+        "githubProfile": ""
+      },
+      {
+        "question": "Qual é o nome do cientista que é considerado o pai da genética?",
+        "alternatives": [
+          "Gregor Mendel",
+          "Charles Darwin",
+          "Louis Pasteur",
+          "Robert Hooke"
+        ],
+        "correctAnswer": "Gregor Mendel",
+        "category": "science",
+        "contributor": "Daniel Moreira",
+        "createdAt": "2025-07-19T17:36:33.860421Z",
+        "difficulty": "medium",
+        "githubProfile": ""
+      },
+      {
+        "question": "Qual é a função dos glóbulos vermelhos no sangue?",
+        "alternatives": [
+          "Transportar oxigênio",
+          "Combater infecções",
+          "Coagular o sangue",
+          "Produzir anticorpos"
+        ],
+        "correctAnswer": "Transportar oxigênio",
+        "category": "science",
+        "contributor": "Daniel Moreira",
+        "createdAt": "2025-07-19T17:36:33.860421Z",
+        "difficulty": "medium",
+        "githubProfile": ""
+      }
+    ],
+    "hard": [
+      {
+        "question": "Qual é o nome do efeito pelo qual a luz se dobra ao passar de um meio para outro?",
+        "alternatives": [
+          "Refração",
+          "Reflexão",
+          "Difração",
+          "Dispersão"
+        ],
+        "correctAnswer": "Refração",
+        "category": "science",
+        "contributor": "Daniel Moreira",
+        "createdAt": "2025-07-19T17:36:33.860421Z",
+        "difficulty": "hard",
+        "githubProfile": ""
+      },
+      {
+        "question": "Qual é a teoria que descreve a origem e evolução do universo a partir de um ponto singular?",
+        "alternatives": [
+          "Teoria do Big Bang",
+          "Teoria do Estado Estacionário",
+          "Teoria da Inflação Cósmica",
+          "Teoria das Cordas"
+        ],
+        "correctAnswer": "Teoria do Big Bang",
+        "category": "science",
+        "contributor": "Daniel Moreira",
+        "createdAt": "2025-07-19T17:36:33.860421Z",
+        "difficulty": "hard",
+        "githubProfile": ""
+      },
+      {
+        "question": "Qual é o nome da partícula subatômica que não possui carga elétrica?",
+        "alternatives": [
+          "Nêutron",
+          "Próton",
+          "Elétron",
+          "Fóton"
+        ],
+        "correctAnswer": "Nêutron",
+        "category": "science",
+        "contributor": "Daniel Moreira",
+        "createdAt": "2025-07-19T17:36:33.860421Z",
+        "difficulty": "hard",
+        "githubProfile": ""
+      },
+      {
+        "question": "Qual é o processo pelo qual as estrelas produzem energia?",
+        "alternatives": [
+          "Fusão nuclear",
+          "Fissão nuclear",
+          "Combustão",
+          "Reação química"
+        ],
+        "correctAnswer": "Fusão nuclear",
+        "category": "science",
+        "contributor": "Daniel Moreira",
+        "createdAt": "2025-07-19T17:36:33.860421Z",
+        "difficulty": "hard",
+        "githubProfile": ""
+      },
+      {
+        "question": "Qual é o nome do maior osso do corpo humano?",
+        "alternatives": [
+          "Fêmur",
+          "Tíbia",
+          "Úmero",
+          "Mandíbula"
+        ],
+        "correctAnswer": "Fêmur",
+        "category": "science",
+        "contributor": "Daniel Moreira",
+        "createdAt": "2025-07-19T17:36:33.860421Z",
+        "difficulty": "hard",
+        "githubProfile": ""
+      },
+      {
+        "question": "Qual é o nome do fenômeno óptico que causa a formação de arco-íris?",
+        "alternatives": [
+          "Dispersão da luz",
+          "Reflexão total",
+          "Refração atmosférica",
+          "Interferência da luz"
+        ],
+        "correctAnswer": "Dispersão da luz",
+        "category": "science",
+        "contributor": "Daniel Moreira",
+        "createdAt": "2025-07-19T17:36:33.860421Z",
+        "difficulty": "hard",
+        "githubProfile": ""
+      },
+      {
+        "question": "Qual é o nome da teoria que descreve a movimentação das placas tectônicas da Terra?",
+        "alternatives": [
+          "Tectônica de Placas",
+          "Deriva Continental",
+          "Expansão do Fundo Oceânico",
+          "Teoria da Convecção"
+        ],
+        "correctAnswer": "Tectônica de Placas",
+        "category": "science",
+        "contributor": "Daniel Moreira",
+        "createdAt": "2025-07-19T17:36:33.860421Z",
+        "difficulty": "hard",
+        "githubProfile": ""
+      },
+      {
+        "question": "Qual é o nome da unidade de medida de frequência em homenagem ao cientista alemão Heinrich Hertz?",
+        "alternatives": [
+          "Hertz (Hz)",
+          "Watt (W)",
+          "Joule (J)",
+          "Ampère (A)"
+        ],
+        "correctAnswer": "Hertz (Hz)",
+        "category": "science",
+        "contributor": "Daniel Moreira",
+        "createdAt": "2025-07-19T17:36:33.860421Z",
+        "difficulty": "hard",
+        "githubProfile": ""
+      },
+      {
+        "question": "Qual é o nome do ácido encontrado no estômago humano que auxilia na digestão?",
+        "alternatives": [
+          "Ácido clorídrico",
+          "Ácido sulfúrico",
+          "Ácido nítrico",
+          "Ácido acético"
+        ],
+        "correctAnswer": "Ácido clorídrico",
+        "category": "science",
+        "contributor": "Daniel Moreira",
+        "createdAt": "2025-07-19T17:36:33.860421Z",
+        "difficulty": "hard",
+        "githubProfile": ""
+      },
+      {
+        "question": "Qual é o nome do processo de transformação de um estado sólido diretamente para um estado gasoso, sem passar pelo estado líquido?",
+        "alternatives": [
+          "Sublimação",
+          "Condensação",
+          "Evaporação",
+          "Fusão"
+        ],
+        "correctAnswer": "Sublimação",
+        "category": "science",
+        "contributor": "Daniel Moreira",
+        "createdAt": "2025-07-19T17:36:33.860421Z",
+        "difficulty": "hard",
+        "githubProfile": ""
+      }
+    ]
+  },
+  "technology": {
+    "easy": [
+      {
+        "question": "Qual é o componente principal de um computador que executa as instruções de um programa?",
+        "alternatives": [
+          "CPU",
+          "RAM",
+          "HD",
+          "Placa de Vídeo"
+        ],
+        "correctAnswer": "CPU",
+        "category": "technology",
+        "contributor": "Daniel Moreira",
+        "createdAt": "2025-07-19T17:36:33.860421Z",
+        "difficulty": "easy",
+        "githubProfile": ""
+      },
+      {
+        "question": "Qual é o sistema operacional mais usado em smartphones?",
+        "alternatives": [
+          "Android",
+          "iOS",
+          "Windows Phone",
+          "BlackBerry OS"
+        ],
+        "correctAnswer": "Android",
+        "category": "technology",
+        "contributor": "Daniel Moreira",
+        "createdAt": "2025-07-19T17:36:33.860421Z",
+        "difficulty": "easy",
+        "githubProfile": ""
+      },
+      {
+        "question": "Qual é o nome da rede mundial de computadores que permite a troca de informações?",
+        "alternatives": [
+          "Internet",
+          "Intranet",
+          "Extranet",
+          "Rede Local"
+        ],
+        "correctAnswer": "Internet",
+        "category": "technology",
+        "contributor": "Daniel Moreira",
+        "createdAt": "2025-07-19T17:36:33.860421Z",
+        "difficulty": "easy",
+        "githubProfile": ""
+      },
+      {
+        "question": "Qual é o nome do dispositivo usado para digitar texto em um computador?",
+        "alternatives": [
+          "Teclado",
+          "Mouse",
+          "Monitor",
+          "Impressora"
+        ],
+        "correctAnswer": "Teclado",
+        "category": "technology",
+        "contributor": "Daniel Moreira",
+        "createdAt": "2025-07-19T17:36:33.860421Z",
+        "difficulty": "easy",
+        "githubProfile": ""
+      },
+      {
+        "question": "Qual é a sigla para o sistema de posicionamento global?",
+        "alternatives": [
+          "GPS",
+          "Wi-Fi",
+          "Bluetooth",
+          "USB"
+        ],
+        "correctAnswer": "GPS",
+        "category": "technology",
+        "contributor": "Daniel Moreira",
+        "createdAt": "2025-07-19T17:36:33.860421Z",
+        "difficulty": "easy",
+        "githubProfile": ""
+      },
+      {
+        "question": "Qual é o nome do dispositivo que permite a conexão de vários computadores a uma rede?",
+        "alternatives": [
+          "Roteador",
+          "Switch",
+          "Modem",
+          "Hub"
+        ],
+        "correctAnswer": "Roteador",
+        "category": "technology",
+        "contributor": "Daniel Moreira",
+        "createdAt": "2025-07-19T17:36:33.860421Z",
+        "difficulty": "easy",
+        "githubProfile": ""
+      },
+      {
+        "question": "Qual é o nome do programa usado para navegar na internet?",
+        "alternatives": [
+          "Navegador",
+          "Editor de Texto",
+          "Planilha Eletrônica",
+          "Antivírus"
+        ],
+        "correctAnswer": "Navegador",
+        "category": "technology",
+        "contributor": "Daniel Moreira",
+        "createdAt": "2025-07-19T17:36:33.860421Z",
+        "difficulty": "easy",
+        "githubProfile": ""
+      },
+      {
+        "question": "Qual é a tecnologia que permite a comunicação sem fio entre dispositivos a curtas distâncias?",
+        "alternatives": [
+          "Bluetooth",
+          "Wi-Fi",
+          "NFC",
+          "Infravermelho"
+        ],
+        "correctAnswer": "Bluetooth",
+        "category": "technology",
+        "contributor": "Daniel Moreira",
+        "createdAt": "2025-07-19T17:36:33.860421Z",
+        "difficulty": "easy",
+        "githubProfile": ""
+      },
+      {
+        "question": "Qual é o nome do dispositivo de armazenamento de dados não volátil usado em computadores?",
+        "alternatives": [
+          "SSD",
+          "RAM",
+          "Cache",
+          "Processador"
+        ],
+        "correctAnswer": "SSD",
+        "category": "technology",
+        "contributor": "Daniel Moreira",
+        "createdAt": "2025-07-19T17:36:33.860421Z",
+        "difficulty": "easy",
+        "githubProfile": ""
+      },
+      {
+        "question": "Qual é o nome da empresa responsável pelo sistema operacional Windows?",
+        "alternatives": [
+          "Microsoft",
+          "Apple",
+          "Google",
+          "IBM"
+        ],
+        "correctAnswer": "Microsoft",
+        "category": "technology",
+        "contributor": "Daniel Moreira",
+        "createdAt": "2025-07-19T17:36:33.860421Z",
+        "difficulty": "easy",
+        "githubProfile": ""
+      }
+    ],
+    "medium": [
+      {
+        "question": "Qual é o nome da linguagem de programação mais popular para desenvolvimento web frontend?",
+        "alternatives": [
+          "JavaScript",
+          "Python",
+          "Java",
+          "C#"
+        ],
+        "correctAnswer": "JavaScript",
+        "category": "technology",
+        "contributor": "Daniel Moreira",
+        "createdAt": "2025-07-19T17:36:33.860421Z",
+        "difficulty": "medium",
+        "githubProfile": ""
+      },
+      {
+        "question": "Qual é o protocolo de rede usado para enviar e-mails?",
+        "alternatives": [
+          "SMTP",
+          "HTTP",
+          "FTP",
+          "POP3"
+        ],
+        "correctAnswer": "SMTP",
+        "category": "technology",
+        "contributor": "Daniel Moreira",
+        "createdAt": "2025-07-19T17:36:33.860421Z",
+        "difficulty": "medium",
+        "githubProfile": ""
+      },
+      {
+        "question": "Qual é o nome da tecnologia que permite a criação de objetos tridimensionais a partir de um modelo digital?",
+        "alternatives": [
+          "Impressão 3D",
+          "Realidade Virtual",
+          "Realidade Aumentada",
+          "Inteligência Artificial"
+        ],
+        "correctAnswer": "Impressão 3D",
+        "category": "technology",
+        "contributor": "Daniel Moreira",
+        "createdAt": "2025-07-19T17:36:33.860421Z",
+        "difficulty": "medium",
+        "githubProfile": ""
+      },
+      {
+        "question": "Qual é o nome do conceito de conectar dispositivos físicos à internet para coletar e trocar dados?",
+        "alternatives": [
+          "Internet das Coisas (IoT)",
+          "Big Data",
+          "Computação em Nuvem",
+          "Machine Learning"
+        ],
+        "correctAnswer": "Internet das Coisas (IoT)",
+        "category": "technology",
+        "contributor": "Daniel Moreira",
+        "createdAt": "2025-07-19T17:36:33.860421Z",
+        "difficulty": "medium",
+        "githubProfile": ""
+      },
+      {
+        "question": "Qual é o nome da técnica de criptografia que utiliza um par de chaves, uma pública e uma privada?",
+        "alternatives": [
+          "Criptografia de Chave Pública",
+          "Criptografia Simétrica",
+          "Criptografia Híbrida",
+          "Função Hash"
+        ],
+        "correctAnswer": "Criptografia de Chave Pública",
+        "category": "technology",
+        "contributor": "Daniel Moreira",
+        "createdAt": "2025-07-19T17:36:33.860421Z",
+        "difficulty": "medium",
+        "githubProfile": ""
+      },
+      {
+        "question": "Qual é o nome da estrutura de dados que armazena informações de forma descentralizada e segura, como no Bitcoin?",
+        "alternatives": [
+          "Blockchain",
+          "Banco de Dados Relacional",
+          "Árvore Binária",
+          "Lista Encadeada"
+        ],
+        "correctAnswer": "Blockchain",
+        "category": "technology",
+        "contributor": "Daniel Moreira",
+        "createdAt": "2025-07-19T17:36:33.860421Z",
+        "difficulty": "medium",
+        "githubProfile": ""
+      },
+      {
+        "question": "Qual é o nome da tecnologia de exibição que não requer retroiluminação, resultando em pretos mais profundos e cores mais vibrantes?",
+        "alternatives": [
+          "OLED",
+          "LCD",
+          "LED",
+          "Plasma"
+        ],
+        "correctAnswer": "OLED",
+        "category": "technology",
+        "contributor": "Daniel Moreira",
+        "createdAt": "2025-07-19T17:36:33.860421Z",
+        "difficulty": "medium",
+        "githubProfile": ""
+      },
+      {
+        "question": "Qual é o nome da área da inteligência artificial que permite que as máquinas aprendam com dados sem serem explicitamente programadas?",
+        "alternatives": [
+          "Machine Learning",
+          "Deep Learning",
+          "Processamento de Linguagem Natural",
+          "Visão Computacional"
+        ],
+        "correctAnswer": "Machine Learning",
+        "category": "technology",
+        "contributor": "Daniel Moreira",
+        "createdAt": "2025-07-19T17:36:33.860421Z",
+        "difficulty": "medium",
+        "githubProfile": ""
+      },
+      {
+        "question": "Qual é o nome do padrão de comunicação sem fio de alta velocidade usado para redes locais?",
+        "alternatives": [
+          "Wi-Fi",
+          "Ethernet",
+          "5G",
+          "Li-Fi"
+        ],
+        "correctAnswer": "Wi-Fi",
+        "category": "technology",
+        "contributor": "Daniel Moreira",
+        "createdAt": "2025-07-19T17:36:33.860421Z",
+        "difficulty": "medium",
+        "githubProfile": ""
+      },
+      {
+        "question": "Qual é o nome do primeiro programa de computador que conseguia passar no Teste de Turing, em 2014?",
+        "alternatives": [
+          "Eugene Goostman",
+          "AlphaGo",
+          "Deep Blue",
+          "Watson"
+        ],
+        "correctAnswer": "Eugene Goostman",
+        "category": "technology",
+        "contributor": "Daniel Moreira",
+        "createdAt": "2025-07-19T17:36:33.860421Z",
+        "difficulty": "medium",
+        "githubProfile": ""
+      }
+    ],
+    "hard": [
+      {
+        "question": "Qual é o nome do algoritmo de criptografia simétrica amplamente utilizado para proteger informações confidenciais?",
+        "alternatives": [
+          "AES",
+          "RSA",
+          "SHA",
+          "MD5"
+        ],
+        "correctAnswer": "AES",
+        "category": "technology",
+        "contributor": "Daniel Moreira",
+        "createdAt": "2025-07-19T17:36:33.860421Z",
+        "difficulty": "hard",
+        "githubProfile": ""
+      },
+      {
+        "question": "Qual é o nome da arquitetura de computadores que separa a memória de instruções da memória de dados?",
+        "alternatives": [
+          "Arquitetura Harvard",
+          "Arquitetura Von Neumann",
+          "Arquitetura CISC",
+          "Arquitetura RISC"
+        ],
+        "correctAnswer": "Arquitetura Harvard",
+        "category": "technology",
+        "contributor": "Daniel Moreira",
+        "createdAt": "2025-07-19T17:36:33.860421Z",
+        "difficulty": "hard",
+        "githubProfile": ""
+      },
+      {
+        "question": "Qual é o nome do método de compressão de dados que perde parte da informação original, mas consegue taxas de compressão muito altas?",
+        "alternatives": [
+          "Compressão com perdas",
+          "Compressão sem perdas",
+          "Codificação Huffman",
+          "Codificação LZW"
+        ],
+        "correctAnswer": "Compressão com perdas",
+        "category": "technology",
+        "contributor": "Daniel Moreira",
+        "createdAt": "2025-07-19T17:36:33.860421Z",
+        "difficulty": "hard",
+        "githubProfile": ""
+      },
+      {
+        "question": "Qual é o nome do conceito que se refere à capacidade de uma inteligência artificial passar no Teste de Turing?",
+        "alternatives": [
+          "Inteligência Artificial Forte",
+          "Inteligência Artificial Fraca",
+          "Singularidade Tecnológica",
+          "Robótica"
+        ],
+        "correctAnswer": "Inteligência Artificial Forte",
+        "category": "technology",
+        "contributor": "Daniel Moreira",
+        "createdAt": "2025-07-19T17:36:33.860421Z",
+        "difficulty": "hard",
+        "githubProfile": ""
+      },
+      {
+        "question": "Qual é o nome da técnica usada para criar um ambiente virtual imersivo que simula a realidade?",
+        "alternatives": [
+          "Realidade Virtual (VR)",
+          "Realidade Aumentada (AR)",
+          "Realidade Mista (MR)",
+          "Telepresença"
+        ],
+        "correctAnswer": "Realidade Virtual (VR)",
+        "category": "technology",
+        "contributor": "Daniel Moreira",
+        "createdAt": "2025-07-19T17:36:33.860421Z",
+        "difficulty": "hard",
+        "githubProfile": ""
+      },
+      {
+        "question": "Qual é o nome do ataque cibernético que inunda um sistema com tráfego para torná-lo inacessível?",
+        "alternatives": [
+          "Ataque de Negação de Serviço (DoS)",
+          "Phishing",
+          "Malware",
+          "SQL Injection"
+        ],
+        "correctAnswer": "Ataque de Negação de Serviço (DoS)",
+        "category": "technology",
+        "contributor": "Daniel Moreira",
+        "createdAt": "2025-07-19T17:36:33.860421Z",
+        "difficulty": "hard",
+        "githubProfile": ""
+      },
+      {
+        "question": "Qual é o nome do primeiro navegador da web com uma interface gráfica de usuário, lançado em 1993?",
+        "alternatives": [
+          "Mosaic",
+          "Netscape Navigator",
+          "Internet Explorer",
+          "WorldWideWeb"
+        ],
+        "correctAnswer": "Mosaic",
+        "category": "technology",
+        "contributor": "Daniel Moreira",
+        "createdAt": "2025-07-19T17:36:33.860421Z",
+        "difficulty": "hard",
+        "githubProfile": ""
+      },
+      {
+        "question": "Qual é o nome do conceito de software que é distribuído com seu código-fonte aberto, permitindo que qualquer pessoa o modifique?",
+        "alternatives": [
+          "Código Aberto (Open Source)",
+          "Software Proprietário",
+          "Freeware",
+          "Shareware"
+        ],
+        "correctAnswer": "Código Aberto (Open Source)",
+        "category": "technology",
+        "contributor": "Daniel Moreira",
+        "createdAt": "2025-07-19T17:36:33.860421Z",
+        "difficulty": "hard",
+        "githubProfile": ""
+      },
+      {
+        "question": "Qual é o nome do sistema de gerenciamento de banco de dados relacional criado pela Oracle Corporation?",
+        "alternatives": [
+          "Oracle Database",
+          "MySQL",
+          "PostgreSQL",
+          "SQL Server"
+        ],
+        "correctAnswer": "Oracle Database",
+        "category": "technology",
+        "contributor": "Daniel Moreira",
+        "createdAt": "2025-07-19T17:36:33.860421Z",
+        "difficulty": "hard",
+        "githubProfile": ""
+      },
+      {
+        "question": "Qual é o nome da lei que afirma que o número de transistores em um chip de computador dobra a cada dois anos?",
+        "alternatives": [
+          "Lei de Moore",
+          "Lei de Metcalfe",
+          "Lei de Nielsen",
+          "Lei de Amdahl"
+        ],
+        "correctAnswer": "Lei de Moore",
+        "category": "technology",
+        "contributor": "Daniel Moreira",
+        "createdAt": "2025-07-19T17:36:33.860421Z",
+        "difficulty": "hard",
+        "githubProfile": ""
+      }
+    ]
+  },
+  "general": {
+    "easy": [
+      {
+        "question": "Qual é o maior oceano do mundo?",
+        "alternatives": [
+          "Oceano Pacífico",
+          "Oceano Atlântico",
+          "Oceano Índico",
+          "Oceano Ártico"
+        ],
+        "correctAnswer": "Oceano Pacífico",
+        "category": "general",
+        "contributor": "Daniel Moreira",
+        "createdAt": "2025-07-19T17:36:33.860421Z",
+        "difficulty": "easy",
+        "githubProfile": ""
+      },
+      {
+        "question": "Quantos continentes existem no mundo?",
+        "alternatives": [
+          "Sete",
+          "Cinco",
+          "Seis",
+          "Quatro"
+        ],
+        "correctAnswer": "Sete",
+        "category": "general",
+        "contributor": "Daniel Moreira",
+        "createdAt": "2025-07-19T17:36:33.860421Z",
+        "difficulty": "easy",
+        "githubProfile": ""
+      },
+      {
+        "question": "Qual é o nome do pico mais alto do mundo?",
+        "alternatives": [
+          "Monte Everest",
+          "K2",
+          "Monte Fuji",
+          "Kilimanjaro"
+        ],
+        "correctAnswer": "Monte Everest",
+        "category": "general",
+        "contributor": "Daniel Moreira",
+        "createdAt": "2025-07-19T17:36:33.860421Z",
+        "difficulty": "easy",
+        "githubProfile": ""
+      },
+      {
+        "question": "Qual é o nome do animal mais rápido do mundo?",
+        "alternatives": [
+          "Guepardo",
+          "Falcão-peregrino",
+          "Peixe-espada",
+          "Leão"
+        ],
+        "correctAnswer": "Falcão-peregrino",
+        "category": "general",
+        "contributor": "Daniel Moreira",
+        "createdAt": "2025-07-19T17:36:33.860421Z",
+        "difficulty": "easy",
+        "githubProfile": ""
+      },
+      {
+        "question": "Qual é o nome do maior deserto do mundo?",
+        "alternatives": [
+          "Deserto do Saara",
+          "Deserto do Atacama",
+          "Deserto de Gobi",
+          "Deserto da Arábia"
+        ],
+        "correctAnswer": "Deserto do Saara",
+        "category": "general",
+        "contributor": "Daniel Moreira",
+        "createdAt": "2025-07-19T17:36:33.860421Z",
+        "difficulty": "easy",
+        "githubProfile": ""
+      },
+      {
+        "question": "Qual é o nome do rio mais longo do mundo?",
+        "alternatives": [
+          "Rio Nilo",
+          "Rio Amazonas",
+          "Rio Mississippi",
+          "Rio Yangtze"
+        ],
+        "correctAnswer": "Rio Nilo",
+        "category": "general",
+        "contributor": "Daniel Moreira",
+        "createdAt": "2025-07-19T17:36:33.860421Z",
+        "difficulty": "easy",
+        "githubProfile": ""
+      },
+      {
+        "question": "Qual é a capital do Japão?",
+        "alternatives": [
+          "Tóquio",
+          "Pequim",
+          "Seul",
+          "Bangkok"
+        ],
+        "correctAnswer": "Tóquio",
+        "category": "general",
+        "contributor": "Daniel Moreira",
+        "createdAt": "2025-07-19T17:36:33.860421Z",
+        "difficulty": "easy",
+        "githubProfile": ""
+      },
+      {
+        "question": "Qual é o esporte mais popular do mundo?",
+        "alternatives": [
+          "Futebol",
+          "Basquete",
+          "Tênis",
+          "Críquete"
+        ],
+        "correctAnswer": "Futebol",
+        "category": "general",
+        "contributor": "Daniel Moreira",
+        "createdAt": "2025-07-19T17:36:33.860421Z",
+        "difficulty": "easy",
+        "githubProfile": ""
+      },
+      {
+        "question": "Qual é a cor do cabelo do Papai Noel?",
+        "alternatives": [
+          "Branco",
+          "Preto",
+          "Ruivo",
+          "Castanho"
+        ],
+        "correctAnswer": "Branco",
+        "category": "general",
+        "contributor": "Daniel Moreira",
+        "createdAt": "2025-07-19T17:36:33.860421Z",
+        "difficulty": "easy",
+        "githubProfile": ""
+      },
+      {
+        "question": "Quantos dias tem um ano bissexto?",
+        "alternatives": [
+          "366",
+          "365",
+          "360",
+          "300"
+        ],
+        "correctAnswer": "366",
+        "category": "general",
+        "contributor": "Daniel Moreira",
+        "createdAt": "2025-07-19T17:36:33.860421Z",
+        "difficulty": "easy",
+        "githubProfile": ""
+      }
+    ],
+    "medium": [
+      {
+        "question": "Qual é o nome do menor país do mundo?",
+        "alternatives": [
+          "Vaticano",
+          "Mônaco",
+          "Nauru",
+          "San Marino"
+        ],
+        "correctAnswer": "Vaticano",
+        "category": "general",
+        "contributor": "Daniel Moreira",
+        "createdAt": "2025-07-19T17:36:33.860421Z",
+        "difficulty": "medium",
+        "githubProfile": ""
+      },
+      {
+        "question": "Qual é o nome da pessoa que escreveu 'Dom Quixote'?",
+        "alternatives": [
+          "Miguel de Cervantes",
+          "William Shakespeare",
+          "Victor Hugo",
+          "Charles Dickens"
+        ],
+        "correctAnswer": "Miguel de Cervantes",
+        "category": "general",
+        "contributor": "Daniel Moreira",
+        "createdAt": "2025-07-19T17:36:33.860421Z",
+        "difficulty": "medium",
+        "githubProfile": ""
+      },
+      {
+        "question": "Qual é o nome do animal que tem o maior tempo de vida conhecido?",
+        "alternatives": [
+          "Tubarão-da-groenlândia",
+          "Tartaruga-gigante",
+          "Baleia-da-groenlândia",
+          "Carpa"
+        ],
+        "correctAnswer": "Tubarão-da-groenlândia",
+        "category": "general",
+        "contributor": "Daniel Moreira",
+        "createdAt": "2025-07-19T17:36:33.860421Z",
+        "difficulty": "medium",
+        "githubProfile": ""
+      },
+      {
+        "question": "Qual é o nome da cidade conhecida como 'A Cidade Eterna'?",
+        "alternatives": [
+          "Roma",
+          "Atenas",
+          "Jerusalém",
+          "Constantinopla"
+        ],
+        "correctAnswer": "Roma",
+        "category": "general",
+        "contributor": "Daniel Moreira",
+        "createdAt": "2025-07-19T17:36:33.860421Z",
+        "difficulty": "medium",
+        "githubProfile": ""
+      },
+      {
+        "question": "Qual é o nome da montanha mais alta da África?",
+        "alternatives": [
+          "Monte Kilimanjaro",
+          "Monte Quênia",
+          "Monte Ruwenzori",
+          "Monte Atlas"
+        ],
+        "correctAnswer": "Monte Kilimanjaro",
+        "category": "general",
+        "contributor": "Daniel Moreira",
+        "createdAt": "2025-07-19T17:36:33.860421Z",
+        "difficulty": "medium",
+        "githubProfile": ""
+      },
+      {
+        "question": "Qual é o nome do fenômeno natural que causa as luzes do norte (Aurora Boreal)?",
+        "alternatives": [
+          "Atividade solar interagindo com a atmosfera terrestre",
+          "Reflexão da luz solar no gelo",
+          "Fenômeno atmosférico de refração",
+          "Emissão de gases vulcânicos"
+        ],
+        "correctAnswer": "Atividade solar interagindo com a atmosfera terrestre",
+        "category": "general",
+        "contributor": "Daniel Moreira",
+        "createdAt": "2025-07-19T17:36:33.860421Z",
+        "difficulty": "medium",
+        "githubProfile": ""
+      },
+      {
+        "question": "Qual é o nome do continente com a maior população do mundo?",
+        "alternatives": [
+          "Ásia",
+          "África",
+          "Europa",
+          "América"
+        ],
+        "correctAnswer": "Ásia",
+        "category": "general",
+        "contributor": "Daniel Moreira",
+        "createdAt": "2025-07-19T17:36:33.860421Z",
+        "difficulty": "medium",
+        "githubProfile": ""
+      },
+      {
+        "question": "Qual é o nome do instrumento musical que tem 88 teclas?",
+        "alternatives": [
+          "Piano",
+          "Órgão",
+          "Teclado eletrônico",
+          "Cravo"
+        ],
+        "correctAnswer": "Piano",
+        "category": "general",
+        "contributor": "Daniel Moreira",
+        "createdAt": "2025-07-19T17:36:33.860421Z",
+        "difficulty": "medium",
+        "githubProfile": ""
+      },
+      {
+        "question": "Qual é o nome da maior ilha do mundo?",
+        "alternatives": [
+          "Groenlândia",
+          "Nova Guiné",
+          "Bornéu",
+          "Madagascar"
+        ],
+        "correctAnswer": "Groenlândia",
+        "category": "general",
+        "contributor": "Daniel Moreira",
+        "createdAt": "2025-07-19T17:36:33.860421Z",
+        "difficulty": "medium",
+        "githubProfile": ""
+      },
+      {
+        "question": "Qual é o nome do escritor que criou os personagens Sherlock Holmes?",
+        "alternatives": [
+          "Arthur Conan Doyle",
+          "Agatha Christie",
+          "Edgar Allan Poe",
+          "J.K. Rowling"
+        ],
+        "correctAnswer": "Arthur Conan Doyle",
+        "category": "general",
+        "contributor": "Daniel Moreira",
+        "createdAt": "2025-07-19T17:36:33.860421Z",
+        "difficulty": "medium",
+        "githubProfile": ""
+      }
+    ],
+    "hard": [
+      {
+        "question": "Qual é o nome do maior recife de coral do mundo?",
+        "alternatives": [
+          "Grande Barreira de Coral",
+          "Recife de Belize",
+          "Recife de Palancar",
+          "Recife de Tubbataha"
+        ],
+        "correctAnswer": "Grande Barreira de Coral",
+        "category": "general",
+        "contributor": "Daniel Moreira",
+        "createdAt": "2025-07-19T17:36:33.860421Z",
+        "difficulty": "hard",
+        "githubProfile": ""
+      },
+      {
+        "question": "Qual é o nome do vulcão mais ativo do mundo, localizado no Havaí?",
+        "alternatives": [
+          "Kilauea",
+          "Mauna Loa",
+          "Stromboli",
+          "Etna"
+        ],
+        "correctAnswer": "Kilauea",
+        "category": "general",
+        "contributor": "Daniel Moreira",
+        "createdAt": "2025-07-19T17:36:33.860421Z",
+        "difficulty": "hard",
+        "githubProfile": ""
+      },
+      {
+        "question": "Qual é o nome da obra de arte de Leonardo da Vinci que retrata a Última Ceia?",
+        "alternatives": [
+          "A Última Ceia",
+          "Mona Lisa",
+          "A Anunciação",
+          "Dama com Arminho"
+        ],
+        "correctAnswer": "A Última Ceia",
+        "category": "general",
+        "contributor": "Daniel Moreira",
+        "createdAt": "2025-07-19T17:36:33.860421Z",
+        "difficulty": "hard",
+        "githubProfile": ""
+      },
+      {
+        "question": "Qual é o nome da cidade que foi a capital do Império Romano do Oriente?",
+        "alternatives": [
+          "Constantinopla",
+          "Roma",
+          "Atenas",
+          "Alexandria"
+        ],
+        "correctAnswer": "Constantinopla",
+        "category": "general",
+        "contributor": "Daniel Moreira",
+        "createdAt": "2025-07-19T17:36:33.860421Z",
+        "difficulty": "hard",
+        "githubProfile": ""
+      },
+      {
+        "question": "Qual é o nome do autor da peça 'Romeu e Julieta'?",
+        "alternatives": [
+          "William Shakespeare",
+          "Christopher Marlowe",
+          "Ben Jonson",
+          "John Milton"
+        ],
+        "correctAnswer": "William Shakespeare",
+        "category": "general",
+        "contributor": "Daniel Moreira",
+        "createdAt": "2025-07-19T17:36:33.860421Z",
+        "difficulty": "hard",
+        "githubProfile": ""
+      },
+      {
+        "question": "Qual é o nome do processo de vinificação que envolve a fermentação da uva com a casca?",
+        "alternatives": [
+          "Maceração",
+          "Fermentação malolática",
+          "Clarificação",
+          "Filtragem"
+        ],
+        "correctAnswer": "Maceração",
+        "category": "general",
+        "contributor": "Daniel Moreira",
+        "createdAt": "2025-07-19T17:36:33.860421Z",
+        "difficulty": "hard",
+        "githubProfile": ""
+      },
+      {
+        "question": "Qual é o nome do metal mais caro do mundo?",
+        "alternatives": [
+          "Ródio",
+          "Platina",
+          "Ouro",
+          "Paládio"
+        ],
+        "correctAnswer": "Ródio",
+        "category": "general",
+        "contributor": "Daniel Moreira",
+        "createdAt": "2025-07-19T17:36:33.860421Z",
+        "difficulty": "hard",
+        "githubProfile": ""
+      },
+      {
+        "question": "Qual é o nome do maior lago de água doce do mundo em volume?",
+        "alternatives": [
+          "Lago Baikal",
+          "Lago Superior",
+          "Lago Tanganyika",
+          "Lago Vitória"
+        ],
+        "correctAnswer": "Lago Baikal",
+        "category": "general",
+        "contributor": "Daniel Moreira",
+        "createdAt": "2025-07-19T17:36:33.860421Z",
+        "difficulty": "hard",
+        "githubProfile": ""
+      },
+      {
+        "question": "Qual é o nome da teoria filosófica que afirma que a existência precede a essência?",
+        "alternatives": [
+          "Existencialismo",
+          "Niilismo",
+          "Absurdismo",
+          "Fenomenologia"
+        ],
+        "correctAnswer": "Existencialismo",
+        "category": "general",
+        "contributor": "Daniel Moreira",
+        "createdAt": "2025-07-19T17:36:33.860421Z",
+        "difficulty": "hard",
+        "githubProfile": ""
+      },
+      {
+        "question": "Qual é o nome do conceito matemático que descreve a relação entre os lados de um triângulo retângulo?",
+        "alternatives": [
+          "Teorema de Pitágoras",
+          "Teorema de Tales",
+          "Fórmula de Bhaskara",
+          "Lei dos Cossenos"
+        ],
+        "correctAnswer": "Teorema de Pitágoras",
+        "category": "general",
+        "contributor": "Daniel Moreira",
+        "createdAt": "2025-07-19T17:36:33.860421Z",
+        "difficulty": "hard",
+        "githubProfile": ""
+      }
+    ]
+  },
+  "pop": {
+    "easy": [
+      {
+        "question": "Qual cantora é conhecida como a 'Rainha do Pop'?",
+        "alternatives": [
+          "Madonna",
+          "Lady Gaga",
+          "Britney Spears",
+          "Beyoncé"
+        ],
+        "correctAnswer": "Madonna",
+        "category": "pop",
+        "contributor": "Daniel Moreira",
+        "createdAt": "2025-07-19T17:36:33.860421Z",
+        "difficulty": "easy",
+        "githubProfile": ""
+      },
+      {
+        "question": "Qual filme apresenta a frase icônica 'Que a Força esteja com você'?",
+        "alternatives": [
+          "Star Wars",
+          "Star Trek",
+          "O Senhor dos Anéis",
+          "Harry Potter"
+        ],
+        "correctAnswer": "Star Wars",
+        "category": "pop",
+        "contributor": "Daniel Moreira",
+        "createdAt": "2025-07-19T17:36:33.860421Z",
+        "difficulty": "easy",
+        "githubProfile": ""
+      },
+      {
+        "question": "Qual é o nome da banda de rock britânica formada por Freddie Mercury?",
+        "alternatives": [
+          "Queen",
+          "The Beatles",
+          "Led Zeppelin",
+          "Rolling Stones"
+        ],
+        "correctAnswer": "Queen",
+        "category": "pop",
+        "contributor": "Daniel Moreira",
+        "createdAt": "2025-07-19T17:36:33.860421Z",
+        "difficulty": "easy",
+        "githubProfile": ""
+      },
+      {
+        "question": "Qual é o nome do super-herói que vive em Gotham City e não possui superpoderes?",
+        "alternatives": [
+          "Batman",
+          "Superman",
+          "Homem-Aranha",
+          "Flash"
+        ],
+        "correctAnswer": "Batman",
+        "category": "pop",
+        "contributor": "Daniel Moreira",
+        "createdAt": "2025-07-19T17:36:33.860421Z",
+        "difficulty": "easy",
+        "githubProfile": ""
+      },
+      {
+        "question": "Qual é o nome da série de TV sobre uma família amarela que vive em Springfield?",
+        "alternatives": [
+          "Os Simpsons",
+          "Family Guy",
+          "South Park",
+          "Futurama"
+        ],
+        "correctAnswer": "Os Simpsons",
+        "category": "pop",
+        "contributor": "Daniel Moreira",
+        "createdAt": "2025-07-19T17:36:33.860421Z",
+        "difficulty": "easy",
+        "githubProfile": ""
+      },
+      {
+        "question": "Qual é o nome do famoso bruxo que estuda em Hogwarts?",
+        "alternatives": [
+          "Harry Potter",
+          "Gandalf",
+          "Dumbledore",
+          "Merlin"
+        ],
+        "correctAnswer": "Harry Potter",
+        "category": "pop",
+        "contributor": "Daniel Moreira",
+        "createdAt": "2025-07-19T17:36:33.860421Z",
+        "difficulty": "easy",
+        "githubProfile": ""
+      },
+      {
+        "question": "Qual é o nome do ator que interpretou o Capitão Jack Sparrow em 'Piratas do Caribe'?",
+        "alternatives": [
+          "Johnny Depp",
+          "Orlando Bloom",
+          "Keira Knightley",
+          "Geoffrey Rush"
+        ],
+        "correctAnswer": "Johnny Depp",
+        "category": "pop",
+        "contributor": "Daniel Moreira",
+        "createdAt": "2025-07-19T17:36:33.860421Z",
+        "difficulty": "easy",
+        "githubProfile": ""
+      },
+      {
+        "question": "Qual é o nome da cantora que lançou o álbum '21' e 'Adele'?",
+        "alternatives": [
+          "Adele",
+          "Amy Winehouse",
+          "Dua Lipa",
+          "Taylor Swift"
+        ],
+        "correctAnswer": "Adele",
+        "category": "pop",
+        "contributor": "Daniel Moreira",
+        "createdAt": "2025-07-19T17:36:33.860421Z",
+        "difficulty": "easy",
+        "githubProfile": ""
+      },
+      {
+        "question": "Qual é o nome do jogo eletrônico de mundo aberto onde os jogadores constroem e exploram?",
+        "alternatives": [
+          "Minecraft",
+          "Fortnite",
+          "Call of Duty",
+          "Grand Theft Auto V"
+        ],
+        "correctAnswer": "Minecraft",
+        "category": "pop",
+        "contributor": "Daniel Moreira",
+        "createdAt": "2025-07-19T17:36:33.860421Z",
+        "difficulty": "easy",
+        "githubProfile": ""
+      },
+      {
+        "question": "Qual é o nome da plataforma de vídeos mais popular do mundo?",
+        "alternatives": [
+          "YouTube",
+          "TikTok",
+          "Netflix",
+          "Vimeo"
+        ],
+        "correctAnswer": "YouTube",
+        "category": "pop",
+        "contributor": "Daniel Moreira",
+        "createdAt": "2025-07-19T17:36:33.860421Z",
+        "difficulty": "easy",
+        "githubProfile": ""
+      }
+    ],
+    "medium": [
+      {
+        "question": "Qual é o nome da banda de K-Pop que quebrou vários recordes de vendas e visualizações?",
+        "alternatives": [
+          "BTS",
+          "BLACKPINK",
+          "EXO",
+          "TWICE"
+        ],
+        "correctAnswer": "BTS",
+        "category": "pop",
+        "contributor": "Daniel Moreira",
+        "createdAt": "2025-07-19T17:36:33.860421Z",
+        "difficulty": "medium",
+        "githubProfile": ""
+      },
+      {
+        "question": "Qual é o nome da série de livros de fantasia que inspirou a série 'Game of Thrones'?",
+        "alternatives": [
+          "As Crônicas de Gelo e Fogo",
+          "O Senhor dos Anéis",
+          "As Crônicas de Nárnia",
+          "A Roda do Tempo"
+        ],
+        "correctAnswer": "As Crônicas de Gelo e Fogo",
+        "category": "pop",
+        "contributor": "Daniel Moreira",
+        "createdAt": "2025-07-19T17:36:33.860421Z",
+        "difficulty": "medium",
+        "githubProfile": ""
+      },
+      {
+        "question": "Qual é o nome do diretor de cinema conhecido por filmes como 'Pulp Fiction' e 'Kill Bill'?",
+        "alternatives": [
+          "Quentin Tarantino",
+          "Martin Scorsese",
+          "Steven Spielberg",
+          "Christopher Nolan"
+        ],
+        "correctAnswer": "Quentin Tarantino",
+        "category": "pop",
+        "contributor": "Daniel Moreira",
+        "createdAt": "2025-07-19T17:36:33.860421Z",
+        "difficulty": "medium",
+        "githubProfile": ""
+      },
+      {
+        "question": "Qual é o nome da personagem feminina que se torna uma super-heroína após ser exposta a raios gama?",
+        "alternatives": [
+          "Mulher-Hulk",
+          "Capitã Marvel",
+          "Viúva Negra",
+          "Mulher-Maravilha"
+        ],
+        "correctAnswer": "Mulher-Hulk",
+        "category": "pop",
+        "contributor": "Daniel Moreira",
+        "createdAt": "2025-07-19T17:36:33.860421Z",
+        "difficulty": "medium",
+        "githubProfile": ""
+      },
+      {
+        "question": "Qual é o nome do evento anual de música realizado em Indio, Califórnia, conhecido por seus múltiplos palcos?",
+        "alternatives": [
+          "Coachella",
+          "Lollapalooza",
+          "Rock in Rio",
+          "Glastonbury"
+        ],
+        "correctAnswer": "Coachella",
+        "category": "pop",
+        "contributor": "Daniel Moreira",
+        "createdAt": "2025-07-19T17:36:33.860421Z",
+        "difficulty": "medium",
+        "githubProfile": ""
+      },
+      {
+        "question": "Qual é o nome do criador da franquia de jogos 'Super Mario' e 'The Legend of Zelda'?",
+        "alternatives": [
+          "Shigeru Miyamoto",
+          "Hideo Kojima",
+          "Hajime Tabata",
+          "Yuji Naka"
+        ],
+        "correctAnswer": "Shigeru Miyamoto",
+        "category": "pop",
+        "contributor": "Daniel Moreira",
+        "createdAt": "2025-07-19T17:36:33.860421Z",
+        "difficulty": "medium",
+        "githubProfile": ""
+      },
+      {
+        "question": "Qual é o nome do prêmio mais prestigiado da indústria cinematográfica?",
+        "alternatives": [
+          "Oscar",
+          "Globo de Ouro",
+          "Palma de Ouro",
+          "Urso de Ouro"
+        ],
+        "correctAnswer": "Oscar",
+        "category": "pop",
+        "contributor": "Daniel Moreira",
+        "createdAt": "2025-07-19T17:36:33.860421Z",
+        "difficulty": "medium",
+        "githubProfile": ""
+      },
+      {
+        "question": "Qual é o nome do aplicativo de mensagens instantâneas mais usado no mundo?",
+        "alternatives": [
+          "WhatsApp",
+          "Telegram",
+          "Messenger",
+          "Viber"
+        ],
+        "correctAnswer": "WhatsApp",
+        "category": "pop",
+        "contributor": "Daniel Moreira",
+        "createdAt": "2025-07-19T17:36:33.860421Z",
+        "difficulty": "medium",
+        "githubProfile": ""
+      },
+      {
+        "question": "Qual é o nome do gênero musical que se originou no Bronx, Nova York, nos anos 70?",
+        "alternatives": [
+          "Hip Hop",
+          "R&B",
+          "Funk",
+          "Soul"
+        ],
+        "correctAnswer": "Hip Hop",
+        "category": "pop",
+        "contributor": "Daniel Moreira",
+        "createdAt": "2025-07-19T17:36:33.860421Z",
+        "difficulty": "medium",
+        "githubProfile": ""
+      },
+      {
+        "question": "Qual é o nome da série de TV que se passa em Westeros e acompanha a luta pelo Trono de Ferro?",
+        "alternatives": [
+          "Game of Thrones",
+          "The Witcher",
+          "Vikings",
+          "House of the Dragon"
+        ],
+        "correctAnswer": "Game of Thrones",
+        "category": "pop",
+        "contributor": "Daniel Moreira",
+        "createdAt": "2025-07-19T17:36:33.860421Z",
+        "difficulty": "medium",
+        "githubProfile": ""
+      }
+    ],
+    "hard": [
+      {
+        "question": "Qual é o nome do artista que criou o movimento pop art?",
+        "alternatives": [
+          "Andy Warhol",
+          "Roy Lichtenstein",
+          "Keith Haring",
+          "Jean-Michel Basquiat"
+        ],
+        "correctAnswer": "Andy Warhol",
+        "category": "pop",
+        "contributor": "Daniel Moreira",
+        "createdAt": "2025-07-19T17:36:33.860421Z",
+        "difficulty": "hard",
+        "githubProfile": ""
+      },
+      {
+        "question": "Qual é o nome do musical da Broadway que se tornou um fenômeno global e conta a história de Alexander Hamilton?",
+        "alternatives": [
+          "Hamilton",
+          "O Fantasma da Ópera",
+          "Os Miseráveis",
+          "Cats"
+        ],
+        "correctAnswer": "Hamilton",
+        "category": "pop",
+        "contributor": "Daniel Moreira",
+        "createdAt": "2025-07-19T17:36:33.860421Z",
+        "difficulty": "hard",
+        "githubProfile": ""
+      },
+      {
+        "question": "Qual é o nome do anime que narra a história de um ninja que sonha em se tornar Hokage?",
+        "alternatives": [
+          "Naruto",
+          "Dragon Ball",
+          "One Piece",
+          "Attack on Titan"
+        ],
+        "correctAnswer": "Naruto",
+        "category": "pop",
+        "contributor": "Daniel Moreira",
+        "createdAt": "2025-07-19T17:36:33.860421Z",
+        "difficulty": "hard",
+        "githubProfile": ""
+      },
+      {
+        "question": "Qual é o nome do compositor que criou a trilha sonora de filmes como 'Star Wars' e 'Indiana Jones'?",
+        "alternatives": [
+          "John Williams",
+          "Hans Zimmer",
+          "Ennio Morricone",
+          "Danny Elfman"
+        ],
+        "correctAnswer": "John Williams",
+        "category": "pop",
+        "contributor": "Daniel Moreira",
+        "createdAt": "2025-07-19T17:36:33.860421Z",
+        "difficulty": "hard",
+        "githubProfile": ""
+      },
+      {
+        "question": "Qual é o nome do festival de música que aconteceu em Woodstock, Nova York, em 1969?",
+        "alternatives": [
+          "Woodstock",
+          "Monterey Pop Festival",
+          "Altamont Free Concert",
+          "Isle of Wight Festival"
+        ],
+        "correctAnswer": "Woodstock",
+        "category": "pop",
+        "contributor": "Daniel Moreira",
+        "createdAt": "2025-07-19T17:36:33.860421Z",
+        "difficulty": "hard",
+        "githubProfile": ""
+      },
+      {
+        "question": "Qual é o nome do primeiro jogo eletrônico a ser reconhecido como uma forma de arte pelo MoMA?",
+        "alternatives": [
+          "Pac-Man",
+          "Pong",
+          "Space Invaders",
+          "Tetris"
+        ],
+        "correctAnswer": "Pac-Man",
+        "category": "pop",
+        "contributor": "Daniel Moreira",
+        "createdAt": "2025-07-19T17:36:33.860421Z",
+        "difficulty": "hard",
+        "githubProfile": ""
+      },
+      {
+        "question": "Qual é o nome da série de livros de fantasia que se passa em um mundo dividido entre 'luz' e 'sombra' e apresenta o personagem Rand al'Thor?",
+        "alternatives": [
+          "A Roda do Tempo",
+          "As Crônicas de Gelo e Fogo",
+          "Mistborn",
+          "A Saga do Assassino"
+        ],
+        "correctAnswer": "A Roda do Tempo",
+        "category": "pop",
+        "contributor": "Daniel Moreira",
+        "createdAt": "2025-07-19T17:36:33.860421Z",
+        "difficulty": "hard",
+        "githubProfile": ""
+      },
+      {
+        "question": "Qual é o nome do artista que criou os personagens Mickey Mouse e Pato Donald?",
+        "alternatives": [
+          "Walt Disney",
+          "Chuck Jones",
+          "Tex Avery",
+          "Hanna-Barbera"
+        ],
+        "correctAnswer": "Walt Disney",
+        "category": "pop",
+        "contributor": "Daniel Moreira",
+        "createdAt": "2025-07-19T17:36:33.860421Z",
+        "difficulty": "hard",
+        "githubProfile": ""
+      },
+      {
+        "question": "Qual é o nome do gênero musical que mistura elementos de rock, punk e ska e se originou no Reino Unido nos anos 70?",
+        "alternatives": [
+          "New Wave",
+          "Reggae",
+          "Ska Punk",
+          "Two Tone"
+        ],
+        "correctAnswer": "New Wave",
+        "category": "pop",
+        "contributor": "Daniel Moreira",
+        "createdAt": "2025-07-19T17:36:33.860421Z",
+        "difficulty": "hard",
+        "githubProfile": ""
+      },
+      {
+        "question": "Qual é o nome da escritora que criou a série de livros 'As Crônicas de Nárnia'?",
+        "alternatives": [
+          "C.S. Lewis",
+          "J.R.R. Tolkien",
+          "Lewis Carroll",
+          "Roald Dahl"
+        ],
+        "correctAnswer": "C.S. Lewis",
+        "category": "pop",
+        "contributor": "Daniel Moreira",
+        "createdAt": "2025-07-19T17:36:33.860421Z",
+        "difficulty": "hard",
+        "githubProfile": ""
+      }
+    ]
+  }
+}

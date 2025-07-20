@@ -7,9 +7,7 @@ export function EndGame() {
   const location = useLocation();
   const navigate = useNavigate();
 
-  const ponctuation = location.state
-    ? location.state.correctAnswers.toString()
-    : false;
+  const { score, numberOfQuestions } = location.state ? location.state : null;
 
   function handlePlayAgain() {
     navigate("/");
@@ -19,54 +17,51 @@ export function EndGame() {
     <>
       <div className="w-full h-screen flex flex-col items-center justify-center gap-6">
         <Logo />
-        {ponctuation && (
+        {numberOfQuestions && (
           <div className="flex items-center gap-2">
             <span className="text-4xl">🎉</span>
             <h1 className="text-4xl font-bold">Fim de jogo</h1>
           </div>
         )}
         <span className="font-semibold">
-          {ponctuation
+          {numberOfQuestions
             ? "Sua pontuação: "
             : "Você ainda não jogou! Clique no botão abaixo"}
         </span>
-        {ponctuation && (
+        {numberOfQuestions && (
           <div className="flex gap-2 items-center">
             <div className="ring-1 ring-indigo-400 py-1 pl-1 pr-2 flex gap-1 rounded-sm">
               <span>✅</span>
-              <p>{ponctuation}</p>
+              <p>{score}</p>
             </div>
             <div className="ring-1 ring-indigo-400 py-1 pl-1 pr-2 flex gap-1 rounded-sm">
               <span>❌</span>
-              <p>{10 - Number(ponctuation)}</p>
+              <p>{Number(numberOfQuestions) - Number(score)}</p>
             </div>
           </div>
         )}
         <p className="text-center">
-          {ponctuation &&
+          {numberOfQuestions &&
             "Parabéns! Você finalizou o jogo. Clique no botão abaixo para jogar novamente."}
         </p>
         <div className="flex gap-3">
+          <button
+            onClick={handlePlayAgain}
+            type="button"
+            className="bg-indigo-500 text-white p-4 rounded-md hover:bg-indigo-600 hover:scale-110 ease-in-out transition-all active:bg-indigo-700 font-bold min-w-32"
+          >
+            {numberOfQuestions ? "Jogar novamente" : "Jogar"}
+          </button>
 
-        
-        <button
-          onClick={handlePlayAgain}
-          type="button"
-          className="bg-indigo-500 text-white p-4 rounded-md hover:bg-indigo-600 hover:scale-110 ease-in-out transition-all active:bg-indigo-700 font-bold min-w-32"
-        >
-          {ponctuation ? "Jogar novamente" : "Jogar"}
-        </button>
-
-        <a
-          target="_blank"
-          href="https://github.com/withoutspaces/data-quiz2.0"
-          className="flex items-center gap-2 ring-1 ring-indigo-600 p-2 rounded-md"
-        >
-          <i className="fa fa-github text-2xl" />
-          <span className="text-sm">Contribua no GitHub</span>
-        </a>
+          <a
+            target="_blank"
+            href="https://github.com/withoutspaces/data-quiz2.0"
+            className="flex items-center gap-2 ring-1 ring-indigo-600 p-2 rounded-md hover:bg-indigo-900"
+          >
+            <i className="fa fa-github text-2xl" />
+            <span className="text-sm">Contribua no GitHub</span>
+          </a>
         </div>
-
       </div>
 
       {contributors.length > 0 && (
