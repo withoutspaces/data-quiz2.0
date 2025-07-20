@@ -35,12 +35,8 @@ export function Game() {
     return shuffle(alternatives);
   }, [alternatives]);
 
-  const { playSound: playCorretSound } = useSound(
-    "/src/assets/sounds/correct.mp3"
-  );
-  const { playSound: playWrongSound } = useSound(
-    "/src/assets/sounds/wrong.mp3"
-  );
+  const { playSound: playCorretSound } = useSound("sounds/correct.mp3");
+  const { playSound: playWrongSound } = useSound("sounds/wrong.mp3");
 
   function handleClickedOption(alternative: string) {
     setCurrentAlternativeSelected(alternative);
@@ -73,7 +69,7 @@ export function Game() {
   return (
     <div className="flex flex-col items-center px-4 gap-8 h-screen justify-center">
       <div className="flex items-center gap-1 ">
-        <img src="/src/assets/logo2.png" alt="" className="w-[72px]" />
+        <img src="/logo2.png" alt="" className="w-[72px]" />
         <h1 className="font-bold tracking-tighter text-xl">DataQuiz</h1>
       </div>
 
