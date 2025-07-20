@@ -2,34 +2,34 @@ import { CategorySelector } from "@/components/category-selector";
 import { useNavigate } from "react-router-dom";
 import { Button } from "@/components/ui/button";
 import { Logo } from "@/components/quiz/logo";
+import { toast } from "sonner";
 
 type CategorySelector = {
   category: string;
   difficulty: string;
-}
+};
 
 export function Home() {
   const navigate = useNavigate();
 
   function handleContinue({ category, difficulty }: CategorySelector) {
-    navigate("/quiz", { state: { category, difficulty }});
+    navigate("/quiz", { state: { category, difficulty } });
   }
   function handleContribute() {
-    navigate("/contribute");
+    toast.success("Em breve você poderá contribuir!");
+    // navigate("/contribute");
   }
 
   return (
     <>
       <div className="w-full h-screen flex flex-col justify-center items-center px-6">
         <div className="flex flex-col items-center gap-8 mb-20">
-          <Logo/>
+          <Logo />
           <p className="text-center">
             Bem vindo ao DataQuiz! Para continuar, selecione a categoria das
             perguntas e a dificuldade.
           </p>
-          <CategorySelector 
-            handleNavigate={handleContinue}
-          />
+          <CategorySelector handleNavigate={handleContinue} />
         </div>
 
         <div className="absolute bottom-0">
