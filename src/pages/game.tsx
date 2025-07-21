@@ -70,7 +70,7 @@ export function Game() {
     <div className="flex flex-col items-center px-4 gap-8 h-screen justify-center">
       <div className="flex items-center gap-1 ">
         <img src="/logo2.png" alt="" className="w-[72px]" />
-        <h1 className="font-bold tracking-tighter text-xl">DataQuiz</h1>
+        <h1 className="font-bold tracking-tighter text-xl">QuizGame</h1>
       </div>
 
       <ScoreDisplay
