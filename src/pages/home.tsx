@@ -26,7 +26,7 @@ export function Home() {
         <div className="flex flex-col items-center gap-8 mb-20">
           <Logo />
           <p className="text-center">
-            Bem vindo ao DataQuiz! Para continuar, selecione a categoria das
+            Bem vindo ao QuizGame! Para continuar, selecione a categoria das
             perguntas e a dificuldade.
           </p>
           <CategorySelector handleNavigate={handleContinue} />

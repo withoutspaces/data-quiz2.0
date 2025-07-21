@@ -19,7 +19,7 @@ export function Logo({ small = false }: LogoProps) {
             : "text-6xl font-bold tracking-tighter"
         }
       >
-        DataQuiz
+        QuizGame
       </h1>
     </div>
   );
