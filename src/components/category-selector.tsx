@@ -5,7 +5,7 @@ import {
   SelectItem,
   SelectValue,
 } from "@/components/ui/select";
-import { Form, FormControl , FormField, FormItem } from '@/components/ui/form'
+import { Form, FormControl, FormField, FormItem } from "@/components/ui/form";
 import { z } from "zod";
 import { useForm } from "react-hook-form";
 import { zodResolver } from "@hookform/resolvers/zod";
@@ -31,15 +31,20 @@ const categorySchema = z.object({
 type CategoryFormData = z.infer<typeof categorySchema>;
 
 export function CategorySelector({ handleNavigate }: CategorySelectorProps) {
-  const form = useForm<CategoryFormData>({resolver: zodResolver(categorySchema)});
+  const form = useForm<CategoryFormData>({
+    resolver: zodResolver(categorySchema),
+  });
 
   function onSubmit(data: CategoryFormData) {
-    handleNavigate(data)
+    handleNavigate(data);
   }
-  
+
   return (
     <Form {...form}>
-      <form onSubmit={form.handleSubmit(onSubmit)} className="flex flex-col gap-10 w-full">
+      <form
+        onSubmit={form.handleSubmit(onSubmit)}
+        className="flex flex-col gap-10 w-full"
+      >
         <div className="flex gap-3">
           <FormField
             control={form.control}
@@ -68,10 +73,9 @@ export function CategorySelector({ handleNavigate }: CategorySelectorProps) {
                   </span>
                 )}
               </FormItem>
-              
             )}
           />
-          <FormField 
+          <FormField
             name="difficulty"
             control={form.control}
             render={({ field }) => (
@@ -89,16 +93,16 @@ export function CategorySelector({ handleNavigate }: CategorySelectorProps) {
                   </SelectContent>
                 </Select>
                 {form.formState.errors.difficulty && (
-                <span className="text-sm mt-2 text-red-400">
-                  {form.formState.errors.difficulty.message}
-                </span>
+                  <span className="text-sm mt-2 text-red-400">
+                    {form.formState.errors.difficulty.message}
+                  </span>
                 )}
               </FormItem>
             )}
           />
         </div>
-        <Button 
-          className="bg-indigo-500 self-center w-1/2" 
+        <Button
+          className="bg-indigo-500 self-center w-1/2 mt-40 md:mt-0"
           type="submit"
         >
           Iniciar
@@ -107,7 +111,3 @@ export function CategorySelector({ handleNavigate }: CategorySelectorProps) {
     </Form>
   );
 }
-
-
-      
-      
