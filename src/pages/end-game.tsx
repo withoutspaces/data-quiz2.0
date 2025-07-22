@@ -1,13 +1,37 @@
-import { Logo } from "@/components/quiz/logo";
 import { useLocation, useNavigate } from "react-router-dom";
-
-const contributors: string[] = [];
+import { useEffect, useState } from "react";
+import { Logo } from "@/components/quiz/logo";
+import { useSound } from "@/hooks/useSound";
 
 export function EndGame() {
+  const [params, setParams] = useState({ score: 0, numberOfQuestions: 0 });
   const location = useLocation();
   const navigate = useNavigate();
+  const { playSound: playWinningSound } = useSound("sounds/success-final.mp3");
+  const { playSound: playLostSound } = useSound("sounds/lost-final2.mp3");
 
-  const { score, numberOfQuestions } = location.state ? location.state : null;
+  const CONDITION_TO_WIN = 1;
+
+  useEffect(() => {
+    if (!location.state) {
+      return navigate("/play");
+    }
+    const { score, numberOfQuestions } = location.state;
+    setParams({
+      score: Number(score),
+      numberOfQuestions: Number(numberOfQuestions),
+    });
+  }, []);
+
+  useEffect(() => {
+    if (params.numberOfQuestions !== 0) {
+      if (params.score >= CONDITION_TO_WIN) {
+        playWinningSound();
+      } else {
+        playLostSound();
+      }
+    }
+  }, [params.score, params.numberOfQuestions]);
 
   function handlePlayAgain() {
     navigate("/");
@@ -17,32 +41,27 @@ export function EndGame() {
     <>
       <div className="w-full h-screen flex flex-col items-center justify-center gap-6">
         <Logo />
-        {numberOfQuestions && (
-          <div className="flex items-center gap-2">
-            <span className="text-4xl">🎉</span>
-            <h1 className="text-4xl font-bold">Fim de jogo</h1>
+        <div className="flex items-center gap-2">
+          <span className="text-4xl">
+            {Number(params.score) >= CONDITION_TO_WIN ? "🎉" : "😿"}
+          </span>
+          <h1 className="text-4xl font-bold">Fim de jogo</h1>
+        </div>
+        <span className="font-semibold">Sua pontuação:</span>
+        <div className="flex gap-2 items-center">
+          <div className="ring-1 ring-indigo-400 py-1 pl-1 pr-2 flex gap-1 rounded-sm">
+            <span>✅</span>
+            <p>{params.score}</p>
           </div>
-        )}
-        <span className="font-semibold">
-          {numberOfQuestions
-            ? "Sua pontuação: "
-            : "Você ainda não jogou! Clique no botão abaixo"}
-        </span>
-        {numberOfQuestions && (
-          <div className="flex gap-2 items-center">
-            <div className="ring-1 ring-indigo-400 py-1 pl-1 pr-2 flex gap-1 rounded-sm">
-              <span>✅</span>
-              <p>{score}</p>
-            </div>
-            <div className="ring-1 ring-indigo-400 py-1 pl-1 pr-2 flex gap-1 rounded-sm">
-              <span>❌</span>
-              <p>{Number(numberOfQuestions) - Number(score)}</p>
-            </div>
+          <div className="ring-1 ring-indigo-400 py-1 pl-1 pr-2 flex gap-1 rounded-sm">
+            <span>❌</span>
+            <p>{Number(params.numberOfQuestions) - Number(params.score)}</p>
           </div>
-        )}
+        </div>
+
         <p className="text-center">
-          {numberOfQuestions &&
-            "Parabéns! Você finalizou o jogo. Clique no botão abaixo para jogar novamente."}
+          Parabéns! Você finalizou o jogo. Clique no botão abaixo para jogar
+          novamente.
         </p>
         <div className="flex gap-3">
           <button
@@ -50,7 +69,7 @@ export function EndGame() {
             type="button"
             className="bg-indigo-500 text-white p-4 rounded-md hover:bg-indigo-600 hover:scale-110 ease-in-out transition-all active:bg-indigo-700 font-bold min-w-32"
           >
-            {numberOfQuestions ? "Jogar novamente" : "Jogar"}
+            Jogar novamente
           </button>
 
           <a
@@ -63,23 +82,6 @@ export function EndGame() {
           </a>
         </div>
       </div>
-
-      {contributors.length > 0 && (
-        <div className="absolute -bottom-64 sm:-bottom-44 lg:-bottom-32 md:-bottom-40">
-          <div className="flex flex-col items-center gap-2 px-6 mb-8">
-            <p className="text-indigo-400 text-sm">
-              💓 Agradecimento especial a:
-            </p>
-            <ul className="flex flex-wrap justify-center gap-x-6 gap-y-3 my-2">
-              {contributors.map((contributor, index) => (
-                <li key={index} className="text-indigo-400 text-sm list-disc">
-                  {contributor}
-                </li>
-              ))}
-            </ul>
-          </div>
-        </div>
-      )}
     </>
   );
 }
