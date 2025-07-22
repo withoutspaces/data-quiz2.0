@@ -10,7 +10,7 @@ export function EndGame() {
   const { playSound: playWinningSound } = useSound("sounds/success-final.mp3");
   const { playSound: playLostSound } = useSound("sounds/lost-final2.mp3");
 
-  const CONDITION_TO_WIN = 1;
+  const CONDITION_TO_WIN = 8;
 
   useEffect(() => {
     if (!location.state) {
