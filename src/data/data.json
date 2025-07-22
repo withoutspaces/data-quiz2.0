@@ -1709,15 +1709,14 @@
         "difficulty": "hard",
         "githubProfile": ""
       },
-      {
-        "question": "Qual é o nome da obra de arte de Leonardo da Vinci que retrata a Última Ceia?",
+      {"question": "Qual apóstolo é retratado por Leonardo da Vinci em 'A Última Ceia' com uma expressão de surpresa e as mãos afastadas, simbolizando negação ou traição?",
         "alternatives": [
-          "A Última Ceia",
-          "Mona Lisa",
-          "A Anunciação",
-          "Dama com Arminho"
+          "São Pedro",
+          "Judas Iscariotes",
+          "São Tomé",
+          "Filipe"
         ],
-        "correctAnswer": "A Última Ceia",
+        "correctAnswer": "São Pedro",
         "category": "general",
         "contributor": "Daniel Moreira",
         "createdAt": "2025-07-19T17:36:33.860421Z",
@@ -1939,7 +1938,7 @@
         "githubProfile": ""
       },
       {
-        "question": "Qual é o nome da cantora que lançou o álbum '21' e 'Adele'?",
+        "question": "Qual é o nome da cantora que lançou o álbum '21'?",
         "alternatives": [
           "Adele",
           "Amy Winehouse",
