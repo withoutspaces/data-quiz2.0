@@ -10,7 +10,7 @@ export function EndGame() {
   const { playSound: playWinningSound } = useSound("sounds/success-final.mp3");
   const { playSound: playLostSound } = useSound("sounds/lost-final2.mp3");
 
-  const CONDITION_TO_WIN = 8;
+  const WINNING_CONDITION = 8;
 
   useEffect(() => {
     if (!location.state) {
@@ -25,7 +25,7 @@ export function EndGame() {
 
   useEffect(() => {
     if (params.numberOfQuestions !== 0) {
-      if (params.score >= CONDITION_TO_WIN) {
+      if (params.score >= WINNING_CONDITION) {
         playWinningSound();
       } else {
         playLostSound();
@@ -43,7 +43,7 @@ export function EndGame() {
         <Logo />
         <div className="flex items-center gap-2">
           <span className="text-4xl">
-            {Number(params.score) >= CONDITION_TO_WIN ? "🎉" : "😿"}
+            {Number(params.score) >= WINNING_CONDITION ? "🎉" : "😿"}
           </span>
           <h1 className="text-4xl font-bold">Fim de jogo</h1>
         </div>
