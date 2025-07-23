@@ -13,6 +13,7 @@ export function Router() {
         <Route path="/quiz" element={<Game />} />
         <Route path="/end" element={<EndGame />} />
         <Route path="/play" element={<Play />} />
+        <Route path="/*" element={<Play />} />
         {/* <Route path="/contribute" element={<Contribute />} /> */}
       </Routes>
     </BrowserRouter>
