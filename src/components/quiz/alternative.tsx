@@ -20,14 +20,16 @@ export function Alternative({
 }: AlternativeProps) {
   const baseClasses = "ease-in-out transition-all p-4 rounded-md text-white";
   const defaultStateClasses =
-    "bg-indigo-500 hover:bg-indigo-600 active:bg-indigo-700 hover:scale-110";
+    "bg-indigo-500 hover:bg-indigo-600 active:bg-indigo-700 hover:scale-105 md:hover:scale-110";
 
   const dynamicClasses = clsx(
     baseClasses,
     {
-      "bg-green-600 scale-110 ring-2 ring-green-400": isRight,
-      "bg-red-600 ring-2 ring-red-400": isWrong,
-      "bg-indigo-600 scale-110 ring-2 ring-indigo-400": selected && !isRight,
+      "bg-green-700 scale-105 ring-2 ring-green-400 md:hover:scale-110":
+        isRight,
+      "bg-red-900 ring-2 ring-red-500": isWrong,
+      "bg-indigo-600 scale-105 ring-2 ring-indigo-400 md:hover:scale-110":
+        selected && !isRight,
     },
     !isRight && !isWrong && !selected && defaultStateClasses
   );
