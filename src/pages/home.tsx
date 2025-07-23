@@ -1,8 +1,8 @@
 import { CategorySelector } from "@/components/category-selector";
 import { useNavigate } from "react-router-dom";
 import { Button } from "@/components/ui/button";
-import { Logo } from "@/components/quiz/logo";
 import { toast } from "sonner";
+import { Logo } from "@/components/quiz/logo";
 
 type CategorySelector = {
   category: string;
@@ -26,7 +26,7 @@ export function Home() {
         <div className="flex flex-col items-center gap-8 mb-20">
           <Logo />
           <p className="text-center">
-            Bem vindo ao QuizGame! Para continuar, selecione a categoria das
+            Bem vindo ao Quizzfy! Para continuar, selecione a categoria das
             perguntas e a dificuldade.
           </p>
           <CategorySelector handleNavigate={handleContinue} />
