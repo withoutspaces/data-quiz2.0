@@ -1,5 +1,6 @@
 import type { Category, Difficulty } from "../types/questions";
 import { useLocation, useNavigate } from "react-router-dom";
+import { randomizeQuestions } from "../utils/randomizeQuestions";
 import { useState, useMemo } from "react";
 import { ScoreDisplay } from "@/components/quiz/scoreDisplay";
 import { Alternative } from "@/components/quiz/alternative";
@@ -22,21 +23,28 @@ export function Game() {
   const [currentQuestion, setCurrentQuestion] = useState(0);
   const [currentScore, setCurrentScore] = useState(0);
 
+  const { playSound: playCorretSound } = useSound("sounds/correct.mp3");
+  const { playSound: playWrongSound } = useSound("sounds/wrong.mp3");
+
   const navigate = useNavigate();
+
   const { category, difficulty } = useLocation().state as {
     category: Category;
     difficulty: Difficulty;
   };
 
+  const questions = response[category][difficulty];
+
+  const randomizedQuestions = useMemo(() => {
+    return randomizeQuestions(questions);
+  }, [questions]);
+
   const { alternatives, correctAnswer, question } =
-    response[category][difficulty][currentQuestion];
+    randomizedQuestions[currentQuestion];
 
   const shuffledAlternatives = useMemo(() => {
     return shuffle(alternatives);
   }, [alternatives]);
-
-  const { playSound: playCorretSound } = useSound("sounds/correct.mp3");
-  const { playSound: playWrongSound } = useSound("sounds/wrong.mp3");
 
   function handleClickedOption(alternative: string) {
     setCurrentAlternativeSelected(alternative);
@@ -68,9 +76,11 @@ export function Game() {
 
   return (
     <div className="flex flex-col items-center px-4 gap-8 h-screen justify-center">
-      <div className="flex items-center gap-1 ">
+      <div className="flex items-center gap-1">
         <img src="/logo2.png" alt="" className="w-[72px]" />
-        <h1 className="font-bold tracking-tighter text-xl">QuizGame</h1>
+        <h1 className="font-bold tracking-tighter text-xl">
+          Quizz<span className="text-green-400">fy</span>
+        </h1>
       </div>
 
       <ScoreDisplay

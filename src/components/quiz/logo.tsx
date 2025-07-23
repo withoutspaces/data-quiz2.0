@@ -19,7 +19,7 @@ export function Logo({ small = false }: LogoProps) {
             : "text-6xl font-bold tracking-tighter"
         }
       >
-        QuizGame
+        Quizz<span className="text-green-500">fy</span>
       </h1>
     </div>
   );

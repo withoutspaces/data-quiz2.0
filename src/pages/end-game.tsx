@@ -39,7 +39,7 @@ export function EndGame() {
 
   return (
     <>
-      <div className="w-full h-screen flex flex-col items-center justify-center gap-6">
+      <div className="w-full h-screen flex flex-col items-center justify-center gap-10">
         <Logo />
         <div className="flex items-center gap-2">
           <span className="text-4xl">
@@ -47,22 +47,24 @@ export function EndGame() {
           </span>
           <h1 className="text-4xl font-bold">Fim de jogo</h1>
         </div>
-        <span className="font-semibold">Sua pontuação:</span>
-        <div className="flex gap-2 items-center">
-          <div className="ring-1 ring-indigo-400 py-1 pl-1 pr-2 flex gap-1 rounded-sm">
-            <span>✅</span>
-            <p>{params.score}</p>
-          </div>
-          <div className="ring-1 ring-indigo-400 py-1 pl-1 pr-2 flex gap-1 rounded-sm">
-            <span>❌</span>
-            <p>{Number(params.numberOfQuestions) - Number(params.score)}</p>
+        <div className="flex items-center flex-col gap-2">
+          <span className="font-semibold">Sua pontuação:</span>
+          <div className="flex gap-2 items-center">
+            <div className="ring-1 ring-indigo-400 py-1 pl-1 pr-2 flex gap-1 rounded-sm">
+              <span>✅</span>
+              <p>{params.score}</p>
+            </div>
+            <div className="ring-1 ring-indigo-400 py-1 pl-1 pr-2 flex gap-1 rounded-sm">
+              <span>❌</span>
+              <p>{Number(params.numberOfQuestions) - Number(params.score)}</p>
+            </div>
           </div>
         </div>
 
-        <p className="text-center">
+        {/* <p className="text-center">
           Parabéns! Você finalizou o jogo. Clique no botão abaixo para jogar
           novamente.
-        </p>
+        </p> */}
         <div className="flex gap-3">
           <button
             onClick={handlePlayAgain}
