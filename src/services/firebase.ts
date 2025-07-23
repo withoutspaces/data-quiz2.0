@@ -1,15 +1,16 @@
-import { initializeApp } from 'firebase/app'
-import { getFirestore } from 'firebase/firestore'
+import { initializeApp } from "firebase/app";
+import { getFirestore } from "firebase/firestore";
+import { getAuth } from "firebase/auth";
 
 const firebaseConfig = {
-    apiKey: "AIzaSyAeCYcRtFVCXfRaKVJdPrIwAn-rnvYthrc",
-  authDomain: "dataquiz-app.firebaseapp.com",
-  projectId: "dataquiz-app",
-  storageBucket: "dataquiz-app.appspot.com",
-  messagingSenderId: "44117014189",
-  appId: "1:44117014189:web:ca650604f5051c479bf824"
-}
+  apiKey: import.meta.env.VITE_FIREBASE_APIKEY,
+  authDomain: import.meta.env.VITE_FIREBASE_AUTHDOMAIN,
+  projectId: import.meta.env.VITE_FIREBASE_PROJECTID,
+  storageBucket: import.meta.env.VITE_FIREBASE_STORAGEBUCKET,
+  messagingSenderId: import.meta.env.VITE_FIREBASE_MESSAGINGSENDERTO,
+  appId: import.meta.env.VITE_FIREBASE_APPID,
+};
 
-const firebaseApp = initializeApp(firebaseConfig)
-
-export const db = getFirestore(firebaseApp)
+const firebaseApp = initializeApp(firebaseConfig);
+export const auth = getAuth(firebaseApp);
+export const db = getFirestore(firebaseApp);
