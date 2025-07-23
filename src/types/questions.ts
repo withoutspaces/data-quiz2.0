@@ -2,11 +2,6 @@ export type Question = {
   question: string;
   alternatives: string[];
   correctAnswer: string;
-  category: string;
-  contributor: string;
-  createdAt: string;
-  difficulty: string;
-  githubProfile: string;
 };
 
 type QuestionsDifficulty = {
