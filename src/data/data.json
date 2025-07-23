@@ -9,12 +9,7 @@
           "1900",
           "1898"
         ],
-        "correctAnswer": "1889",
-        "category": "history",
-        "contributor": "Daniel Moreira",
-        "createdAt": "2025-07-19T17:36:33.860421Z",
-        "difficulty": "easy",
-        "githubProfile": ""
+        "correctAnswer": "1889"
       },
       {
         "question": "Quem foi o primeiro imperador do Brasil?",
@@ -24,27 +19,17 @@
           "Princesa Isabel",
           "Marechal Deodoro da Fonseca"
         ],
-        "correctAnswer": "Dom Pedro I",
-        "category": "history",
-        "contributor": "Daniel Moreira",
-        "createdAt": "2025-07-19T17:36:33.860421Z",
-        "difficulty": "easy",
-        "githubProfile": ""
+        "correctAnswer": "Dom Pedro I"
       },
       {
-      "question": "Em que ano o homem pisou na Lua pela primeira vez?",
+        "question": "Em que ano o homem pisou na Lua pela primeira vez?",
         "alternatives": [
           "1969",
           "1959",
           "1979",
           "1989"
         ],
-        "correctAnswer": "1969",
-        "category": "history",
-        "contributor": "Daniel Moreira",
-        "createdAt": "2025-07-19T17:36:33.860421Z",
-        "difficulty": "easy",
-        "githubProfile": ""
+        "correctAnswer": "1969"
       },
       {
         "question": "Qual civilização construiu as pirâmides de Gizé?",
@@ -54,12 +39,7 @@
           "Grega",
           "Maia"
         ],
-        "correctAnswer": "Egípcia",
-        "category": "history",
-        "contributor": "Daniel Moreira",
-        "createdAt": "2025-07-19T17:36:33.860421Z",
-        "difficulty": "easy",
-        "githubProfile": ""
+        "correctAnswer": "Egípcia"
       },
       {
         "question": "Quem foi o líder da Revolução Cubana?",
@@ -69,12 +49,7 @@
           "Raúl Castro",
           "Fulgêncio Batista"
         ],
-        "correctAnswer": "Fidel Castro",
-        "category": "history",
-        "contributor": "Daniel Moreira",
-        "createdAt": "2025-07-19T17:36:33.860421Z",
-        "difficulty": "easy",
-        "githubProfile": ""
+        "correctAnswer": "Fidel Castro"
       },
       {
         "question": "Qual era o nome do navio que afundou em 1912 após colidir com um iceberg?",
@@ -84,12 +59,7 @@
           "Olympic",
           "Lusitania"
         ],
-        "correctAnswer": "Titanic",
-        "category": "history",
-        "contributor": "Daniel Moreira",
-        "createdAt": "2025-07-19T17:36:33.860421Z",
-        "difficulty": "easy",
-        "githubProfile": ""
+        "correctAnswer": "Titanic"
       },
       {
         "question": "Quem pintou a Mona Lisa?",
@@ -99,12 +69,7 @@
           "Raphael",
           "Donatello"
         ],
-        "correctAnswer": "Leonardo da Vinci",
-        "category": "history",
-        "contributor": "Daniel Moreira",
-        "createdAt": "2025-07-19T17:36:33.860421Z",
-        "difficulty": "easy",
-        "githubProfile": ""
+        "correctAnswer": "Leonardo da Vinci"
       },
       {
         "question": "Em que país nasceu Adolf Hitler?",
@@ -114,12 +79,7 @@
           "França",
           "Itália"
         ],
-        "correctAnswer": "Áustria",
-        "category": "history",
-        "contributor": "Daniel Moreira",
-        "createdAt": "2025-07-19T17:36:33.860421Z",
-        "difficulty": "easy",
-        "githubProfile": ""
+        "correctAnswer": "Áustria"
       },
       {
         "question": "Qual evento marcou o início da Segunda Guerra Mundial na Europa?",
@@ -129,12 +89,7 @@
           "Batalha de Stalingrado",
           "Queda do Muro de Berlim"
         ],
-        "correctAnswer": "Invasão da Polônia pela Alemanha",
-        "category": "history",
-        "contributor": "Daniel Moreira",
-        "createdAt": "2025-07-19T17:36:33.860421Z",
-        "difficulty": "easy",
-        "githubProfile": ""
+        "correctAnswer": "Invasão da Polônia pela Alemanha"
       },
       {
         "question": "Quem foi o primeiro presidente dos Estados Unidos?",
@@ -144,12 +99,277 @@
           "Thomas Jefferson",
           "John Adams"
         ],
-        "correctAnswer": "George Washington",
-        "category": "history",
-        "contributor": "Daniel Moreira",
-        "createdAt": "2025-07-19T17:36:33.860421Z",
-        "difficulty": "easy",
-        "githubProfile": ""
+        "correctAnswer": "George Washington"
+      },
+      {
+        "question": "Qual império antigo é conhecido por sua vasta rede de estradas e por ter sido fundado por Ciro, o Grande?",
+        "alternatives": [
+          "Império Romano",
+          "Império Persa",
+          "Império Egípcio",
+          "Império Macedônico"
+        ],
+        "correctAnswer": "Império Persa"
+      },
+      {
+        "question": "Qual evento marcou o início da Idade Média na Europa?",
+        "alternatives": [
+          "Queda do Império Romano do Ocidente",
+          "Início das Cruzadas",
+          "Descoberta da América",
+          "Revolução Francesa"
+        ],
+        "correctAnswer": "Queda do Império Romano do Ocidente"
+      },
+      {
+        "question": "Quem foi a rainha egípcia famosa por seus relacionamentos com Júlio César e Marco Antônio?",
+        "alternatives": [
+          "Nefertiti",
+          "Hatshepsut",
+          "Cleópatra VII",
+          "Ankhesenamun"
+        ],
+        "correctAnswer": "Cleópatra VII"
+      },
+      {
+        "question": "Qual grande revolução do século XVIII, inspirada nos ideais iluministas, culminou na queda da monarquia e ascensão de Napoleão Bonaparte?",
+        "alternatives": [
+          "Revolução Americana",
+          "Revolução Gloriosa",
+          "Revolução Francesa",
+          "Revolução Russa"
+        ],
+        "correctAnswer": "Revolução Francesa"
+      },
+      {
+        "question": "Qual navegante português é creditado como o primeiro europeu a chegar às Índias por via marítima, contornando a África?",
+        "alternatives": [
+          "Cristóvão Colombo",
+          "Fernão de Magalhães",
+          "Vasco da Gama",
+          "Pedro Álvares Cabral"
+        ],
+        "correctAnswer": "Vasco da Gama"
+      },
+      {
+        "question": "Onde ocorreu a Batalha de Stalingrado, um dos confrontos mais sangrentos da Segunda Guerra Mundial?",
+        "alternatives": [
+          "Alemanha",
+          "França",
+          "União Soviética",
+          "Inglaterra"
+        ],
+        "correctAnswer": "União Soviética"
+      },
+      {
+        "question": "Qual foi o principal objetivo das Cruzadas medievais?",
+        "alternatives": [
+          "Expandir o comércio com o Oriente",
+          "Conquistar novas terras na Europa",
+          "Recuperar a Terra Santa dos muçulmanos",
+          "Formar alianças militares"
+        ],
+        "correctAnswer": "Recuperar a Terra Santa dos muçulmanos"
+      },
+      {
+        "question": "Qual foi o principal motivo que levou a Revolução Industrial a começar na Inglaterra no século XVIII?",
+        "alternatives": [
+          "Forte presença de jazidas de ouro e prata",
+          "Grandes extensões de terras agrícolas férteis",
+          "Disponibilidade de carvão e ferro, além de mão de obra e capital",
+          "Monarquia absolutista forte e centralizada"
+        ],
+        "correctAnswer": "Disponibilidade de carvão e ferro, além de mão de obra e capital"
+      },
+      {
+        "question": "Qual famoso líder mongol criou um dos maiores impérios contíguos da história, no século XIII?",
+        "alternatives": [
+          "Átila, o Huno",
+          "Genghis Khan",
+          "Tamerlão",
+          "Kublai Khan"
+        ],
+        "correctAnswer": "Genghis Khan"
+      },
+      {
+        "question": "O sistema de castas na Índia antiga estava intrinsecamente ligado a qual religião?",
+        "alternatives": [
+          "Budismo",
+          "Islamismo",
+          "Jainismo",
+          "Hinduísmo"
+        ],
+        "correctAnswer": "Hinduísmo"
+      },
+      {
+        "question": "Qual foi a cidade-estado grega conhecida por sua forte militarização e disciplina rigorosa?",
+        "alternatives": [
+          "Atenas",
+          "Tebas",
+          "Esparta",
+          "Corinto"
+        ],
+        "correctAnswer": "Esparta"
+      },
+      {
+        "question": "Qual documento, assinado em 1215 na Inglaterra, é considerado um dos primeiros passos para a democracia moderna, limitando o poder do rei?",
+        "alternatives": [
+          "Declaração de Direitos",
+          "Carta Magna",
+          "Habeas Corpus Act",
+          "Bill of Rights"
+        ],
+        "correctAnswer": "Carta Magna"
+      },
+      {
+        "question": "Qual foi a principal consequência do descobrimento do Novo Mundo para as potências europeias nos séculos XV e XVI?",
+        "alternatives": [
+          "Isolamento comercial",
+          "Revoluções internas",
+          "Expansão marítima e enriquecimento através de colônias",
+          "Guerras religiosas prolongadas"
+        ],
+        "correctAnswer": "Expansão marítima e enriquecimento através de colônias"
+      },
+      {
+        "question": "Quem foi o líder que unificou grande parte da Alemanha no século XIX e foi seu primeiro Chanceler?",
+        "alternatives": [
+          "Kaiser Guilherme II",
+          "Otto von Bismarck",
+          "Napoleão Bonaparte",
+          "Frederico, o Grande"
+        ],
+        "correctAnswer": "Otto von Bismarck"
+      },
+      {
+        "question": "A Guerra Fria foi um período de tensão geopolítica entre quais duas superpotências?",
+        "alternatives": [
+          "Alemanha e Japão",
+          "Reino Unido e França",
+          "Estados Unidos e União Soviética",
+          "China e Índia"
+        ],
+        "correctAnswer": "Estados Unidos e União Soviética"
+      },
+      {
+        "question": "Qual imperador romano é famoso por ter oficializado o Cristianismo como religião do Império Romano através do Édito de Tessalônica?",
+        "alternatives": [
+          "Júlio César",
+          "Augusto",
+          "Constantino",
+          "Teodósio I"
+        ],
+        "correctAnswer": "Teodósio I"
+      },
+      {
+        "question": "Qual civilização antiga desenvolveu a escrita hieroglífica e construiu as pirâmides de Gizé?",
+        "alternatives": [
+          "Mesopotâmica",
+          "Grega",
+          "Egípcia",
+          "Romana"
+        ],
+        "correctAnswer": "Egípcia"
+      },
+      {
+        "question": "Qual foi o principal motivo para a construção do Muro de Berlim em 1961?",
+        "alternatives": [
+          "Proteger Berlim Ocidental de ataques",
+          "Impedir a fuga de cidadãos de Berlim Oriental para o Ocidente",
+          "Facilitar o comércio entre as duas Alemanhas",
+          "Simbolizar a unificação alemã"
+        ],
+        "correctAnswer": "Impedir a fuga de cidadãos de Berlim Oriental para o Ocidente"
+      },
+      {
+        "question": "Quem foi o líder do movimento pelos direitos civis nos EUA, famoso pelo discurso 'Eu Tenho um Sonho'?",
+        "alternatives": [
+          "Malcolm X",
+          "Rosa Parks",
+          "Martin Luther King Jr.",
+          "Nelson Mandela"
+        ],
+        "correctAnswer": "Martin Luther King Jr."
+      },
+      {
+        "question": "Qual é o nome do período em que os dinossauros dominaram a Terra, antes de sua extinção em massa?",
+        "alternatives": [
+          "Era do Gelo",
+          "Período Permiano",
+          "Era Mesozoica",
+          "Período Paleolítico"
+        ],
+        "correctAnswer": "Era Mesozoica"
+      },
+      {
+        "question": "Qual famoso conquistador macedônio construiu um vasto império que se estendeu da Grécia até a Índia?",
+        "alternatives": [
+          "Júlio César",
+          "Alexandre, o Grande",
+          "Nabucodonosor II",
+          "Ciro, o Grande"
+        ],
+        "correctAnswer": "Alexandre, o Grande"
+      },
+      {
+        "question": "Qual foi o principal objetivo da Inquisição na Idade Média?",
+        "alternatives": [
+          "Promover o avanço científico",
+          "Combater a heresia e manter a ortodoxia católica",
+          "Incentivar a liberdade de expressão religiosa",
+          "Organizar novas Cruzadas"
+        ],
+        "correctAnswer": "Combater a heresia e manter a ortodoxia católica"
+      },
+      {
+        "question": "Qual império se estabeleceu na Península Itálica e se tornou um dos maiores da Antiguidade, com sua capital em Roma?",
+        "alternatives": [
+          "Império Bizantino",
+          "Império Otomano",
+          "Império Romano",
+          "Império Persa"
+        ],
+        "correctAnswer": "Império Romano"
+      },
+      {
+        "question": "A descoberta da Penicilina por Alexander Fleming marcou um avanço crucial em qual área no século XX?",
+        "alternatives": [
+          "Engenharia espacial",
+          "Comunicações sem fio",
+          "Medicina e tratamento de infecções",
+          "Produção de energia nuclear"
+        ],
+        "correctAnswer": "Medicina e tratamento de infecções"
+      },
+      {
+        "question": "Qual evento histórico é comumente associado ao fim do regime do Apartheid na África do Sul?",
+        "alternatives": [
+          "A independência do Congo",
+          "A eleição de Nelson Mandela como presidente",
+          "A Guerra de Angola",
+          "A fundação da União Africana"
+        ],
+        "correctAnswer": "A eleição de Nelson Mandela como presidente"
+      },
+      {
+        "question": "Qual foi a principal causa da Peste Negra que devastou a Europa no século XIV?",
+        "alternatives": [
+          "Contaminação da água potável",
+          "Proliferação de ratos e pulgas com a bactéria Yersinia pestis",
+          "Fenômenos climáticos extremos",
+          "Falta de higiene pessoal generalizada"
+        ],
+        "correctAnswer": "Proliferação de ratos e pulgas com a bactéria Yersinia pestis"
+      },
+      {
+        "question": "Qual foi o nome dado aos grandes castelos fortificados construídos na Idade Média, que serviam como residência e defesa?",
+        "alternatives": [
+          "Vilas",
+          "Mosteiros",
+          "Feudos",
+          "Castelos Medievais"
+        ],
+        "correctAnswer": "Castelos Medievais"
       }
     ],
     "medium": [
@@ -161,12 +381,7 @@
           "Tratado de Tordesilhas",
           "Tratado de Roma"
         ],
-        "correctAnswer": "Tratado de Versalhes",
-        "category": "history",
-        "contributor": "Daniel Moreira",
-        "createdAt": "2025-07-19T17:36:33.860421Z",
-        "difficulty": "medium",
-        "githubProfile": ""
+        "correctAnswer": "Tratado de Versalhes"
       },
       {
         "question": "Quem foi o líder pacifista que defendeu a independência da Índia através da desobediência civil?",
@@ -176,12 +391,7 @@
           "Nelson Mandela",
           "Martin Luther King Jr."
         ],
-        "correctAnswer": "Mahatma Gandhi",
-        "category": "history",
-        "contributor": "Daniel Moreira",
-        "createdAt": "2025-07-19T17:36:33.860421Z",
-        "difficulty": "medium",
-        "githubProfile": ""
+        "correctAnswer": "Mahatma Gandhi"
       },
       {
         "question": "A Guerra dos Cem Anos foi travada entre quais dois países?",
@@ -191,12 +401,7 @@
           "Espanha e Portugal",
           "Itália e Áustria"
         ],
-        "correctAnswer": "Inglaterra e França",
-        "category": "history",
-        "contributor": "Daniel Moreira",
-        "createdAt": "2025-07-19T17:36:33.860421Z",
-        "difficulty": "medium",
-        "githubProfile": ""
+        "correctAnswer": "Inglaterra e França"
       },
       {
         "question": "Qual imperador romano tornou o cristianismo a religião oficial do Império Romano?",
@@ -206,12 +411,7 @@
           "Nero",
           "Augusto"
         ],
-        "correctAnswer": "Teodósio I",
-        "category": "history",
-        "contributor": "Daniel Moreira",
-        "createdAt": "2025-07-19T17:36:33.860421Z",
-        "difficulty": "medium",
-        "githubProfile": ""
+        "correctAnswer": "Teodósio I"
       },
       {
         "question": "Em que ano a Queda do Muro de Berlim aconteceu?",
@@ -221,12 +421,7 @@
           "1985",
           "1990"
         ],
-        "correctAnswer": "1989",
-        "category": "history",
-        "contributor": "Daniel Moreira",
-        "createdAt": "2025-07-19T17:36:33.860421Z",
-        "difficulty": "medium",
-        "githubProfile": ""
+        "correctAnswer": "1989"
       },
       {
         "question": "Qual civilização antiga é conhecida por desenvolver a escrita cuneiforme?",
@@ -236,12 +431,7 @@
           "Grega",
           "Romana"
         ],
-        "correctAnswer": "Mesopotâmica",
-        "category": "history",
-        "contributor": "Daniel Moreira",
-        "createdAt": "2025-07-19T17:36:33.860421Z",
-        "difficulty": "medium",
-        "githubProfile": ""
+        "correctAnswer": "Mesopotâmica"
       },
       {
         "question": "Quem foi o faraó egípcio cujo túmulo foi descoberto quase intacto em 1922?",
@@ -251,12 +441,7 @@
           "Cleópatra",
           "Akhenaton"
         ],
-        "correctAnswer": "Tutancâmon",
-        "category": "history",
-        "contributor": "Daniel Moreira",
-        "createdAt": "2025-07-19T17:36:33.860421Z",
-        "difficulty": "medium",
-        "githubProfile": ""
+        "correctAnswer": "Tutancâmon"
       },
       {
         "question": "Qual batalha naval foi decisiva para a vitória dos Aliados na Guerra do Pacífico durante a Segunda Guerra Mundial?",
@@ -266,12 +451,7 @@
           "Batalha de Iwo Jima",
           "Batalha de Okinawa"
         ],
-        "correctAnswer": "Batalha de Midway",
-        "category": "history",
-        "contributor": "Daniel Moreira",
-        "createdAt": "2025-07-19T17:36:33.860421Z",
-        "difficulty": "medium",
-        "githubProfile": ""
+        "correctAnswer": "Batalha de Midway"
       },
       {
         "question": "Quem foi o principal autor da Declaração de Independência dos Estados Unidos?",
@@ -281,12 +461,7 @@
           "Benjamin Franklin",
           "John Adams"
         ],
-        "correctAnswer": "Thomas Jefferson",
-        "category": "history",
-        "contributor": "Daniel Moreira",
-        "createdAt": "2025-07-19T17:36:33.860421Z",
-        "difficulty": "medium",
-        "githubProfile": ""
+        "correctAnswer": "Thomas Jefferson"
       },
       {
         "question": "Qual evento é considerado o estopim da Revolução Francesa?",
@@ -296,12 +471,277 @@
           "Revolta dos Boxers",
           "Marcha sobre Roma"
         ],
-        "correctAnswer": "Queda da Bastilha",
-        "category": "history",
-        "contributor": "Daniel Moreira",
-        "createdAt": "2025-07-19T17:36:33.860421Z",
-        "difficulty": "medium",
-        "githubProfile": ""
+        "correctAnswer": "Queda da Bastilha"
+      },
+      {
+        "question": "Qual foi o principal objetivo da Doutrina Truman, proclamada em 1947?",
+        "alternatives": [
+          "Promover a integração econômica europeia",
+          "Estabelecer um plano de reconstrução para a Alemanha pós-guerra",
+          "Conter o avanço do comunismo no pós-Segunda Guerra Mundial",
+          "Iniciar a descolonização de nações africanas"
+        ],
+        "correctAnswer": "Conter o avanço do comunismo no pós-Segunda Guerra Mundial"
+      },
+      {
+        "question": "O Edito de Milão, promulgado em 313 d.C. por Constantino e Licínio, foi crucial para qual religião no Império Romano?",
+        "alternatives": [
+          "Judaísmo",
+          "Paganismo Romano",
+          "Cristianismo",
+          "Mithraísmo"
+        ],
+        "correctAnswer": "Cristianismo"
+      },
+      {
+        "question": "Qual foi o principal motivo da Guerra dos Cem Anos entre Inglaterra e França?",
+        "alternatives": [
+          "Disputas religiosas",
+          "Controle sobre as rotas comerciais asiáticas",
+          "Disputas dinásticas e territoriais pelo trono francês",
+          "Conflitos pela posse de Jerusalém"
+        ],
+        "correctAnswer": "Disputas dinásticas e territoriais pelo trono francês"
+      },
+      {
+        "question": "Qual evento precipitou a entrada dos Estados Unidos na Primeira Guerra Mundial em 1917?",
+        "alternatives": [
+          "Ataque a Pearl Harbor",
+          "Afundamento do Lusitania e o telegrama Zimmermann",
+          "Invasão da Polônia",
+          "Batalha de Verdun"
+        ],
+        "correctAnswer": "Afundamento do Lusitania e o telegrama Zimmermann"
+      },
+      {
+        "question": "Durante a Era Meiji no Japão, qual foi a principal característica das reformas implementadas?",
+        "alternatives": [
+          "Fortalecimento do sistema feudal",
+          "Isolamento completo do Ocidente",
+          "Modernização e ocidentalização para evitar a colonização",
+          "Foco na expansão territorial na Europa"
+        ],
+        "correctAnswer": "Modernização e ocidentalização para evitar a colonização"
+      },
+      {
+        "question": "Qual civilização pré-colombiana construiu cidades como Machu Picchu e um vasto império nos Andes?",
+        "alternatives": [
+          "Maias",
+          "Astecas",
+          "Incas",
+          "Olmecas"
+        ],
+        "correctAnswer": "Incas"
+      },
+      {
+        "question": "A Revolução Verde, que começou em meados do século XX, teve como principal foco o aumento da produção de alimentos através de qual método?",
+        "alternatives": [
+          "Agricultura orgânica em larga escala",
+          "Uso intensivo de biotecnologia e engenharia genética",
+          "Melhoramento de sementes, fertilizantes químicos e irrigação",
+          "Expansão da área agrícola em florestas tropicais"
+        ],
+        "correctAnswer": "Melhoramento de sementes, fertilizantes químicos e irrigação"
+      },
+      {
+        "question": "Qual foi o principal objetivo do Congresso de Viena (1814-1815) após as Guerras Napoleônicas?",
+        "alternatives": [
+          "Promover a industrialização na Europa",
+          "Reestabelecer o Antigo Regime e o equilíbrio de poder na Europa",
+          "Estabelecer a democracia em todos os países europeus",
+          "Incentivar a expansão colonial europeia"
+        ],
+        "correctAnswer": "Reestabelecer o Antigo Regime e o equilíbrio de poder na Europa"
+      },
+      {
+        "question": "Qual foi a principal causa da Crise dos Mísseis de Cuba em 1962?",
+        "alternatives": [
+          "Invasão da Baía dos Porcos pelos EUA",
+          "Instalação de mísseis nucleares soviéticos em Cuba",
+          "Bloqueio econômico dos EUA a Cuba",
+          "Revolução Cubana liderada por Fidel Castro"
+        ],
+        "correctAnswer": "Instalação de mísseis nucleares soviéticos em Cuba"
+      },
+      {
+        "question": "Qual figura feminina liderou o movimento sufragista no Reino Unido, que buscava o direito ao voto feminino no início do século XX?",
+        "alternatives": [
+          "Rosa Parks",
+          "Marie Curie",
+          "Emmeline Pankhurst",
+          "Florence Nightingale"
+        ],
+        "correctAnswer": "Emmeline Pankhurst"
+      },
+      {
+        "question": "O Período das Guerras Púnicas opôs quais duas grandes potências da Antiguidade Clássica?",
+        "alternatives": [
+          "Grécia e Pérsia",
+          "Roma e Cartago",
+          "Egito e Hatti",
+          "Macedônia e Esparta"
+        ],
+        "correctAnswer": "Roma e Cartago"
+      },
+      {
+        "question": "Qual evento, ocorrido em 1929, marcou o início da Grande Depressão nos Estados Unidos?",
+        "alternatives": [
+          "Ataque a Pearl Harbor",
+          "Terça-feira Negra na Bolsa de Nova York",
+          "Crise do Petróleo",
+          "Início da Lei Seca"
+        ],
+        "correctAnswer": "Terça-feira Negra na Bolsa de Nova York"
+      },
+      {
+        "question": "Qual era o nome do sistema de trabalho compulsório imposto pelos espanhóis aos povos indígenas nas colônias americanas, especialmente nas minas?",
+        "alternatives": [
+          "Encomienda",
+          "Mita",
+          "Repartimiento",
+          "Feitoria"
+        ],
+        "correctAnswer": "Mita"
+      },
+      {
+        "question": "A Queda da Bastilha, em 14 de julho de 1789, é considerada o marco inicial de qual grande evento histórico?",
+        "alternatives": [
+          "Revolução Gloriosa",
+          "Revolução Americana",
+          "Revolução Francesa",
+          "Guerra Civil Espanhola"
+        ],
+        "correctAnswer": "Revolução Francesa"
+      },
+      {
+        "question": "Qual foi o principal objetivo do Plano Marshall, implementado pelos EUA após a Segunda Guerra Mundial?",
+        "alternatives": [
+          "Apoiar regimes comunistas na Europa Oriental",
+          "Financiar a corrida espacial",
+          "Reconstruir as economias da Europa Ocidental e conter o comunismo",
+          "Criar uma nova liga de nações"
+        ],
+        "correctAnswer": "Reconstruir as economias da Europa Ocidental e conter o comunismo"
+      },
+      {
+        "question": "Quem foi o filósofo grego que foi mestre de Alexandre, o Grande, e fundou o Liceu?",
+        "alternatives": [
+          "Platão",
+          "Sócrates",
+          "Aristóteles",
+          "Pitágoras"
+        ],
+        "correctAnswer": "Aristóteles"
+      },
+      {
+        "question": "Qual tratado, assinado em 1494, dividiu as terras recém-descobertas no Novo Mundo entre Portugal e Espanha?",
+        "alternatives": [
+          "Tratado de Madri",
+          "Tratado de Tordesilhas",
+          "Tratado de Saragoça",
+          "Acordo de Alcáçovas"
+        ],
+        "correctAnswer": "Tratado de Tordesilhas"
+      },
+      {
+        "question": "Qual foi a principal inovação militar que permitiu a Gêngis Khan construir e manter seu vasto Império Mongol?",
+        "alternatives": [
+          "O uso de armas de fogo",
+          "A organização de grandes frotas navais",
+          "A cavalaria leve e táticas de cerco avançadas",
+          "O uso de elefantes de guerra"
+        ],
+        "correctAnswer": "A cavalaria leve e táticas de cerco avançadas"
+      },
+      {
+        "question": "A Crise de 1929, que levou à Grande Depressão, teve como uma de suas causas a superprodução e a especulação financeira. Qual foi o principal setor industrial afetado inicialmente?",
+        "alternatives": [
+          "Tecnologia e eletrônicos",
+          "Automobilístico e bens de consumo duráveis",
+          "Petróleo e gás",
+          "Farmacêutico"
+        ],
+        "correctAnswer": "Automobilístico e bens de consumo duráveis"
+      },
+      {
+        "question": "Qual foi o principal motivo que levou a Dinastia Qing, a última dinastia imperial da China, a cair em 1912?",
+        "alternatives": [
+          "Invasão externa por potências europeias",
+          "Pressões internas por reformas e revoltas populares",
+          "Falta de herdeiros para o trono",
+          "Declínio econômico devido à perda da Rota da Seda"
+        ],
+        "correctAnswer": "Pressões internas por reformas e revoltas populares"
+      },
+      {
+        "question": "O termo 'Cortina de Ferro' foi popularizado por Winston Churchill para descrever a divisão ideológica e física de qual continente durante a Guerra Fria?",
+        "alternatives": [
+          "América do Norte",
+          "Ásia",
+          "Europa",
+          "África"
+        ],
+        "correctAnswer": "Europa"
+      },
+      {
+        "question": "Qual foi o principal desdobramento da Revolução Haitiana (1791-1804) para a história das Américas?",
+        "alternatives": [
+          "Fortalecimento da escravidão nas ilhas do Caribe",
+          "Primeira e única revolta de escravos bem-sucedida que levou à independência e abolição",
+          "Aumento da influência francesa na região",
+          "Criação de uma monarquia escravista"
+        ],
+        "correctAnswer": "Primeira e única revolta de escravos bem-sucedida que levou à independência e abolição"
+      },
+      {
+        "question": "O 'Cisma do Oriente' (1054) resultou na divisão da Igreja Cristã em quais duas grandes vertentes?",
+        "alternatives": [
+          "Católica e Protestante",
+          "Católica e Ortodoxa",
+          "Anglicana e Luterana",
+          "Ortodoxa e Calvinista"
+        ],
+        "correctAnswer": "Católica e Ortodoxa"
+      },
+      {
+        "question": "Qual era o principal objetivo das Leis de Nuremberg, promulgadas na Alemanha Nazista em 1935?",
+        "alternatives": [
+          "Promover a igualdade racial",
+          "Proteger os direitos dos cidadãos judeus",
+          "Oficializar a segregação e privar judeus de sua cidadania e direitos",
+          "Estabelecer alianças com países vizinhos"
+        ],
+        "correctAnswer": "Oficializar a segregação e privar judeus de sua cidadania e direitos"
+      },
+      {
+        "question": "Qual foi a principal contribuição da civilização fenícia para a história do mundo antigo?",
+        "alternatives": [
+          "A invenção da roda",
+          "O desenvolvimento do primeiro alfabeto fonético",
+          "A construção das pirâmides",
+          "A criação de um vasto império terrestre"
+        ],
+        "correctAnswer": "O desenvolvimento do primeiro alfabeto fonético"
+      },
+      {
+        "question": "Qual foi o principal objetivo da Política do 'Grande Salto Adiante' (1958-1962) na China?",
+        "alternatives": [
+          "Estimular a cultura tradicional chinesa",
+          "Avançar rapidamente na industrialização e coletivização agrícola",
+          "Promover relações amistosas com os EUA",
+          "Reduzir a população rural e incentivar a vida urbana"
+        ],
+        "correctAnswer": "Avançar rapidamente na industrialização e coletivização agrícola"
+      },
+      {
+        "question": "O Concílio de Trento (1545-1563) foi a principal resposta da Igreja Católica a qual movimento religioso?",
+        "alternatives": [
+          "Revolução Científica",
+          "Contrarreforma (ou Reforma Católica)",
+          "Iluminismo",
+          "Renascimento"
+        ],
+        "correctAnswer": "Contrarreforma (ou Reforma Católica)"
       }
     ],
     "hard": [
@@ -313,12 +753,7 @@
           "Plano Colombo",
           "Plano Morgenthau"
         ],
-        "correctAnswer": "Plano Marshall",
-        "category": "history",
-        "contributor": "Daniel Moreira",
-        "createdAt": "2025-07-19T17:36:33.860421Z",
-        "difficulty": "hard",
-        "githubProfile": ""
+        "correctAnswer": "Plano Marshall"
       },
       {
         "question": "Quem foi a rainha egípcia que teve um romance com Júlio César e Marco Antônio?",
@@ -328,12 +763,7 @@
           "Hatshepsut",
           "Ankhesenamun"
         ],
-        "correctAnswer": "Cleópatra VII",
-        "category": "history",
-        "contributor": "Daniel Moreira",
-        "createdAt": "2025-07-19T17:36:33.860421Z",
-        "difficulty": "hard",
-        "githubProfile": ""
+        "correctAnswer": "Cleópatra VII"
       },
       {
         "question": "Qual foi o nome da revolta de escravos liderada por Spartacus na Roma Antiga?",
@@ -343,12 +773,7 @@
           "Guerra Social",
           "Revolta dos Gladiadores"
         ],
-        "correctAnswer": "Terceira Guerra Servil",
-        "category": "history",
-        "contributor": "Daniel Moreira",
-        "createdAt": "2025-07-19T17:36:33.860421Z",
-        "difficulty": "hard",
-        "githubProfile": ""
+        "correctAnswer": "Terceira Guerra Servil"
       },
       {
         "question": "Em que ano ocorreu o massacre da Praça da Paz Celestial na China?",
@@ -358,12 +783,7 @@
           "1999",
           "1969"
         ],
-        "correctAnswer": "1989",
-        "category": "history",
-        "contributor": "Daniel Moreira",
-        "createdAt": "2025-07-19T17:36:33.860421Z",
-        "difficulty": "hard",
-        "githubProfile": ""
+        "correctAnswer": "1989"
       },
       {
         "question": "Qual foi o nome da dinastia que unificou a China pela primeira vez?",
@@ -373,12 +793,7 @@
           "Dinastia Tang",
           "Dinastia Ming"
         ],
-        "correctAnswer": "Dinastia Qin",
-        "category": "history",
-        "contributor": "Daniel Moreira",
-        "createdAt": "2025-07-19T17:36:33.860421Z",
-        "difficulty": "hard",
-        "githubProfile": ""
+        "correctAnswer": "Dinastia Qin"
       },
       {
         "question": "Quem foi o navegador português que realizou a primeira circunavegação completa da Terra?",
@@ -388,12 +803,7 @@
           "Cristóvão Colombo",
           "Pedro Álvares Cabral"
         ],
-        "correctAnswer": "Fernão de Magalhães",
-        "category": "history",
-        "contributor": "Daniel Moreira",
-        "createdAt": "2025-07-19T17:36:33.860421Z",
-        "difficulty": "hard",
-        "githubProfile": ""
+        "correctAnswer": "Fernão de Magalhães"
       },
       {
         "question": "Qual foi a principal causa da Guerra do Ópio entre a Grã-Bretanha e a China no século XIX?",
@@ -403,12 +813,7 @@
           "Conflitos religiosos",
           "Questões dinásticas"
         ],
-        "correctAnswer": "Comércio de ópio",
-        "category": "history",
-        "contributor": "Daniel Moreira",
-        "createdAt": "2025-07-19T17:36:33.860421Z",
-        "difficulty": "hard",
-        "githubProfile": ""
+        "correctAnswer": "Comércio de ópio"
       },
       {
         "question": "Quem foi o último czar da Rússia antes da Revolução Russa de 1917?",
@@ -418,12 +823,7 @@
           "Pedro, o Grande",
           "Ivan, o Terrível"
         ],
-        "correctAnswer": "Nicolau II",
-        "category": "history",
-        "contributor": "Daniel Moreira",
-        "createdAt": "2025-07-19T17:36:33.860421Z",
-        "difficulty": "hard",
-        "githubProfile": ""
+        "correctAnswer": "Nicolau II"
       },
       {
         "question": "Qual foi o nome da operação aliada de desembarque na Normandia durante a Segunda Guerra Mundial?",
@@ -433,12 +833,7 @@
           "Operação Torch",
           "Operação Husky"
         ],
-        "correctAnswer": "Operação Overlord",
-        "category": "history",
-        "contributor": "Daniel Moreira",
-        "createdAt": "2025-07-19T17:36:33.860421Z",
-        "difficulty": "hard",
-        "githubProfile": ""
+        "correctAnswer": "Operação Overlord"
       },
       {
         "question": "Qual tratado estabeleceu a divisão da Alemanha após a Segunda Guerra Mundial?",
@@ -448,12 +843,257 @@
           "Pacto de Varsóvia",
           "Tratado de Maastricht"
         ],
-        "correctAnswer": "Acordo de Potsdam",
-        "category": "history",
-        "contributor": "Daniel Moreira",
-        "createdAt": "2025-07-19T17:36:33.860421Z",
-        "difficulty": "hard",
-        "githubProfile": ""
+        "correctAnswer": "Acordo de Potsdam"
+      },
+      {
+        "question": "Qual historiador da Escola dos Annales é conhecido por sua obra 'O Mediterrâneo e o Mundo Mediterrânico na Época de Filipe II', defendendo uma história de longa duração?",
+        "alternatives": [
+          "Marc Bloch",
+          "Lucien Febvre",
+          "Fernand Braudel",
+          "Jacques Le Goff"
+        ],
+        "correctAnswer": "Fernand Braudel"
+      },
+      {
+        "question": "Durante a República Romana, qual lei agrária proposta pelos irmãos Graco buscava redistribuir terras públicas aos cidadãos mais pobres, gerando intensa oposição da aristocracia?",
+        "alternatives": [
+          "Lex Canuleia",
+          "Lex Hortensia",
+          "Lex Sempronia Agraria",
+          "Lex Licinia Sextia"
+        ],
+        "correctAnswer": "Lex Sempronia Agraria"
+      },
+      {
+        "question": "Qual foi o principal objetivo da 'Polônia do Leste' (Ostforschung) na Alemanha Nazista, em relação à historiografia?",
+        "alternatives": [
+          "Promover a cooperação cultural com a Polônia",
+          "Estudar a história da resistência polonesa ao nazismo",
+          "Justificar a expansão territorial alemã para o leste através de argumentos históricos e raciais",
+          "Documentar as atrocidades cometidas contra a população polonesa"
+        ],
+        "correctAnswer": "Justificar a expansão territorial alemã para o leste através de argumentos históricos e raciais"
+      },
+      {
+        "question": "Qual foi a principal consequência da Crise de Suez em 1956 para o imperialismo britânico e francês?",
+        "alternatives": [
+          "Fortalecimento da influência britânica e francesa no Oriente Médio",
+          "O declínio acentuado do poder imperial de ambas as nações",
+          "Uma aliança militar duradoura com os Estados Unidos",
+          "Aumento da exportação de petróleo para a Europa"
+        ],
+        "correctAnswer": "O declínio acentuado do poder imperial de ambas as nações"
+      },
+      {
+        "question": "A 'Batalha do Teutoburgo', em 9 d.C., resultou em uma derrota esmagadora para as legiões romanas. Qual foi o comandante germânico responsável por essa vitória crucial contra Roma?",
+        "alternatives": [
+          "Júlio Civilis",
+          "Armínio",
+          "Vercingetórix",
+          "Átila, o Huno"
+        ],
+        "correctAnswer": "Armínio"
+      },
+      {
+        "question": "Qual foi a principal característica do movimento conhecido como 'Grande Cisma do Ocidente', que ocorreu entre 1378 e 1417?",
+        "alternatives": [
+          "Divisão da Igreja Católica com a existência de múltiplos papas rivais",
+          "Separação entre a Igreja Católica e a Igreja Ortodoxa",
+          "Perseguição aos hereges protestantes na Europa",
+          "A Reforma Protestante liderada por Martinho Lutero"
+        ],
+        "correctAnswer": "Divisão da Igreja Católica com a existência de múltiplos papas rivais"
+      },
+      {
+        "question": "Em qual cidade, em 1945, a Conferência de Potsdam reuniu os líderes Aliados para discutir o futuro da Alemanha e da Europa pós-Segunda Guerra Mundial?",
+        "alternatives": [
+          "Yalta",
+          "Teerã",
+          "Berlim",
+          "Potsdam"
+        ],
+        "correctAnswer": "Potsdam"
+      },
+      {
+        "question": "Qual foi a principal consequência da 'Noite de São Bartolomeu' (1572) na França, em termos de conflitos religiosos?",
+        "alternatives": [
+          "Fim das guerras religiosas na França",
+          "Fortalecimento do Protestantismo Huguenote",
+          "Massacre de milhares de huguenotes e escalada das Guerras Religiosas Francesas",
+          "Aliança entre católicos e protestantes contra a Espanha"
+        ],
+        "correctAnswer": "Massacre de milhares de huguenotes e escalada das Guerras Religiosas Francesas"
+      },
+      {
+        "question": "Qual dos seguintes não foi um dos Três Grandes estados que compunham a Tríplice Aliança no Período Clássico da Mesopotâmia?",
+        "alternatives": [
+          "Assíria",
+          "Babilônia",
+          "Egito",
+          "Elam"
+        ],
+        "correctAnswer": "Egito"
+      },
+      {
+        "question": "O 'Discurso sobre a Dignidade do Homem', de Pico della Mirandola, é considerado um manifesto de qual movimento intelectual do Renascimento?",
+        "alternatives": [
+          "Escolasticismo",
+          "Humanismo",
+          "Neoplatonismo",
+          "Racionalismo"
+        ],
+        "correctAnswer": "Humanismo"
+      },
+      {
+        "question": "A Paz de Augsburgo (1555) introduziu qual princípio legal que permitia aos governantes dos estados do Sacro Império Romano-Germânico escolher a religião de seus domínios?",
+        "alternatives": [
+          "Cuius regio, eius religio",
+          "Extra ecclesiam nulla salus",
+          "Ad fontes",
+          "Sola scriptura"
+        ],
+        "correctAnswer": "Cuius regio, eius religio"
+      },
+      {
+        "question": "Qual foi o principal objetivo da 'Revolta dos Boxers' na China no final do século XIX?",
+        "alternatives": [
+          "Estabelecer uma monarquia constitucional",
+          "Combater a influência estrangeira e missionária na China",
+          "Promover a modernização e ocidentalização do país",
+          "Restaurar a dinastia Qing ao seu antigo poder"
+        ],
+        "correctAnswer": "Combater a influência estrangeira e missionária na China"
+      },
+      {
+        "question": "O 'Komitern', ou Terceira Internacional, foi uma organização fundada em 1919 com qual objetivo principal?",
+        "alternatives": [
+          "Promover a cooperação econômica entre nações capitalistas",
+          "Unir os partidos socialistas e comunistas do mundo para promover a revolução proletária global",
+          "Coordenar os esforços de descolonização na África e Ásia",
+          "Negociar o fim da Primeira Guerra Mundial"
+        ],
+        "correctAnswer": "Unir os partidos socialistas e comunistas do mundo para promover a revolução proletária global"
+      },
+      {
+        "question": "Qual figura histórica foi o último imperador do Império Bizantino, morrendo na defesa de Constantinopla contra os otomanos em 1453?",
+        "alternatives": [
+          "Justiniano I",
+          "Basílio II",
+          "Constantino XI Paleólogo",
+          "Heráclio"
+        ],
+        "correctAnswer": "Constantino XI Paleólogo"
+      },
+      {
+        "question": "A Crise da Terceira Século (235-284 d.C.) no Império Romano foi caracterizada principalmente por qual combinação de fatores?",
+        "alternatives": [
+          "Estabilidade política e crescimento econômico",
+          "Expansão territorial e militarismo exacerbado",
+          "Anarquia militar, crises econômicas e invasões bárbaras",
+          "Unificação religiosa e florescimento cultural"
+        ],
+        "correctAnswer": "Anarquia militar, crises econômicas e invasões bárbaras"
+      },
+      {
+        "question": "A Teoria do 'Choque de Civilizações', proposta por Samuel Huntington, sugere que futuros conflitos globais seriam predominantemente entre quais entidades?",
+        "alternatives": [
+          "Estados-nação por recursos naturais",
+          "Ideologias políticas (democracia vs. autoritarismo)",
+          "Grandes blocos culturais e religiosos",
+          "Classes sociais por distribuição de riqueza"
+        ],
+        "correctAnswer": "Grandes blocos culturais e religiosos"
+      },
+      {
+        "question": "Qual dos seguintes eventos é considerado um dos gatilhos para a Guerra do Ópio entre a Grã-Bretanha e a China no século XIX?",
+        "alternatives": [
+          "A proibição do chá chinês na Grã-Bretanha",
+          "A destruição de um carregamento britânico de ópio em Cantão",
+          "A exigência chinesa de acesso aos portos europeus",
+          "A disputa territorial pela Ilha de Hong Kong"
+        ],
+        "correctAnswer": "A destruição de um carregamento britânico de ópio em Cantão"
+      },
+      {
+        "question": "A 'Pax Romana' (27 a.C. - 180 d.C.) foi um período de paz e estabilidade no Império Romano. Qual imperador iniciou essa era?",
+        "alternatives": [
+          "Júlio César",
+          "Nero",
+          "Augusto",
+          "Trajano"
+        ],
+        "correctAnswer": "Augusto"
+      },
+      {
+        "question": "Qual foi a principal consequência da Doutrina Brezhnev, proclamada pela União Soviética em 1968?",
+        "alternatives": [
+          "Apoio soviético à Primavera de Praga na Tchecoslováquia",
+          "Justificativa para a intervenção militar soviética em países do Bloco Oriental",
+          "Início da Perestroika e Glasnost",
+          "Retirada de tropas soviéticas do Afeganistão"
+        ],
+        "correctAnswer": "Justificativa para a intervenção militar soviética em países do Bloco Oriental"
+      },
+      {
+        "question": "Qual dos seguintes filósofos iluministas é mais associado à defesa da separação dos poderes (legislativo, executivo, judiciário)?",
+        "alternatives": [
+          "Jean-Jacques Rousseau",
+          "Voltaire",
+          "John Locke",
+          "Barão de Montesquieu"
+        ],
+        "correctAnswer": "Barão de Montesquieu"
+      },
+      {
+        "question": "Qual evento, ocorrido em 1806, marcou o fim formal do Sacro Império Romano-Germânico?",
+        "alternatives": [
+          "A Paz de Vestfália",
+          "A abdicação de Francisco II em face da pressão napoleônica",
+          "O Congresso de Viena",
+          "A Batalha de Austerlitz"
+        ],
+        "correctAnswer": "A abdicação de Francisco II em face da pressão napoleônica"
+      },
+      {
+        "question": "Qual foi a principal consequência da 'Colonização da África' (Scramble for Africa) no final do século XIX?",
+        "alternatives": [
+          "Aumento da prosperidade econômica africana",
+          "Maior autonomia política para os reinos africanos",
+          "Divisão e partilha do continente africano entre potências europeias",
+          "Criação de um bloco econômico africano"
+        ],
+        "correctAnswer": "Divisão e partilha do continente africano entre potências europeias"
+      },
+      {
+        "question": "A 'Revolução Gloriosa' (1688) na Inglaterra resultou na ascensão de qual tipo de sistema de governo?",
+        "alternatives": [
+          "Absolutismo",
+          "República Parlamentarista",
+          "Monarquia Absoluta",
+          "Monarquia Parlamentarista"
+        ],
+        "correctAnswer": "Monarquia Parlamentarista"
+      },
+      {
+        "question": "Qual foi o principal objetivo do 'New Deal' de Franklin D. Roosevelt nos EUA durante a Grande Depressão?",
+        "alternatives": [
+          "Aumentar o gasto militar",
+          "Intervenção governamental para promover a recuperação econômica e reformas sociais",
+          "Diminuir o poder dos sindicatos",
+          "Privatizar as indústrias básicas"
+        ],
+        "correctAnswer": "Intervenção governamental para promover a recuperação econômica e reformas sociais"
+      },
+      {
+        "question": "O termo 'Tiranos de Atenas' refere-se ao período de governo de quais figuras que, embora controversas, implementaram algumas reformas sociais e mantiveram o poder por meio da força antes da democracia plena?",
+        "alternatives": [
+          "Clístenes e Péricles",
+          "Drácon e Sólon",
+          "Pisístrato e seus filhos Hípias e Hiparco",
+          "Licurgo e Teseu"
+        ],
+        "correctAnswer": "Pisístrato e seus filhos Hípias e Hiparco"
       }
     ]
   },
@@ -467,12 +1107,7 @@
           "Terra",
           "Marte"
         ],
-        "correctAnswer": "Mercúrio",
-        "category": "science",
-        "contributor": "Daniel Moreira",
-        "createdAt": "2025-07-19T17:36:33.860421Z",
-        "difficulty": "easy",
-        "githubProfile": ""
+        "correctAnswer": "Mercúrio"
       },
       {
         "question": "Qual gás as plantas absorvem da atmosfera para fazer fotossíntese?",
@@ -482,12 +1117,7 @@
           "Nitrogênio",
           "Metano"
         ],
-        "correctAnswer": "Dióxido de carbono",
-        "category": "science",
-        "contributor": "Daniel Moreira",
-        "createdAt": "2025-07-19T17:36:33.860421Z",
-        "difficulty": "easy",
-        "githubProfile": ""
+        "correctAnswer": "Dióxido de carbono"
       },
       {
         "question": "Qual é o nome do processo pelo qual a água evapora das folhas das plantas?",
@@ -497,12 +1127,7 @@
           "Condensação",
           "Precipitação"
         ],
-        "correctAnswer": "Transpiração",
-        "category": "science",
-        "contributor": "Daniel Moreira",
-        "createdAt": "2025-07-19T17:36:33.860421Z",
-        "difficulty": "easy",
-        "githubProfile": ""
+        "correctAnswer": "Transpiração"
       },
       {
         "question": "Qual é a unidade básica da vida?",
@@ -512,12 +1137,7 @@
           "Molécula",
           "Tecido"
         ],
-        "correctAnswer": "Célula",
-        "category": "science",
-        "contributor": "Daniel Moreira",
-        "createdAt": "2025-07-19T17:36:33.860421Z",
-        "difficulty": "easy",
-        "githubProfile": ""
+        "correctAnswer": "Célula"
       },
       {
         "question": "Qual é a força que nos puxa para o centro da Terra?",
@@ -527,12 +1147,7 @@
           "Eletricidade",
           "Fricção"
         ],
-        "correctAnswer": "Gravidade",
-        "category": "science",
-        "contributor": "Daniel Moreira",
-        "createdAt": "2025-07-19T17:36:33.860421Z",
-        "difficulty": "easy",
-        "githubProfile": ""
+        "correctAnswer": "Gravidade"
       },
       {
         "question": "Qual é o principal componente do ar que respiramos?",
@@ -542,12 +1157,7 @@
           "Dióxido de carbono",
           "Argônio"
         ],
-        "correctAnswer": "Nitrogênio",
-        "category": "science",
-        "contributor": "Daniel Moreira",
-        "createdAt": "2025-07-19T17:36:33.860421Z",
-        "difficulty": "easy",
-        "githubProfile": ""
+        "correctAnswer": "Nitrogênio"
       },
       {
         "question": "Qual é o maior órgão do corpo humano?",
@@ -557,12 +1167,7 @@
           "Coração",
           "Cérebro"
         ],
-        "correctAnswer": "Pele",
-        "category": "science",
-        "contributor": "Daniel Moreira",
-        "createdAt": "2025-07-19T17:36:33.860421Z",
-        "difficulty": "easy",
-        "githubProfile": ""
+        "correctAnswer": "Pele"
       },
       {
         "question": "Qual é a capital do Brasil?",
@@ -572,12 +1177,7 @@
           "São Paulo",
           "Salvador"
         ],
-        "correctAnswer": "Brasília",
-        "category": "science",
-        "contributor": "Daniel Moreira",
-        "createdAt": "2025-07-19T17:36:33.860421Z",
-        "difficulty": "easy",
-        "githubProfile": ""
+        "correctAnswer": "Brasília"
       },
       {
         "question": "Qual é o processo pelo qual a água congela?",
@@ -587,12 +1187,7 @@
           "Fusão",
           "Sublimação"
         ],
-        "correctAnswer": "Solidificação",
-        "category": "science",
-        "contributor": "Daniel Moreira",
-        "createdAt": "2025-07-19T17:36:33.860421Z",
-        "difficulty": "easy",
-        "githubProfile": ""
+        "correctAnswer": "Solidificação"
       },
       {
         "question": "Qual é o animal terrestre mais rápido?",
@@ -602,12 +1197,7 @@
           "Antílope",
           "Cavalo"
         ],
-        "correctAnswer": "Guepardo",
-        "category": "science",
-        "contributor": "Daniel Moreira",
-        "createdAt": "2025-07-19T17:36:33.860421Z",
-        "difficulty": "easy",
-        "githubProfile": ""
+        "correctAnswer": "Guepardo"
       }
     ],
     "medium": [
@@ -619,12 +1209,7 @@
           "Galileu Galilei",
           "Marie Curie"
         ],
-        "correctAnswer": "Albert Einstein",
-        "category": "science",
-        "contributor": "Daniel Moreira",
-        "createdAt": "2025-07-19T17:36:33.860421Z",
-        "difficulty": "medium",
-        "githubProfile": ""
+        "correctAnswer": "Albert Einstein"
       },
       {
         "question": "Qual é o nome da galáxia em que o nosso sistema solar está localizado?",
@@ -634,12 +1219,7 @@
           "Triângulo",
           "Redemoinho"
         ],
-        "correctAnswer": "Via Láctea",
-        "category": "science",
-        "contributor": "Daniel Moreira",
-        "createdAt": "2025-07-19T17:36:33.860421Z",
-        "difficulty": "medium",
-        "githubProfile": ""
+        "correctAnswer": "Via Láctea"
       },
       {
         "question": "Qual é a parte do olho que controla a quantidade de luz que entra?",
@@ -649,12 +1229,7 @@
           "Retina",
           "Córnea"
         ],
-        "correctAnswer": "Íris",
-        "category": "science",
-        "contributor": "Daniel Moreira",
-        "createdAt": "2025-07-19T17:36:33.860421Z",
-        "difficulty": "medium",
-        "githubProfile": ""
+        "correctAnswer": "Íris"
       },
       {
         "question": "Qual é o elemento químico mais abundante na crosta terrestre?",
@@ -664,12 +1239,7 @@
           "Alumínio",
           "Ferro"
         ],
-        "correctAnswer": "Oxigênio",
-        "category": "science",
-        "contributor": "Daniel Moreira",
-        "createdAt": "2025-07-19T17:36:33.860421Z",
-        "difficulty": "medium",
-        "githubProfile": ""
+        "correctAnswer": "Oxigênio"
       },
       {
         "question": "Qual é a menor partícula de um elemento que ainda retém as propriedades desse elemento?",
@@ -679,12 +1249,7 @@
           "Elétron",
           "Próton"
         ],
-        "correctAnswer": "Átomo",
-        "category": "science",
-        "contributor": "Daniel Moreira",
-        "createdAt": "2025-07-19T17:36:33.860421Z",
-        "difficulty": "medium",
-        "githubProfile": ""
+        "correctAnswer": "Átomo"
       },
       {
         "question": "Qual é o nome da camada da atmosfera terrestre que contém a camada de ozônio?",
@@ -694,12 +1259,7 @@
           "Mesosfera",
           "Termosfera"
         ],
-        "correctAnswer": "Estratosfera",
-        "category": "science",
-        "contributor": "Daniel Moreira",
-        "createdAt": "2025-07-19T17:36:33.860421Z",
-        "difficulty": "medium",
-        "githubProfile": ""
+        "correctAnswer": "Estratosfera"
       },
       {
         "question": "Qual tipo de rocha é formado a partir do resfriamento e solidificação do magma ou lava?",
@@ -709,12 +1269,7 @@
           "Metamórfica",
           "Vulcânica"
         ],
-        "correctAnswer": "Ígnea",
-        "category": "science",
-        "contributor": "Daniel Moreira",
-        "createdAt": "2025-07-19T17:36:33.860421Z",
-        "difficulty": "medium",
-        "githubProfile": ""
+        "correctAnswer": "Ígnea"
       },
       {
         "question": "Qual é o processo pelo qual os organismos se adaptam ao seu ambiente ao longo do tempo?",
@@ -724,12 +1279,7 @@
           "Seleção natural",
           "Adaptação"
         ],
-        "correctAnswer": "Evolução",
-        "category": "science",
-        "contributor": "Daniel Moreira",
-        "createdAt": "2025-07-19T17:36:33.860421Z",
-        "difficulty": "medium",
-        "githubProfile": ""
+        "correctAnswer": "Evolução"
       },
       {
         "question": "Qual é o nome do cientista que é considerado o pai da genética?",
@@ -739,12 +1289,7 @@
           "Louis Pasteur",
           "Robert Hooke"
         ],
-        "correctAnswer": "Gregor Mendel",
-        "category": "science",
-        "contributor": "Daniel Moreira",
-        "createdAt": "2025-07-19T17:36:33.860421Z",
-        "difficulty": "medium",
-        "githubProfile": ""
+        "correctAnswer": "Gregor Mendel"
       },
       {
         "question": "Qual é a função dos glóbulos vermelhos no sangue?",
@@ -754,12 +1299,7 @@
           "Coagular o sangue",
           "Produzir anticorpos"
         ],
-        "correctAnswer": "Transportar oxigênio",
-        "category": "science",
-        "contributor": "Daniel Moreira",
-        "createdAt": "2025-07-19T17:36:33.860421Z",
-        "difficulty": "medium",
-        "githubProfile": ""
+        "correctAnswer": "Transportar oxigênio"
       }
     ],
     "hard": [
@@ -771,12 +1311,7 @@
           "Difração",
           "Dispersão"
         ],
-        "correctAnswer": "Refração",
-        "category": "science",
-        "contributor": "Daniel Moreira",
-        "createdAt": "2025-07-19T17:36:33.860421Z",
-        "difficulty": "hard",
-        "githubProfile": ""
+        "correctAnswer": "Refração"
       },
       {
         "question": "Qual é a teoria que descreve a origem e evolução do universo a partir de um ponto singular?",
@@ -786,12 +1321,7 @@
           "Teoria da Inflação Cósmica",
           "Teoria das Cordas"
         ],
-        "correctAnswer": "Teoria do Big Bang",
-        "category": "science",
-        "contributor": "Daniel Moreira",
-        "createdAt": "2025-07-19T17:36:33.860421Z",
-        "difficulty": "hard",
-        "githubProfile": ""
+        "correctAnswer": "Teoria do Big Bang"
       },
       {
         "question": "Qual é o nome da partícula subatômica que não possui carga elétrica?",
@@ -801,12 +1331,7 @@
           "Elétron",
           "Fóton"
         ],
-        "correctAnswer": "Nêutron",
-        "category": "science",
-        "contributor": "Daniel Moreira",
-        "createdAt": "2025-07-19T17:36:33.860421Z",
-        "difficulty": "hard",
-        "githubProfile": ""
+        "correctAnswer": "Nêutron"
       },
       {
         "question": "Qual é o processo pelo qual as estrelas produzem energia?",
@@ -816,12 +1341,7 @@
           "Combustão",
           "Reação química"
         ],
-        "correctAnswer": "Fusão nuclear",
-        "category": "science",
-        "contributor": "Daniel Moreira",
-        "createdAt": "2025-07-19T17:36:33.860421Z",
-        "difficulty": "hard",
-        "githubProfile": ""
+        "correctAnswer": "Fusão nuclear"
       },
       {
         "question": "Qual é o nome do maior osso do corpo humano?",
@@ -831,12 +1351,7 @@
           "Úmero",
           "Mandíbula"
         ],
-        "correctAnswer": "Fêmur",
-        "category": "science",
-        "contributor": "Daniel Moreira",
-        "createdAt": "2025-07-19T17:36:33.860421Z",
-        "difficulty": "hard",
-        "githubProfile": ""
+        "correctAnswer": "Fêmur"
       },
       {
         "question": "Qual é o nome do fenômeno óptico que causa a formação de arco-íris?",
@@ -846,12 +1361,7 @@
           "Refração atmosférica",
           "Interferência da luz"
         ],
-        "correctAnswer": "Dispersão da luz",
-        "category": "science",
-        "contributor": "Daniel Moreira",
-        "createdAt": "2025-07-19T17:36:33.860421Z",
-        "difficulty": "hard",
-        "githubProfile": ""
+        "correctAnswer": "Dispersão da luz"
       },
       {
         "question": "Qual é o nome da teoria que descreve a movimentação das placas tectônicas da Terra?",
@@ -861,12 +1371,7 @@
           "Expansão do Fundo Oceânico",
           "Teoria da Convecção"
         ],
-        "correctAnswer": "Tectônica de Placas",
-        "category": "science",
-        "contributor": "Daniel Moreira",
-        "createdAt": "2025-07-19T17:36:33.860421Z",
-        "difficulty": "hard",
-        "githubProfile": ""
+        "correctAnswer": "Tectônica de Placas"
       },
       {
         "question": "Qual é o nome da unidade de medida de frequência em homenagem ao cientista alemão Heinrich Hertz?",
@@ -876,12 +1381,7 @@
           "Joule (J)",
           "Ampère (A)"
         ],
-        "correctAnswer": "Hertz (Hz)",
-        "category": "science",
-        "contributor": "Daniel Moreira",
-        "createdAt": "2025-07-19T17:36:33.860421Z",
-        "difficulty": "hard",
-        "githubProfile": ""
+        "correctAnswer": "Hertz (Hz)"
       },
       {
         "question": "Qual é o nome do ácido encontrado no estômago humano que auxilia na digestão?",
@@ -891,12 +1391,7 @@
           "Ácido nítrico",
           "Ácido acético"
         ],
-        "correctAnswer": "Ácido clorídrico",
-        "category": "science",
-        "contributor": "Daniel Moreira",
-        "createdAt": "2025-07-19T17:36:33.860421Z",
-        "difficulty": "hard",
-        "githubProfile": ""
+        "correctAnswer": "Ácido clorídrico"
       },
       {
         "question": "Qual é o nome do processo de transformação de um estado sólido diretamente para um estado gasoso, sem passar pelo estado líquido?",
@@ -906,12 +1401,7 @@
           "Evaporação",
           "Fusão"
         ],
-        "correctAnswer": "Sublimação",
-        "category": "science",
-        "contributor": "Daniel Moreira",
-        "createdAt": "2025-07-19T17:36:33.860421Z",
-        "difficulty": "hard",
-        "githubProfile": ""
+        "correctAnswer": "Sublimação"
       }
     ]
   },
@@ -925,12 +1415,7 @@
           "HD",
           "Placa de Vídeo"
         ],
-        "correctAnswer": "CPU",
-        "category": "technology",
-        "contributor": "Daniel Moreira",
-        "createdAt": "2025-07-19T17:36:33.860421Z",
-        "difficulty": "easy",
-        "githubProfile": ""
+        "correctAnswer": "CPU"
       },
       {
         "question": "Qual é o sistema operacional mais usado em smartphones?",
@@ -940,12 +1425,7 @@
           "Windows Phone",
           "BlackBerry OS"
         ],
-        "correctAnswer": "Android",
-        "category": "technology",
-        "contributor": "Daniel Moreira",
-        "createdAt": "2025-07-19T17:36:33.860421Z",
-        "difficulty": "easy",
-        "githubProfile": ""
+        "correctAnswer": "Android"
       },
       {
         "question": "Qual é o nome da rede mundial de computadores que permite a troca de informações?",
@@ -955,12 +1435,7 @@
           "Extranet",
           "Rede Local"
         ],
-        "correctAnswer": "Internet",
-        "category": "technology",
-        "contributor": "Daniel Moreira",
-        "createdAt": "2025-07-19T17:36:33.860421Z",
-        "difficulty": "easy",
-        "githubProfile": ""
+        "correctAnswer": "Internet"
       },
       {
         "question": "Qual é o nome do dispositivo usado para digitar texto em um computador?",
@@ -970,12 +1445,7 @@
           "Monitor",
           "Impressora"
         ],
-        "correctAnswer": "Teclado",
-        "category": "technology",
-        "contributor": "Daniel Moreira",
-        "createdAt": "2025-07-19T17:36:33.860421Z",
-        "difficulty": "easy",
-        "githubProfile": ""
+        "correctAnswer": "Teclado"
       },
       {
         "question": "Qual é a sigla para o sistema de posicionamento global?",
@@ -985,12 +1455,7 @@
           "Bluetooth",
           "USB"
         ],
-        "correctAnswer": "GPS",
-        "category": "technology",
-        "contributor": "Daniel Moreira",
-        "createdAt": "2025-07-19T17:36:33.860421Z",
-        "difficulty": "easy",
-        "githubProfile": ""
+        "correctAnswer": "GPS"
       },
       {
         "question": "Qual é o nome do dispositivo que permite a conexão de vários computadores a uma rede?",
@@ -1000,12 +1465,7 @@
           "Modem",
           "Hub"
         ],
-        "correctAnswer": "Roteador",
-        "category": "technology",
-        "contributor": "Daniel Moreira",
-        "createdAt": "2025-07-19T17:36:33.860421Z",
-        "difficulty": "easy",
-        "githubProfile": ""
+        "correctAnswer": "Roteador"
       },
       {
         "question": "Qual é o nome do programa usado para navegar na internet?",
@@ -1015,12 +1475,7 @@
           "Planilha Eletrônica",
           "Antivírus"
         ],
-        "correctAnswer": "Navegador",
-        "category": "technology",
-        "contributor": "Daniel Moreira",
-        "createdAt": "2025-07-19T17:36:33.860421Z",
-        "difficulty": "easy",
-        "githubProfile": ""
+        "correctAnswer": "Navegador"
       },
       {
         "question": "Qual é a tecnologia que permite a comunicação sem fio entre dispositivos a curtas distâncias?",
@@ -1030,12 +1485,7 @@
           "NFC",
           "Infravermelho"
         ],
-        "correctAnswer": "Bluetooth",
-        "category": "technology",
-        "contributor": "Daniel Moreira",
-        "createdAt": "2025-07-19T17:36:33.860421Z",
-        "difficulty": "easy",
-        "githubProfile": ""
+        "correctAnswer": "Bluetooth"
       },
       {
         "question": "Qual é o nome do dispositivo de armazenamento de dados não volátil usado em computadores?",
@@ -1045,12 +1495,7 @@
           "Cache",
           "Processador"
         ],
-        "correctAnswer": "SSD",
-        "category": "technology",
-        "contributor": "Daniel Moreira",
-        "createdAt": "2025-07-19T17:36:33.860421Z",
-        "difficulty": "easy",
-        "githubProfile": ""
+        "correctAnswer": "SSD"
       },
       {
         "question": "Qual é o nome da empresa responsável pelo sistema operacional Windows?",
@@ -1060,13 +1505,208 @@
           "Google",
           "IBM"
         ],
-        "correctAnswer": "Microsoft",
-        "category": "technology",
-        "contributor": "Daniel Moreira",
-        "createdAt": "2025-07-19T17:36:33.860421Z",
-        "difficulty": "easy",
-        "githubProfile": ""
-      }
+        "correctAnswer": "Microsoft"
+      },
+      {
+    "question": "Qual componente de hardware é considerado o 'cérebro' do computador, responsável por executar a maioria das operações e cálculos?",
+    "alternatives": [
+      "Placa de Vídeo (GPU)",
+      "Memória RAM",
+      "Disco Rígido (HD)",
+      "Processador (CPU)"
+    ],
+    "correctAnswer": "Processador (CPU)"
+  },
+  {
+    "question": "Qual é a principal função de um navegador de internet como Google Chrome ou Firefox?",
+    "alternatives": [
+      "Editar documentos de texto",
+      "Enviar e-mails",
+      "Acessar e exibir páginas da web",
+      "Gerenciar arquivos do sistema"
+    ],
+    "correctAnswer": "Acessar e exibir páginas da web"
+  },
+  {
+    "question": "Qual tipo de rede permite que computadores em uma área geográfica limitada (como uma casa ou escritório) se conectem e compartilhem recursos?",
+    "alternatives": [
+      "WAN (Wide Area Network)",
+      "MAN (Metropolitan Area Network)",
+      "LAN (Local Area Network)",
+      "GAN (Global Area Network)"
+    ],
+    "correctAnswer": "LAN (Local Area Network)"
+  },
+  {
+    "question": "Qual tecnologia permite que dispositivos se conectem sem fio em curtas distâncias, comumente usada para fones de ouvido e teclados?",
+    "alternatives": [
+      "Wi-Fi",
+      "Ethernet",
+      "Bluetooth",
+      "NFC"
+    ],
+    "correctAnswer": "Bluetooth"
+  },
+  {
+    "question": "O que significa 'URL' no contexto da internet?",
+    "alternatives": [
+      "User Remote Login",
+      "Universal Resource Locator",
+      "Uniform Router Link",
+      "Unique Resource Language"
+    ],
+    "correctAnswer": "Universal Resource Locator"
+  },
+  {
+    "question": "Qual é a função de um software antivírus?",
+    "alternatives": [
+      "Acelerar a conexão de internet",
+      "Otimizar a bateria de notebooks",
+      "Detectar e remover programas maliciosos (malware)",
+      "Compactar arquivos grandes"
+    ],
+    "correctAnswer": "Detectar e remover programas maliciosos (malware)"
+  },
+  {
+    "question": "Qual termo é usado para descrever o armazenamento de dados e acesso a serviços através da internet, em vez de diretamente no seu computador?",
+    "alternatives": [
+      "Robótica",
+      "Big Data",
+      "Computação em Nuvem",
+      "Inteligência Artificial"
+    ],
+    "correctAnswer": "Computação em Nuvem"
+  },
+  {
+    "question": "Qual dispositivo é usado para converter sinais digitais de um computador em sinais analógicos para transmissão por linhas telefônicas (e vice-versa), permitindo a conexão à internet?",
+    "alternatives": [
+      "Roteador",
+      "Switch",
+      "Modem",
+      "Hub"
+    ],
+    "correctAnswer": "Modem"
+  },
+  {
+    "question": "O que é um 'Pixel' em uma tela digital?",
+    "alternatives": [
+      "Um tipo de cabo de rede",
+      "A menor unidade de imagem que pode ser exibida",
+      "Um formato de arquivo de áudio",
+      "Um tipo de memória RAM"
+    ],
+    "correctAnswer": "A menor unidade de imagem que pode ser exibida"
+  },
+  {
+    "question": "Qual linguagem de programação é frequentemente usada para criar a estrutura e o conteúdo de páginas da web?",
+    "alternatives": [
+      "Python",
+      "Java",
+      "HTML",
+      "C++"
+    ],
+    "correctAnswer": "HTML"
+  },
+  {
+    "question": "Qual é a principal função de um firewall em uma rede de computadores?",
+    "alternatives": [
+      "Aumentar a velocidade da internet",
+      "Proteger contra vírus e malwares",
+      "Controlar o tráfego de rede e bloquear acessos não autorizados",
+      "Gerenciar senhas de usuários"
+    ],
+    "correctAnswer": "Controlar o tráfego de rede e bloquear acessos não autorizados"
+  },
+  {
+    "question": "O que a sigla 'Wi-Fi' representa em redes sem fio?",
+    "alternatives": [
+      "Wireless Fidelity",
+      "Web File Internet",
+      "Wide Field Internet",
+      "Wireless Forum"
+    ],
+    "correctAnswer": "Wireless Fidelity"
+  },
+  {
+    "question": "Qual tipo de impressora utiliza um cartucho de tinta líquida para formar imagens e textos no papel?",
+    "alternatives": [
+      "Impressora a Laser",
+      "Impressora de Matriz de Pontos",
+      "Impressora a Jato de Tinta",
+      "Impressora Térmica"
+    ],
+    "correctAnswer": "Impressora a Jato de Tinta"
+  },
+  {
+    "question": "O que é 'RAM' em um computador e qual sua principal função?",
+    "alternatives": [
+      "Um tipo de armazenamento permanente para arquivos",
+      "Uma memória de acesso aleatório usada para dados temporários em execução",
+      "Um sistema de resfriamento do processador",
+      "Um componente para conectar à internet"
+    ],
+    "correctAnswer": "Uma memória de acesso aleatório usada para dados temporários em execução"
+  },
+  {
+    "question": "Qual das seguintes opções é um exemplo de sistema operacional para smartphones?",
+    "alternatives": [
+      "Microsoft Word",
+      "Adobe Photoshop",
+      "Android",
+      "Google Chrome"
+    ],
+    "correctAnswer": "Android"
+  },
+  {
+    "question": "Qual é o nome do sistema de arquivos geralmente usado para armazenar dados em drives USB e cartões de memória, sendo compatível com a maioria dos sistemas operacionais?",
+    "alternatives": [
+      "NTFS",
+      "ext4",
+      "FAT32",
+      "APFS"
+    ],
+    "correctAnswer": "FAT32"
+  },
+  {
+    "question": "O que significa o 'www' no início de um endereço de internet?",
+    "alternatives": [
+      "World Wide Web",
+      "Wireless Web Works",
+      "Web World Wires",
+      "Wide Web World"
+    ],
+    "correctAnswer": "World Wide Web"
+  },
+  {
+    "question": "Qual é o propósito de uma 'Placa-mãe' em um computador?",
+    "alternatives": [
+      "Armazenar dados permanentemente",
+      "Conectar-se a redes sem fio",
+      "Conectar e comunicar todos os componentes de hardware do PC",
+      "Exibir imagens na tela"
+    ],
+    "correctAnswer": "Conectar e comunicar todos os componentes de hardware do PC"
+  },
+  {
+    "question": "Qual tecnologia é usada para fazer pagamentos por aproximação com cartões ou smartphones em terminais de venda?",
+    "alternatives": [
+      "GPS",
+      "QR Code",
+      "NFC (Near Field Communication)",
+      "Infravermelho"
+    ],
+    "correctAnswer": "NFC (Near Field Communication)"
+  },
+  {
+    "question": "O que um 'backup' de dados significa em computação?",
+    "alternatives": [
+      "Apagar todos os arquivos do computador",
+      "Reformatar o disco rígido",
+      "Criar cópias de segurança de arquivos importantes",
+      "Instalar um novo sistema operacional"
+    ],
+    "correctAnswer": "Criar cópias de segurança de arquivos importantes"
+  }
     ],
     "medium": [
       {
@@ -1077,12 +1717,7 @@
           "Java",
           "C#"
         ],
-        "correctAnswer": "JavaScript",
-        "category": "technology",
-        "contributor": "Daniel Moreira",
-        "createdAt": "2025-07-19T17:36:33.860421Z",
-        "difficulty": "medium",
-        "githubProfile": ""
+        "correctAnswer": "JavaScript"
       },
       {
         "question": "Qual é o protocolo de rede usado para enviar e-mails?",
@@ -1092,12 +1727,7 @@
           "FTP",
           "POP3"
         ],
-        "correctAnswer": "SMTP",
-        "category": "technology",
-        "contributor": "Daniel Moreira",
-        "createdAt": "2025-07-19T17:36:33.860421Z",
-        "difficulty": "medium",
-        "githubProfile": ""
+        "correctAnswer": "SMTP"
       },
       {
         "question": "Qual é o nome da tecnologia que permite a criação de objetos tridimensionais a partir de um modelo digital?",
@@ -1107,12 +1737,7 @@
           "Realidade Aumentada",
           "Inteligência Artificial"
         ],
-        "correctAnswer": "Impressão 3D",
-        "category": "technology",
-        "contributor": "Daniel Moreira",
-        "createdAt": "2025-07-19T17:36:33.860421Z",
-        "difficulty": "medium",
-        "githubProfile": ""
+        "correctAnswer": "Impressão 3D"
       },
       {
         "question": "Qual é o nome do conceito de conectar dispositivos físicos à internet para coletar e trocar dados?",
@@ -1122,12 +1747,7 @@
           "Computação em Nuvem",
           "Machine Learning"
         ],
-        "correctAnswer": "Internet das Coisas (IoT)",
-        "category": "technology",
-        "contributor": "Daniel Moreira",
-        "createdAt": "2025-07-19T17:36:33.860421Z",
-        "difficulty": "medium",
-        "githubProfile": ""
+        "correctAnswer": "Internet das Coisas (IoT)"
       },
       {
         "question": "Qual é o nome da técnica de criptografia que utiliza um par de chaves, uma pública e uma privada?",
@@ -1137,12 +1757,7 @@
           "Criptografia Híbrida",
           "Função Hash"
         ],
-        "correctAnswer": "Criptografia de Chave Pública",
-        "category": "technology",
-        "contributor": "Daniel Moreira",
-        "createdAt": "2025-07-19T17:36:33.860421Z",
-        "difficulty": "medium",
-        "githubProfile": ""
+        "correctAnswer": "Criptografia de Chave Pública"
       },
       {
         "question": "Qual é o nome da estrutura de dados que armazena informações de forma descentralizada e segura, como no Bitcoin?",
@@ -1152,12 +1767,7 @@
           "Árvore Binária",
           "Lista Encadeada"
         ],
-        "correctAnswer": "Blockchain",
-        "category": "technology",
-        "contributor": "Daniel Moreira",
-        "createdAt": "2025-07-19T17:36:33.860421Z",
-        "difficulty": "medium",
-        "githubProfile": ""
+        "correctAnswer": "Blockchain"
       },
       {
         "question": "Qual é o nome da tecnologia de exibição que não requer retroiluminação, resultando em pretos mais profundos e cores mais vibrantes?",
@@ -1167,12 +1777,7 @@
           "LED",
           "Plasma"
         ],
-        "correctAnswer": "OLED",
-        "category": "technology",
-        "contributor": "Daniel Moreira",
-        "createdAt": "2025-07-19T17:36:33.860421Z",
-        "difficulty": "medium",
-        "githubProfile": ""
+        "correctAnswer": "OLED"
       },
       {
         "question": "Qual é o nome da área da inteligência artificial que permite que as máquinas aprendam com dados sem serem explicitamente programadas?",
@@ -1182,12 +1787,7 @@
           "Processamento de Linguagem Natural",
           "Visão Computacional"
         ],
-        "correctAnswer": "Machine Learning",
-        "category": "technology",
-        "contributor": "Daniel Moreira",
-        "createdAt": "2025-07-19T17:36:33.860421Z",
-        "difficulty": "medium",
-        "githubProfile": ""
+        "correctAnswer": "Machine Learning"
       },
       {
         "question": "Qual é o nome do padrão de comunicação sem fio de alta velocidade usado para redes locais?",
@@ -1197,12 +1797,7 @@
           "5G",
           "Li-Fi"
         ],
-        "correctAnswer": "Wi-Fi",
-        "category": "technology",
-        "contributor": "Daniel Moreira",
-        "createdAt": "2025-07-19T17:36:33.860421Z",
-        "difficulty": "medium",
-        "githubProfile": ""
+        "correctAnswer": "Wi-Fi"
       },
       {
         "question": "Qual é o nome do primeiro programa de computador que conseguia passar no Teste de Turing, em 2014?",
@@ -1212,13 +1807,208 @@
           "Deep Blue",
           "Watson"
         ],
-        "correctAnswer": "Eugene Goostman",
-        "category": "technology",
-        "contributor": "Daniel Moreira",
-        "createdAt": "2025-07-19T17:36:33.860421Z",
-        "difficulty": "medium",
-        "githubProfile": ""
-      }
+        "correctAnswer": "Eugene Goostman"
+      },
+      {
+    "question": "Qual das seguintes tecnologias de rede é mais adequada para conexões de alta velocidade em redes locais, utilizando cabos de par trançado?",
+    "alternatives": [
+      "Wi-Fi 6E",
+      "5G",
+      "Bluetooth Low Energy (LE)",
+      "Ethernet Gigabit"
+    ],
+    "correctAnswer": "Ethernet Gigabit"
+  },
+  {
+    "question": "Em arquiteturas de processadores, o que o termo 'cache L1' geralmente se refere?",
+    "alternatives": [
+      "Uma área de armazenamento temporário na memória RAM",
+      "O armazenamento de longo prazo mais rápido do sistema",
+      "Um pequeno e muito rápido banco de memória integrado diretamente à CPU",
+      "O cache de disco para arquivos do sistema operacional"
+    ],
+    "correctAnswer": "Um pequeno e muito rápido banco de memória integrado diretamente à CPU"
+  },
+  {
+    "question": "Qual protocolo é usado para transferir arquivos de forma segura pela internet, geralmente em um ambiente cliente-servidor, com criptografia?",
+    "alternatives": [
+      "FTP (File Transfer Protocol)",
+      "HTTP (Hypertext Transfer Protocol)",
+      "SMTP (Simple Mail Transfer Protocol)",
+      "SFTP (SSH File Transfer Protocol)"
+    ],
+    "correctAnswer": "SFTP (SSH File Transfer Protocol)"
+  },
+  {
+    "question": "No desenvolvimento web, o que é um 'framework' JavaScript como React, Angular ou Vue?",
+    "alternatives": [
+      "Um programa para compactar arquivos de código",
+      "Uma linguagem de programação para estilizar páginas",
+      "Um conjunto de bibliotecas e ferramentas para facilitar a construção de aplicações web",
+      "Um tipo de servidor web para hospedar sites"
+    ],
+    "correctAnswer": "Um conjunto de bibliotecas e ferramentas para facilitar a construção de aplicações web"
+  },
+  {
+    "question": "Qual é a principal vantagem de um SSD (Solid State Drive) em comparação com um HD (Hard Disk Drive) tradicional?",
+    "alternatives": [
+      "Maior capacidade de armazenamento pelo mesmo custo",
+      "Menor consumo de energia e maior resistência a impactos",
+      "Melhor para backup de longo prazo de grandes volumes de dados",
+      "Não requer fonte de alimentação externa"
+    ],
+    "correctAnswer": "Menor consumo de energia e maior resistência a impactos"
+  },
+  {
+    "question": "No contexto da cibersegurança, o que é um ataque de 'Phishing'?",
+    "alternatives": [
+      "Uma tentativa de sobrecarregar um servidor com tráfego excessivo",
+      "A instalação de um vírus diretamente no hardware",
+      "Uma tentativa fraudulenta de obter informações sensíveis, fingindo ser uma entidade confiável",
+      "O roubo de dados através de força bruta em senhas"
+    ],
+    "correctAnswer": "Uma tentativa fraudulenta de obter informações sensíveis, fingindo ser uma entidade confiável"
+  },
+  {
+    "question": "Qual termo descreve a capacidade de um sistema de computador ou de uma rede para lidar com uma carga de trabalho crescente?",
+    "alternatives": [
+      "Latência",
+      "Taxa de Transferência",
+      "Escalabilidade",
+      "Redundância"
+    ],
+    "correctAnswer": "Escalabilidade"
+  },
+  {
+    "question": "O que é 'API' (Application Programming Interface) no desenvolvimento de software?",
+    "alternatives": [
+      "Um tipo de programa antivírus",
+      "Um conjunto de rotinas, protocolos e ferramentas para construir software",
+      "Um dispositivo físico para conexão de redes",
+      "Uma linguagem de marcação para documentos"
+    ],
+    "correctAnswer": "Um conjunto de rotinas, protocolos e ferramentas para construir software"
+  },
+  {
+    "question": "Qual é a principal diferença entre um IP público e um IP privado?",
+    "alternatives": [
+      "IP público é usado apenas por roteadores, IP privado por computadores",
+      "IP público é visível na internet global, IP privado é restrito a uma rede local",
+      "IP público é fixo, IP privado é dinâmico",
+      "IP público é para servidores, IP privado para clientes"
+    ],
+    "correctAnswer": "IP público é visível na internet global, IP privado é restrito a uma rede local"
+  },
+  {
+    "question": "Em um banco de dados, o que representa uma 'chave primária'?",
+    "alternatives": [
+      "Um campo que armazena informações confidenciais",
+      "Um campo que pode ser repetido em várias linhas da tabela",
+      "Um campo que identifica unicamente cada registro em uma tabela",
+      "Um tipo de criptografia de dados"
+    ],
+    "correctAnswer": "Um campo que identifica unicamente cada registro em uma tabela"
+  },
+   {
+    "question": "Qual é a principal função do 'DHCP' (Dynamic Host Configuration Protocol) em uma rede?",
+    "alternatives": [
+      "Traduzir nomes de domínio em endereços IP",
+      "Atribuir automaticamente endereços IP e outras configurações de rede a dispositivos",
+      "Garantir a segurança das conexões HTTPS",
+      "Roteamento de pacotes de dados entre diferentes redes"
+    ],
+    "correctAnswer": "Atribuir automaticamente endereços IP e outras configurações de rede a dispositivos"
+  },
+  {
+    "question": "Em sistemas de computação, o que é um 'thread'?",
+    "alternatives": [
+      "Um tipo de cabo de rede para alta velocidade",
+      "Uma linha de código em um programa que causa um erro",
+      "A menor unidade de processamento que pode ser escalonada por um sistema operacional",
+      "Um protocolo para comunicação entre servidores"
+    ],
+    "correctAnswer": "A menor unidade de processamento que pode ser escalonada por um sistema operacional"
+  },
+  {
+    "question": "Qual é a principal distinção entre SaaS, PaaS e IaaS em serviços de computação em nuvem?",
+    "alternatives": [
+      "SaaS é para hardware, PaaS para software e IaaS para redes",
+      "SaaS oferece software pronto, PaaS uma plataforma de desenvolvimento, IaaS infraestrutura virtual",
+      "SaaS é gratuito, PaaS é pago e IaaS é de código aberto",
+      "SaaS é para usuários finais, PaaS para administradores de sistema, IaaS para desenvolvedores"
+    ],
+    "correctAnswer": "SaaS oferece software pronto, PaaS uma plataforma de desenvolvimento, IaaS infraestrutura virtual"
+  },
+  {
+    "question": "Em criptografia, qual é a principal característica da criptografia de chave simétrica?",
+    "alternatives": [
+      "Usa uma chave pública para criptografar e uma chave privada para descriptografar",
+      "Usa a mesma chave para criptografar e descriptografar dados",
+      "É mais lenta que a criptografia assimétrica para grandes volumes de dados",
+      "É usada principalmente para assinaturas digitais"
+    ],
+    "correctAnswer": "Usa a mesma chave para criptografar e descriptografar dados"
+  },
+  {
+    "question": "Qual é o propósito de uma 'VPN' (Virtual Private Network)?",
+    "alternatives": [
+      "Aumentar a velocidade da sua conexão com a internet",
+      "Criar uma rede local para jogos online",
+      "Estender uma rede privada através de uma rede pública, adicionando segurança e privacidade",
+      "Monitorar o uso de dados em smartphones"
+    ],
+    "correctAnswer": "Estender uma rede privada através de uma rede pública, adicionando segurança e privacidade"
+  },
+  {
+    "question": "No contexto de inteligência artificial, o que é 'Aprendizado de Máquina' (Machine Learning)?",
+    "alternatives": [
+      "A capacidade de robôs substituírem humanos em todas as tarefas",
+      "Um campo da IA que permite sistemas aprenderem com dados sem serem explicitamente programados",
+      "O estudo de como máquinas podem pensar como humanos",
+      "Um método para criar programas que resolvem problemas lógicos"
+    ],
+    "correctAnswer": "Um campo da IA que permite sistemas aprenderem com dados sem serem explicitamente programados"
+  },
+  {
+    "question": "O que é 'throughput' (vazão) em uma rede de computadores?",
+    "alternatives": [
+      "O atraso na transmissão de dados",
+      "A quantidade de dados que pode ser transmitida com sucesso por unidade de tempo",
+      "O número de erros em uma transmissão de dados",
+      "A capacidade máxima de banda de um cabo"
+    ],
+    "correctAnswer": "A quantidade de dados que pode ser transmitida com sucesso por unidade de tempo"
+  },
+  {
+    "question": "Qual é a principal função de um sistema 'ERP' (Enterprise Resource Planning)?",
+    "alternatives": [
+      "Gerenciar redes sociais",
+      "Integrar e gerenciar todos os processos de negócios de uma organização",
+      "Criar designs gráficos para websites",
+      "Desenvolver aplicativos móveis"
+    ],
+    "correctAnswer": "Integrar e gerenciar todos os processos de negócios de uma organização"
+  },
+  {
+    "question": "Em programação, o que um 'IDE' (Integrated Development Environment) oferece aos desenvolvedores?",
+    "alternatives": [
+      "Um espaço para armazenar códigos online",
+      "Uma ferramenta para testar a velocidade da internet",
+      "Um ambiente de software que integra ferramentas para desenvolvimento de código, depuração e compilação",
+      "Um serviço de nuvem para hospedar aplicativos"
+    ],
+    "correctAnswer": "Um ambiente de software que integra ferramentas para desenvolvimento de código, depuração e compilação"
+  },
+  {
+    "question": "Qual tecnologia de display emite sua própria luz por pixel, permitindo pretos perfeitos e cores vibrantes, mas com risco de burn-in?",
+    "alternatives": [
+      "LCD (Liquid Crystal Display)",
+      "LED (Light Emitting Diode)",
+      "OLED (Organic Light Emitting Diode)",
+      "Plasma"
+    ],
+    "correctAnswer": "OLED (Organic Light Emitting Diode)"
+  }
     ],
     "hard": [
       {
@@ -1229,12 +2019,7 @@
           "SHA",
           "MD5"
         ],
-        "correctAnswer": "AES",
-        "category": "technology",
-        "contributor": "Daniel Moreira",
-        "createdAt": "2025-07-19T17:36:33.860421Z",
-        "difficulty": "hard",
-        "githubProfile": ""
+        "correctAnswer": "AES"
       },
       {
         "question": "Qual é o nome da arquitetura de computadores que separa a memória de instruções da memória de dados?",
@@ -1244,12 +2029,7 @@
           "Arquitetura CISC",
           "Arquitetura RISC"
         ],
-        "correctAnswer": "Arquitetura Harvard",
-        "category": "technology",
-        "contributor": "Daniel Moreira",
-        "createdAt": "2025-07-19T17:36:33.860421Z",
-        "difficulty": "hard",
-        "githubProfile": ""
+        "correctAnswer": "Arquitetura Harvard"
       },
       {
         "question": "Qual é o nome do método de compressão de dados que perde parte da informação original, mas consegue taxas de compressão muito altas?",
@@ -1259,12 +2039,7 @@
           "Codificação Huffman",
           "Codificação LZW"
         ],
-        "correctAnswer": "Compressão com perdas",
-        "category": "technology",
-        "contributor": "Daniel Moreira",
-        "createdAt": "2025-07-19T17:36:33.860421Z",
-        "difficulty": "hard",
-        "githubProfile": ""
+        "correctAnswer": "Compressão com perdas"
       },
       {
         "question": "Qual é o nome do conceito que se refere à capacidade de uma inteligência artificial passar no Teste de Turing?",
@@ -1274,12 +2049,7 @@
           "Singularidade Tecnológica",
           "Robótica"
         ],
-        "correctAnswer": "Inteligência Artificial Forte",
-        "category": "technology",
-        "contributor": "Daniel Moreira",
-        "createdAt": "2025-07-19T17:36:33.860421Z",
-        "difficulty": "hard",
-        "githubProfile": ""
+        "correctAnswer": "Inteligência Artificial Forte"
       },
       {
         "question": "Qual é o nome da técnica usada para criar um ambiente virtual imersivo que simula a realidade?",
@@ -1289,12 +2059,7 @@
           "Realidade Mista (MR)",
           "Telepresença"
         ],
-        "correctAnswer": "Realidade Virtual (VR)",
-        "category": "technology",
-        "contributor": "Daniel Moreira",
-        "createdAt": "2025-07-19T17:36:33.860421Z",
-        "difficulty": "hard",
-        "githubProfile": ""
+        "correctAnswer": "Realidade Virtual (VR)"
       },
       {
         "question": "Qual é o nome do ataque cibernético que inunda um sistema com tráfego para torná-lo inacessível?",
@@ -1304,12 +2069,7 @@
           "Malware",
           "SQL Injection"
         ],
-        "correctAnswer": "Ataque de Negação de Serviço (DoS)",
-        "category": "technology",
-        "contributor": "Daniel Moreira",
-        "createdAt": "2025-07-19T17:36:33.860421Z",
-        "difficulty": "hard",
-        "githubProfile": ""
+        "correctAnswer": "Ataque de Negação de Serviço (DoS)"
       },
       {
         "question": "Qual é o nome do primeiro navegador da web com uma interface gráfica de usuário, lançado em 1993?",
@@ -1319,12 +2079,7 @@
           "Internet Explorer",
           "WorldWideWeb"
         ],
-        "correctAnswer": "Mosaic",
-        "category": "technology",
-        "contributor": "Daniel Moreira",
-        "createdAt": "2025-07-19T17:36:33.860421Z",
-        "difficulty": "hard",
-        "githubProfile": ""
+        "correctAnswer": "Mosaic"
       },
       {
         "question": "Qual é o nome do conceito de software que é distribuído com seu código-fonte aberto, permitindo que qualquer pessoa o modifique?",
@@ -1334,12 +2089,7 @@
           "Freeware",
           "Shareware"
         ],
-        "correctAnswer": "Código Aberto (Open Source)",
-        "category": "technology",
-        "contributor": "Daniel Moreira",
-        "createdAt": "2025-07-19T17:36:33.860421Z",
-        "difficulty": "hard",
-        "githubProfile": ""
+        "correctAnswer": "Código Aberto (Open Source)"
       },
       {
         "question": "Qual é o nome do sistema de gerenciamento de banco de dados relacional criado pela Oracle Corporation?",
@@ -1349,12 +2099,7 @@
           "PostgreSQL",
           "SQL Server"
         ],
-        "correctAnswer": "Oracle Database",
-        "category": "technology",
-        "contributor": "Daniel Moreira",
-        "createdAt": "2025-07-19T17:36:33.860421Z",
-        "difficulty": "hard",
-        "githubProfile": ""
+        "correctAnswer": "Oracle Database"
       },
       {
         "question": "Qual é o nome da lei que afirma que o número de transistores em um chip de computador dobra a cada dois anos?",
@@ -1364,13 +2109,208 @@
           "Lei de Nielsen",
           "Lei de Amdahl"
         ],
-        "correctAnswer": "Lei de Moore",
-        "category": "technology",
-        "contributor": "Daniel Moreira",
-        "createdAt": "2025-07-19T17:36:33.860421Z",
-        "difficulty": "hard",
-        "githubProfile": ""
-      }
+        "correctAnswer": "Lei de Moore"
+      },
+        {
+    "question": "Qual técnica de otimização de banco de dados envolve a divisão de uma tabela grande em múltiplas tabelas menores e mais gerenciáveis, geralmente distribuídas em diferentes servidores?",
+    "alternatives": [
+      "Indexação",
+      "Normalização",
+      "Sharding",
+      "Desnormalização"
+    ],
+    "correctAnswer": "Sharding"
+  },
+  {
+    "question": "Em criptografia, qual é a principal característica de uma função de hash criptográfica que a torna útil para verificar a integridade de dados?",
+    "alternatives": [
+      "Sua reversibilidade (facilidade de descriptografia)",
+      "Capacidade de gerar chaves simétricas",
+      "Resistência a colisões e irreversibilidade (difícil de reverter para o dado original)",
+      "Baixa complexidade computacional para ataques de força bruta"
+    ],
+    "correctAnswer": "Resistência a colisões e irreversibilidade (difícil de reverter para o dado original)"
+  },
+  {
+    "question": "Qual dos seguintes algoritmos de ordenação possui a complexidade de tempo média e pior caso de O(n log n)?",
+    "alternatives": [
+      "Bubble Sort",
+      "Insertion Sort",
+      "Quick Sort",
+      "Selection Sort"
+    ],
+    "correctAnswer": "Quick Sort"
+  },
+  {
+    "question": "O que o protocolo 'BGP' (Border Gateway Protocol) faz em uma rede IP global?",
+    "alternatives": [
+      "Gerencia endereços IP dentro de uma rede local",
+      "Converte nomes de domínio em endereços IP",
+      "Determina as melhores rotas entre sistemas autônomos na internet",
+      "Autentica usuários em uma rede sem fio"
+    ],
+    "correctAnswer": "Determina as melhores rotas entre sistemas autônomos na internet"
+  },
+  {
+    "question": "Em engenharia de software, o que é um 'microsserviço'?",
+    "alternatives": [
+      "Um pequeno bug em um software",
+      "Um software monolítico executado em múltiplos servidores",
+      "Uma abordagem arquitetural onde a aplicação é construída como uma coleção de pequenos serviços independentes",
+      "Um sistema operacional minimalista para dispositivos embarcados"
+    ],
+    "correctAnswer": "Uma abordagem arquitetural onde a aplicação é construída como uma coleção de pequenos serviços independentes"
+  },
+  {
+    "question": "Qual é a principal diferença entre a computação quântica e a computação clássica em termos de processamento de informações?",
+    "alternatives": [
+      "A computação quântica é mais rápida em todas as tarefas computacionais",
+      "A computação clássica usa qubits, enquanto a quântica usa bits binários",
+      "A computação quântica utiliza fenômenos como superposição e entrelaçamento para processar informações",
+      "A computação quântica exige temperaturas ambiente para funcionar eficientemente"
+    ],
+    "correctAnswer": "A computação quântica utiliza fenômenos como superposição e entrelaçamento para processar informações"
+  },
+  {
+    "question": "Em sistemas operacionais, o que é o 'kernel'?",
+    "alternatives": [
+      "Um aplicativo de interface gráfica para o usuário",
+      "O componente central que gerencia os recursos do sistema e a comunicação hardware/software",
+      "Um programa para desfragmentar o disco rígido",
+      "Uma ferramenta para otimização de memória RAM"
+    ],
+    "correctAnswer": "O componente central que gerencia os recursos do sistema e a comunicação hardware/software"
+  },
+  {
+    "question": "Qual conceito da programação orientada a objetos permite que um objeto se comporte de diferentes maneiras dependendo do contexto, geralmente através de herança ou interfaces?",
+    "alternatives": [
+      "Encapsulamento",
+      "Herança",
+      "Abstração",
+      "Polimorfismo"
+    ],
+    "correctAnswer": "Polimorfismo"
+  },
+  {
+    "question": "Qual é a principal função do protocolo 'DNS' (Domain Name System) na internet?",
+    "alternatives": [
+      "Atribuir endereços IP a dispositivos",
+      "Garantir a segurança da conexão Wi-Fi",
+      "Traduzir nomes de domínio legíveis por humanos (ex: google.com) em endereços IP numéricos",
+      "Controlar o fluxo de dados em redes de fibra óptica"
+    ],
+    "correctAnswer": "Traduzir nomes de domínio legíveis por humanos (ex: google.com) em endereços IP numéricos"
+  },
+  {
+    "question": "Em segurança da informação, o que é um 'exploit de dia zero' (zero-day exploit)?",
+    "alternatives": [
+      "Um tipo de ataque que ocorre apenas no primeiro dia de uso de um software",
+      "Uma vulnerabilidade de segurança conhecida pelo público e corrigida rapidamente",
+      "Uma vulnerabilidade de software que ainda não foi descoberta ou publicamente conhecida pelo fornecedor",
+      "Um ataque que visa apenas sistemas operacionais mais antigos"
+    ],
+    "correctAnswer": "Uma vulnerabilidade de software que ainda não foi descoberta ou publicamente conhecida pelo fornecedor"
+  },
+  {
+    "question": "Qual dos seguintes algoritmos de criptografia assimétrica é amplamente utilizado para assinaturas digitais e troca segura de chaves em SSL/TLS?",
+    "alternatives": [
+      "AES (Advanced Encryption Standard)",
+      "DES (Data Encryption Standard)",
+      "RSA (Rivest–Shamir–Adleman)",
+      "MD5 (Message-Digest Algorithm 5)"
+    ],
+    "correctAnswer": "RSA (Rivest–Shamir–Adleman)"
+  },
+  {
+    "question": "No contexto de redes de computadores, o que é um ataque 'DDoS' (Distributed Denial of Service)?",
+    "alternatives": [
+      "Um ataque que rouba dados de um único computador",
+      "Uma tentativa de sobrecarregar um servidor ou serviço online com tráfego massivo de múltiplas fontes",
+      "A instalação de um vírus em uma rede local",
+      "Um método para descriptografar dados de forma rápida"
+    ],
+    "correctAnswer": "Uma tentativa de sobrecarregar um servidor ou serviço online com tráfego massivo de múltiplas fontes"
+  },
+  {
+    "question": "Qual paradigma de programação enfatiza a composição de funções puras, evitando estados mutáveis e efeitos colaterais?",
+    "alternatives": [
+      "Programação Orientada a Objetos",
+      "Programação Imperativa",
+      "Programação Funcional",
+      "Programação Lógica"
+    ],
+    "correctAnswer": "Programação Funcional"
+  },
+  {
+    "question": "Em virtualização, qual software permite que múltiplas máquinas virtuais rodem em um único hardware físico?",
+    "alternatives": [
+      "Sistema Operacional Convidado",
+      "Container",
+      "Hipervisor (Type-1 ou Type-2)",
+      "Emulador"
+    ],
+    "correctAnswer": "Hipervisor (Type-1 ou Type-2)"
+  },
+  {
+    "question": "Qual é a principal característica que diferencia uma linguagem de programação 'compilada' de uma 'interpretada'?",
+    "alternatives": [
+      "Linguagens compiladas são executadas linha por linha, interpretadas são traduzidas antes",
+      "Linguagens compiladas são multiplataforma, interpretadas não",
+      "Linguagens compiladas são traduzidas para código de máquina antes da execução, interpretadas são executadas por um interpretador em tempo real",
+      "Linguagens compiladas exigem menos memória RAM"
+    ],
+    "correctAnswer": "Linguagens compiladas são traduzidas para código de máquina antes da execução, interpretadas são executadas por um interpretador em tempo real"
+  },
+  {
+    "question": "Em sistemas distribuídos, o que significa o teorema 'CAP' (Consistency, Availability, Partition Tolerance)?",
+    "alternatives": [
+      "Que um sistema distribuído pode sempre garantir Consistência, Acessibilidade e Particionamento",
+      "Que um sistema distribuído só pode garantir duas das três propriedades (Consistência, Disponibilidade, Tolerância à Partição) simultaneamente",
+      "Que a Criptografia, Autenticação e Privacidade são os pilares da segurança",
+      "Que um sistema deve ser Completo, Aberto e Performático"
+    ],
+    "correctAnswer": "Que um sistema distribuído só pode garantir duas das três propriedades (Consistência, Disponibilidade, Tolerância à Partição) simultaneamente"
+  },
+  {
+    "question": "Qual das seguintes estruturas de dados oferece acesso O(1) (constante) para inserção, remoção e busca em média, mas não garante a ordem dos elementos?",
+    "alternatives": [
+      "Lista Encadeada",
+      "Array Ordenado",
+      "Tabela Hash (Hash Table)",
+      "Árvore Binária de Busca"
+    ],
+    "correctAnswer": "Tabela Hash (Hash Table)"
+  },
+  {
+    "question": "No desenvolvimento de software ágil, o que o 'Scrum Master' representa dentro da equipe Scrum?",
+    "alternatives": [
+      "O cliente que define os requisitos do produto",
+      "O líder técnico que toma todas as decisões de design",
+      "Um facilitador que garante que a equipe siga as práticas Scrum e remove impedimentos",
+      "O responsável por testar o software desenvolvido"
+    ],
+    "correctAnswer": "Um facilitador que garante que a equipe siga as práticas Scrum e remove impedimentos"
+  },
+  {
+    "question": "O que é 'Docker' no contexto de desenvolvimento e implantação de software?",
+    "alternatives": [
+      "Um sistema operacional completo para servidores web",
+      "Uma plataforma de virtualização de hardware para criar máquinas virtuais",
+      "Uma plataforma para desenvolver, empacotar e executar aplicações em contêineres isolados",
+      "Um software de monitoramento de rede para detecção de intrusões"
+    ],
+    "correctAnswer": "Uma plataforma para desenvolver, empacotar e executar aplicações em contêineres isolados"
+  },
+  {
+    "question": "Qual protocolo de rede é fundamental para a camada de transporte, oferecendo entrega confiável, ordenada e com controle de fluxo?",
+    "alternatives": [
+      "UDP (User Datagram Protocol)",
+      "IP (Internet Protocol)",
+      "ARP (Address Resolution Protocol)",
+      "TCP (Transmission Control Protocol)"
+    ],
+    "correctAnswer": "TCP (Transmission Control Protocol)"
+  }
     ]
   },
   "general": {
@@ -1383,12 +2323,7 @@
           "Oceano Índico",
           "Oceano Ártico"
         ],
-        "correctAnswer": "Oceano Pacífico",
-        "category": "general",
-        "contributor": "Daniel Moreira",
-        "createdAt": "2025-07-19T17:36:33.860421Z",
-        "difficulty": "easy",
-        "githubProfile": ""
+        "correctAnswer": "Oceano Pacífico"
       },
       {
         "question": "Quantos continentes existem no mundo?",
@@ -1398,12 +2333,7 @@
           "Seis",
           "Quatro"
         ],
-        "correctAnswer": "Sete",
-        "category": "general",
-        "contributor": "Daniel Moreira",
-        "createdAt": "2025-07-19T17:36:33.860421Z",
-        "difficulty": "easy",
-        "githubProfile": ""
+        "correctAnswer": "Sete"
       },
       {
         "question": "Qual é o nome do pico mais alto do mundo?",
@@ -1413,12 +2343,7 @@
           "Monte Fuji",
           "Kilimanjaro"
         ],
-        "correctAnswer": "Monte Everest",
-        "category": "general",
-        "contributor": "Daniel Moreira",
-        "createdAt": "2025-07-19T17:36:33.860421Z",
-        "difficulty": "easy",
-        "githubProfile": ""
+        "correctAnswer": "Monte Everest"
       },
       {
         "question": "Qual é o nome do animal mais rápido do mundo?",
@@ -1428,12 +2353,7 @@
           "Peixe-espada",
           "Leão"
         ],
-        "correctAnswer": "Falcão-peregrino",
-        "category": "general",
-        "contributor": "Daniel Moreira",
-        "createdAt": "2025-07-19T17:36:33.860421Z",
-        "difficulty": "easy",
-        "githubProfile": ""
+        "correctAnswer": "Falcão-peregrino"
       },
       {
         "question": "Qual é o nome do maior deserto do mundo?",
@@ -1443,12 +2363,7 @@
           "Deserto de Gobi",
           "Deserto da Arábia"
         ],
-        "correctAnswer": "Deserto do Saara",
-        "category": "general",
-        "contributor": "Daniel Moreira",
-        "createdAt": "2025-07-19T17:36:33.860421Z",
-        "difficulty": "easy",
-        "githubProfile": ""
+        "correctAnswer": "Deserto do Saara"
       },
       {
         "question": "Qual é o nome do rio mais longo do mundo?",
@@ -1458,12 +2373,7 @@
           "Rio Mississippi",
           "Rio Yangtze"
         ],
-        "correctAnswer": "Rio Nilo",
-        "category": "general",
-        "contributor": "Daniel Moreira",
-        "createdAt": "2025-07-19T17:36:33.860421Z",
-        "difficulty": "easy",
-        "githubProfile": ""
+        "correctAnswer": "Rio Nilo"
       },
       {
         "question": "Qual é a capital do Japão?",
@@ -1473,12 +2383,7 @@
           "Seul",
           "Bangkok"
         ],
-        "correctAnswer": "Tóquio",
-        "category": "general",
-        "contributor": "Daniel Moreira",
-        "createdAt": "2025-07-19T17:36:33.860421Z",
-        "difficulty": "easy",
-        "githubProfile": ""
+        "correctAnswer": "Tóquio"
       },
       {
         "question": "Qual é o esporte mais popular do mundo?",
@@ -1488,12 +2393,7 @@
           "Tênis",
           "Críquete"
         ],
-        "correctAnswer": "Futebol",
-        "category": "general",
-        "contributor": "Daniel Moreira",
-        "createdAt": "2025-07-19T17:36:33.860421Z",
-        "difficulty": "easy",
-        "githubProfile": ""
+        "correctAnswer": "Futebol"
       },
       {
         "question": "Qual é a cor do cabelo do Papai Noel?",
@@ -1503,12 +2403,7 @@
           "Ruivo",
           "Castanho"
         ],
-        "correctAnswer": "Branco",
-        "category": "general",
-        "contributor": "Daniel Moreira",
-        "createdAt": "2025-07-19T17:36:33.860421Z",
-        "difficulty": "easy",
-        "githubProfile": ""
+        "correctAnswer": "Branco"
       },
       {
         "question": "Quantos dias tem um ano bissexto?",
@@ -1518,12 +2413,7 @@
           "360",
           "300"
         ],
-        "correctAnswer": "366",
-        "category": "general",
-        "contributor": "Daniel Moreira",
-        "createdAt": "2025-07-19T17:36:33.860421Z",
-        "difficulty": "easy",
-        "githubProfile": ""
+        "correctAnswer": "366"
       }
     ],
     "medium": [
@@ -1535,12 +2425,7 @@
           "Nauru",
           "San Marino"
         ],
-        "correctAnswer": "Vaticano",
-        "category": "general",
-        "contributor": "Daniel Moreira",
-        "createdAt": "2025-07-19T17:36:33.860421Z",
-        "difficulty": "medium",
-        "githubProfile": ""
+        "correctAnswer": "Vaticano"
       },
       {
         "question": "Qual é o nome da pessoa que escreveu 'Dom Quixote'?",
@@ -1550,12 +2435,7 @@
           "Victor Hugo",
           "Charles Dickens"
         ],
-        "correctAnswer": "Miguel de Cervantes",
-        "category": "general",
-        "contributor": "Daniel Moreira",
-        "createdAt": "2025-07-19T17:36:33.860421Z",
-        "difficulty": "medium",
-        "githubProfile": ""
+        "correctAnswer": "Miguel de Cervantes"
       },
       {
         "question": "Qual é o nome do animal que tem o maior tempo de vida conhecido?",
@@ -1565,12 +2445,7 @@
           "Baleia-da-groenlândia",
           "Carpa"
         ],
-        "correctAnswer": "Tubarão-da-groenlândia",
-        "category": "general",
-        "contributor": "Daniel Moreira",
-        "createdAt": "2025-07-19T17:36:33.860421Z",
-        "difficulty": "medium",
-        "githubProfile": ""
+        "correctAnswer": "Tubarão-da-groenlândia"
       },
       {
         "question": "Qual é o nome da cidade conhecida como 'A Cidade Eterna'?",
@@ -1580,12 +2455,7 @@
           "Jerusalém",
           "Constantinopla"
         ],
-        "correctAnswer": "Roma",
-        "category": "general",
-        "contributor": "Daniel Moreira",
-        "createdAt": "2025-07-19T17:36:33.860421Z",
-        "difficulty": "medium",
-        "githubProfile": ""
+        "correctAnswer": "Roma"
       },
       {
         "question": "Qual é o nome da montanha mais alta da África?",
@@ -1595,12 +2465,7 @@
           "Monte Ruwenzori",
           "Monte Atlas"
         ],
-        "correctAnswer": "Monte Kilimanjaro",
-        "category": "general",
-        "contributor": "Daniel Moreira",
-        "createdAt": "2025-07-19T17:36:33.860421Z",
-        "difficulty": "medium",
-        "githubProfile": ""
+        "correctAnswer": "Monte Kilimanjaro"
       },
       {
         "question": "Qual é o nome do fenômeno natural que causa as luzes do norte (Aurora Boreal)?",
@@ -1610,12 +2475,7 @@
           "Fenômeno atmosférico de refração",
           "Emissão de gases vulcânicos"
         ],
-        "correctAnswer": "Atividade solar interagindo com a atmosfera terrestre",
-        "category": "general",
-        "contributor": "Daniel Moreira",
-        "createdAt": "2025-07-19T17:36:33.860421Z",
-        "difficulty": "medium",
-        "githubProfile": ""
+        "correctAnswer": "Atividade solar interagindo com a atmosfera terrestre"
       },
       {
         "question": "Qual é o nome do continente com a maior população do mundo?",
@@ -1625,12 +2485,7 @@
           "Europa",
           "América"
         ],
-        "correctAnswer": "Ásia",
-        "category": "general",
-        "contributor": "Daniel Moreira",
-        "createdAt": "2025-07-19T17:36:33.860421Z",
-        "difficulty": "medium",
-        "githubProfile": ""
+        "correctAnswer": "Ásia"
       },
       {
         "question": "Qual é o nome do instrumento musical que tem 88 teclas?",
@@ -1640,12 +2495,7 @@
           "Teclado eletrônico",
           "Cravo"
         ],
-        "correctAnswer": "Piano",
-        "category": "general",
-        "contributor": "Daniel Moreira",
-        "createdAt": "2025-07-19T17:36:33.860421Z",
-        "difficulty": "medium",
-        "githubProfile": ""
+        "correctAnswer": "Piano"
       },
       {
         "question": "Qual é o nome da maior ilha do mundo?",
@@ -1655,12 +2505,7 @@
           "Bornéu",
           "Madagascar"
         ],
-        "correctAnswer": "Groenlândia",
-        "category": "general",
-        "contributor": "Daniel Moreira",
-        "createdAt": "2025-07-19T17:36:33.860421Z",
-        "difficulty": "medium",
-        "githubProfile": ""
+        "correctAnswer": "Groenlândia"
       },
       {
         "question": "Qual é o nome do escritor que criou os personagens Sherlock Holmes?",
@@ -1670,12 +2515,7 @@
           "Edgar Allan Poe",
           "J.K. Rowling"
         ],
-        "correctAnswer": "Arthur Conan Doyle",
-        "category": "general",
-        "contributor": "Daniel Moreira",
-        "createdAt": "2025-07-19T17:36:33.860421Z",
-        "difficulty": "medium",
-        "githubProfile": ""
+        "correctAnswer": "Arthur Conan Doyle"
       }
     ],
     "hard": [
@@ -1687,12 +2527,7 @@
           "Recife de Palancar",
           "Recife de Tubbataha"
         ],
-        "correctAnswer": "Grande Barreira de Coral",
-        "category": "general",
-        "contributor": "Daniel Moreira",
-        "createdAt": "2025-07-19T17:36:33.860421Z",
-        "difficulty": "hard",
-        "githubProfile": ""
+        "correctAnswer": "Grande Barreira de Coral"
       },
       {
         "question": "Qual é o nome do vulcão mais ativo do mundo, localizado no Havaí?",
@@ -1702,12 +2537,7 @@
           "Stromboli",
           "Etna"
         ],
-        "correctAnswer": "Kilauea",
-        "category": "general",
-        "contributor": "Daniel Moreira",
-        "createdAt": "2025-07-19T17:36:33.860421Z",
-        "difficulty": "hard",
-        "githubProfile": ""
+        "correctAnswer": "Kilauea"
       },
       {"question": "Qual apóstolo é retratado por Leonardo da Vinci em 'A Última Ceia' com uma expressão de surpresa e as mãos afastadas, simbolizando negação ou traição?",
         "alternatives": [
@@ -1716,12 +2546,7 @@
           "São Tomé",
           "Filipe"
         ],
-        "correctAnswer": "São Pedro",
-        "category": "general",
-        "contributor": "Daniel Moreira",
-        "createdAt": "2025-07-19T17:36:33.860421Z",
-        "difficulty": "hard",
-        "githubProfile": ""
+        "correctAnswer": "São Pedro"
       },
       {
         "question": "Qual é o nome da cidade que foi a capital do Império Romano do Oriente?",
@@ -1731,12 +2556,7 @@
           "Atenas",
           "Alexandria"
         ],
-        "correctAnswer": "Constantinopla",
-        "category": "general",
-        "contributor": "Daniel Moreira",
-        "createdAt": "2025-07-19T17:36:33.860421Z",
-        "difficulty": "hard",
-        "githubProfile": ""
+        "correctAnswer": "Constantinopla"
       },
       {
         "question": "Qual é o nome do autor da peça 'Romeu e Julieta'?",
@@ -1746,12 +2566,7 @@
           "Ben Jonson",
           "John Milton"
         ],
-        "correctAnswer": "William Shakespeare",
-        "category": "general",
-        "contributor": "Daniel Moreira",
-        "createdAt": "2025-07-19T17:36:33.860421Z",
-        "difficulty": "hard",
-        "githubProfile": ""
+        "correctAnswer": "William Shakespeare"
       },
       {
         "question": "Qual é o nome do processo de vinificação que envolve a fermentação da uva com a casca?",
@@ -1761,12 +2576,7 @@
           "Clarificação",
           "Filtragem"
         ],
-        "correctAnswer": "Maceração",
-        "category": "general",
-        "contributor": "Daniel Moreira",
-        "createdAt": "2025-07-19T17:36:33.860421Z",
-        "difficulty": "hard",
-        "githubProfile": ""
+        "correctAnswer": "Maceração"
       },
       {
         "question": "Qual é o nome do metal mais caro do mundo?",
@@ -1776,12 +2586,7 @@
           "Ouro",
           "Paládio"
         ],
-        "correctAnswer": "Ródio",
-        "category": "general",
-        "contributor": "Daniel Moreira",
-        "createdAt": "2025-07-19T17:36:33.860421Z",
-        "difficulty": "hard",
-        "githubProfile": ""
+        "correctAnswer": "Ródio"
       },
       {
         "question": "Qual é o nome do maior lago de água doce do mundo em volume?",
@@ -1791,12 +2596,7 @@
           "Lago Tanganyika",
           "Lago Vitória"
         ],
-        "correctAnswer": "Lago Baikal",
-        "category": "general",
-        "contributor": "Daniel Moreira",
-        "createdAt": "2025-07-19T17:36:33.860421Z",
-        "difficulty": "hard",
-        "githubProfile": ""
+        "correctAnswer": "Lago Baikal"
       },
       {
         "question": "Qual é o nome da teoria filosófica que afirma que a existência precede a essência?",
@@ -1806,12 +2606,7 @@
           "Absurdismo",
           "Fenomenologia"
         ],
-        "correctAnswer": "Existencialismo",
-        "category": "general",
-        "contributor": "Daniel Moreira",
-        "createdAt": "2025-07-19T17:36:33.860421Z",
-        "difficulty": "hard",
-        "githubProfile": ""
+        "correctAnswer": "Existencialismo"
       },
       {
         "question": "Qual é o nome do conceito matemático que descreve a relação entre os lados de um triângulo retângulo?",
@@ -1821,12 +2616,7 @@
           "Fórmula de Bhaskara",
           "Lei dos Cossenos"
         ],
-        "correctAnswer": "Teorema de Pitágoras",
-        "category": "general",
-        "contributor": "Daniel Moreira",
-        "createdAt": "2025-07-19T17:36:33.860421Z",
-        "difficulty": "hard",
-        "githubProfile": ""
+        "correctAnswer": "Teorema de Pitágoras"
       }
     ]
   },
@@ -1840,12 +2630,7 @@
           "Britney Spears",
           "Beyoncé"
         ],
-        "correctAnswer": "Madonna",
-        "category": "pop",
-        "contributor": "Daniel Moreira",
-        "createdAt": "2025-07-19T17:36:33.860421Z",
-        "difficulty": "easy",
-        "githubProfile": ""
+        "correctAnswer": "Madonna"
       },
       {
         "question": "Qual filme apresenta a frase icônica 'Que a Força esteja com você'?",
@@ -1855,12 +2640,7 @@
           "O Senhor dos Anéis",
           "Harry Potter"
         ],
-        "correctAnswer": "Star Wars",
-        "category": "pop",
-        "contributor": "Daniel Moreira",
-        "createdAt": "2025-07-19T17:36:33.860421Z",
-        "difficulty": "easy",
-        "githubProfile": ""
+        "correctAnswer": "Star Wars"
       },
       {
         "question": "Qual é o nome da banda de rock britânica formada por Freddie Mercury?",
@@ -1870,12 +2650,7 @@
           "Led Zeppelin",
           "Rolling Stones"
         ],
-        "correctAnswer": "Queen",
-        "category": "pop",
-        "contributor": "Daniel Moreira",
-        "createdAt": "2025-07-19T17:36:33.860421Z",
-        "difficulty": "easy",
-        "githubProfile": ""
+        "correctAnswer": "Queen"
       },
       {
         "question": "Qual é o nome do super-herói que vive em Gotham City e não possui superpoderes?",
@@ -1885,12 +2660,7 @@
           "Homem-Aranha",
           "Flash"
         ],
-        "correctAnswer": "Batman",
-        "category": "pop",
-        "contributor": "Daniel Moreira",
-        "createdAt": "2025-07-19T17:36:33.860421Z",
-        "difficulty": "easy",
-        "githubProfile": ""
+        "correctAnswer": "Batman"
       },
       {
         "question": "Qual é o nome da série de TV sobre uma família amarela que vive em Springfield?",
@@ -1900,12 +2670,7 @@
           "South Park",
           "Futurama"
         ],
-        "correctAnswer": "Os Simpsons",
-        "category": "pop",
-        "contributor": "Daniel Moreira",
-        "createdAt": "2025-07-19T17:36:33.860421Z",
-        "difficulty": "easy",
-        "githubProfile": ""
+        "correctAnswer": "Os Simpsons"
       },
       {
         "question": "Qual é o nome do famoso bruxo que estuda em Hogwarts?",
@@ -1915,12 +2680,7 @@
           "Dumbledore",
           "Merlin"
         ],
-        "correctAnswer": "Harry Potter",
-        "category": "pop",
-        "contributor": "Daniel Moreira",
-        "createdAt": "2025-07-19T17:36:33.860421Z",
-        "difficulty": "easy",
-        "githubProfile": ""
+        "correctAnswer": "Harry Potter"
       },
       {
         "question": "Qual é o nome do ator que interpretou o Capitão Jack Sparrow em 'Piratas do Caribe'?",
@@ -1930,12 +2690,7 @@
           "Keira Knightley",
           "Geoffrey Rush"
         ],
-        "correctAnswer": "Johnny Depp",
-        "category": "pop",
-        "contributor": "Daniel Moreira",
-        "createdAt": "2025-07-19T17:36:33.860421Z",
-        "difficulty": "easy",
-        "githubProfile": ""
+        "correctAnswer": "Johnny Depp"
       },
       {
         "question": "Qual é o nome da cantora que lançou o álbum '21'?",
@@ -1945,12 +2700,7 @@
           "Dua Lipa",
           "Taylor Swift"
         ],
-        "correctAnswer": "Adele",
-        "category": "pop",
-        "contributor": "Daniel Moreira",
-        "createdAt": "2025-07-19T17:36:33.860421Z",
-        "difficulty": "easy",
-        "githubProfile": ""
+        "correctAnswer": "Adele"
       },
       {
         "question": "Qual é o nome do jogo eletrônico de mundo aberto onde os jogadores constroem e exploram?",
@@ -1960,12 +2710,7 @@
           "Call of Duty",
           "Grand Theft Auto V"
         ],
-        "correctAnswer": "Minecraft",
-        "category": "pop",
-        "contributor": "Daniel Moreira",
-        "createdAt": "2025-07-19T17:36:33.860421Z",
-        "difficulty": "easy",
-        "githubProfile": ""
+        "correctAnswer": "Minecraft"
       },
       {
         "question": "Qual é o nome da plataforma de vídeos mais popular do mundo?",
@@ -1975,12 +2720,7 @@
           "Netflix",
           "Vimeo"
         ],
-        "correctAnswer": "YouTube",
-        "category": "pop",
-        "contributor": "Daniel Moreira",
-        "createdAt": "2025-07-19T17:36:33.860421Z",
-        "difficulty": "easy",
-        "githubProfile": ""
+        "correctAnswer": "YouTube"
       }
     ],
     "medium": [
@@ -1992,12 +2732,7 @@
           "EXO",
           "TWICE"
         ],
-        "correctAnswer": "BTS",
-        "category": "pop",
-        "contributor": "Daniel Moreira",
-        "createdAt": "2025-07-19T17:36:33.860421Z",
-        "difficulty": "medium",
-        "githubProfile": ""
+        "correctAnswer": "BTS"
       },
       {
         "question": "Qual é o nome da série de livros de fantasia que inspirou a série 'Game of Thrones'?",
@@ -2007,12 +2742,7 @@
           "As Crônicas de Nárnia",
           "A Roda do Tempo"
         ],
-        "correctAnswer": "As Crônicas de Gelo e Fogo",
-        "category": "pop",
-        "contributor": "Daniel Moreira",
-        "createdAt": "2025-07-19T17:36:33.860421Z",
-        "difficulty": "medium",
-        "githubProfile": ""
+        "correctAnswer": "As Crônicas de Gelo e Fogo"
       },
       {
         "question": "Qual é o nome do diretor de cinema conhecido por filmes como 'Pulp Fiction' e 'Kill Bill'?",
@@ -2022,12 +2752,7 @@
           "Steven Spielberg",
           "Christopher Nolan"
         ],
-        "correctAnswer": "Quentin Tarantino",
-        "category": "pop",
-        "contributor": "Daniel Moreira",
-        "createdAt": "2025-07-19T17:36:33.860421Z",
-        "difficulty": "medium",
-        "githubProfile": ""
+        "correctAnswer": "Quentin Tarantino"
       },
       {
         "question": "Qual é o nome da personagem feminina que se torna uma super-heroína após ser exposta a raios gama?",
@@ -2037,12 +2762,7 @@
           "Viúva Negra",
           "Mulher-Maravilha"
         ],
-        "correctAnswer": "Mulher-Hulk",
-        "category": "pop",
-        "contributor": "Daniel Moreira",
-        "createdAt": "2025-07-19T17:36:33.860421Z",
-        "difficulty": "medium",
-        "githubProfile": ""
+        "correctAnswer": "Mulher-Hulk"
       },
       {
         "question": "Qual é o nome do evento anual de música realizado em Indio, Califórnia, conhecido por seus múltiplos palcos?",
@@ -2052,12 +2772,7 @@
           "Rock in Rio",
           "Glastonbury"
         ],
-        "correctAnswer": "Coachella",
-        "category": "pop",
-        "contributor": "Daniel Moreira",
-        "createdAt": "2025-07-19T17:36:33.860421Z",
-        "difficulty": "medium",
-        "githubProfile": ""
+        "correctAnswer": "Coachella"
       },
       {
         "question": "Qual é o nome do criador da franquia de jogos 'Super Mario' e 'The Legend of Zelda'?",
@@ -2067,12 +2782,7 @@
           "Hajime Tabata",
           "Yuji Naka"
         ],
-        "correctAnswer": "Shigeru Miyamoto",
-        "category": "pop",
-        "contributor": "Daniel Moreira",
-        "createdAt": "2025-07-19T17:36:33.860421Z",
-        "difficulty": "medium",
-        "githubProfile": ""
+        "correctAnswer": "Shigeru Miyamoto"
       },
       {
         "question": "Qual é o nome do prêmio mais prestigiado da indústria cinematográfica?",
@@ -2082,12 +2792,7 @@
           "Palma de Ouro",
           "Urso de Ouro"
         ],
-        "correctAnswer": "Oscar",
-        "category": "pop",
-        "contributor": "Daniel Moreira",
-        "createdAt": "2025-07-19T17:36:33.860421Z",
-        "difficulty": "medium",
-        "githubProfile": ""
+        "correctAnswer": "Oscar"
       },
       {
         "question": "Qual é o nome do aplicativo de mensagens instantâneas mais usado no mundo?",
@@ -2097,12 +2802,7 @@
           "Messenger",
           "Viber"
         ],
-        "correctAnswer": "WhatsApp",
-        "category": "pop",
-        "contributor": "Daniel Moreira",
-        "createdAt": "2025-07-19T17:36:33.860421Z",
-        "difficulty": "medium",
-        "githubProfile": ""
+        "correctAnswer": "WhatsApp"
       },
       {
         "question": "Qual é o nome do gênero musical que se originou no Bronx, Nova York, nos anos 70?",
@@ -2112,12 +2812,7 @@
           "Funk",
           "Soul"
         ],
-        "correctAnswer": "Hip Hop",
-        "category": "pop",
-        "contributor": "Daniel Moreira",
-        "createdAt": "2025-07-19T17:36:33.860421Z",
-        "difficulty": "medium",
-        "githubProfile": ""
+        "correctAnswer": "Hip Hop"
       },
       {
         "question": "Qual é o nome da série de TV que se passa em Westeros e acompanha a luta pelo Trono de Ferro?",
@@ -2127,12 +2822,7 @@
           "Vikings",
           "House of the Dragon"
         ],
-        "correctAnswer": "Game of Thrones",
-        "category": "pop",
-        "contributor": "Daniel Moreira",
-        "createdAt": "2025-07-19T17:36:33.860421Z",
-        "difficulty": "medium",
-        "githubProfile": ""
+        "correctAnswer": "Game of Thrones"
       }
     ],
     "hard": [
@@ -2144,12 +2834,7 @@
           "Keith Haring",
           "Jean-Michel Basquiat"
         ],
-        "correctAnswer": "Andy Warhol",
-        "category": "pop",
-        "contributor": "Daniel Moreira",
-        "createdAt": "2025-07-19T17:36:33.860421Z",
-        "difficulty": "hard",
-        "githubProfile": ""
+        "correctAnswer": "Andy Warhol"
       },
       {
         "question": "Qual é o nome do musical da Broadway que se tornou um fenômeno global e conta a história de Alexander Hamilton?",
@@ -2159,12 +2844,7 @@
           "Os Miseráveis",
           "Cats"
         ],
-        "correctAnswer": "Hamilton",
-        "category": "pop",
-        "contributor": "Daniel Moreira",
-        "createdAt": "2025-07-19T17:36:33.860421Z",
-        "difficulty": "hard",
-        "githubProfile": ""
+        "correctAnswer": "Hamilton"
       },
       {
         "question": "Qual é o nome do anime que narra a história de um ninja que sonha em se tornar Hokage?",
@@ -2174,12 +2854,7 @@
           "One Piece",
           "Attack on Titan"
         ],
-        "correctAnswer": "Naruto",
-        "category": "pop",
-        "contributor": "Daniel Moreira",
-        "createdAt": "2025-07-19T17:36:33.860421Z",
-        "difficulty": "hard",
-        "githubProfile": ""
+        "correctAnswer": "Naruto"
       },
       {
         "question": "Qual é o nome do compositor que criou a trilha sonora de filmes como 'Star Wars' e 'Indiana Jones'?",
@@ -2189,12 +2864,7 @@
           "Ennio Morricone",
           "Danny Elfman"
         ],
-        "correctAnswer": "John Williams",
-        "category": "pop",
-        "contributor": "Daniel Moreira",
-        "createdAt": "2025-07-19T17:36:33.860421Z",
-        "difficulty": "hard",
-        "githubProfile": ""
+        "correctAnswer": "John Williams"
       },
       {
         "question": "Qual é o nome do festival de música que aconteceu em Woodstock, Nova York, em 1969?",
@@ -2204,12 +2874,7 @@
           "Altamont Free Concert",
           "Isle of Wight Festival"
         ],
-        "correctAnswer": "Woodstock",
-        "category": "pop",
-        "contributor": "Daniel Moreira",
-        "createdAt": "2025-07-19T17:36:33.860421Z",
-        "difficulty": "hard",
-        "githubProfile": ""
+        "correctAnswer": "Woodstock"
       },
       {
         "question": "Qual é o nome do primeiro jogo eletrônico a ser reconhecido como uma forma de arte pelo MoMA?",
@@ -2219,12 +2884,7 @@
           "Space Invaders",
           "Tetris"
         ],
-        "correctAnswer": "Pac-Man",
-        "category": "pop",
-        "contributor": "Daniel Moreira",
-        "createdAt": "2025-07-19T17:36:33.860421Z",
-        "difficulty": "hard",
-        "githubProfile": ""
+        "correctAnswer": "Pac-Man"
       },
       {
         "question": "Qual é o nome da série de livros de fantasia que se passa em um mundo dividido entre 'luz' e 'sombra' e apresenta o personagem Rand al'Thor?",
@@ -2234,12 +2894,7 @@
           "Mistborn",
           "A Saga do Assassino"
         ],
-        "correctAnswer": "A Roda do Tempo",
-        "category": "pop",
-        "contributor": "Daniel Moreira",
-        "createdAt": "2025-07-19T17:36:33.860421Z",
-        "difficulty": "hard",
-        "githubProfile": ""
+        "correctAnswer": "A Roda do Tempo"
       },
       {
         "question": "Qual é o nome do artista que criou os personagens Mickey Mouse e Pato Donald?",
@@ -2249,12 +2904,7 @@
           "Tex Avery",
           "Hanna-Barbera"
         ],
-        "correctAnswer": "Walt Disney",
-        "category": "pop",
-        "contributor": "Daniel Moreira",
-        "createdAt": "2025-07-19T17:36:33.860421Z",
-        "difficulty": "hard",
-        "githubProfile": ""
+        "correctAnswer": "Walt Disney"
       },
       {
         "question": "Qual é o nome do gênero musical que mistura elementos de rock, punk e ska e se originou no Reino Unido nos anos 70?",
@@ -2264,12 +2914,7 @@
           "Ska Punk",
           "Two Tone"
         ],
-        "correctAnswer": "New Wave",
-        "category": "pop",
-        "contributor": "Daniel Moreira",
-        "createdAt": "2025-07-19T17:36:33.860421Z",
-        "difficulty": "hard",
-        "githubProfile": ""
+        "correctAnswer": "New Wave"
       },
       {
         "question": "Qual é o nome da escritora que criou a série de livros 'As Crônicas de Nárnia'?",
@@ -2279,12 +2924,7 @@
           "Lewis Carroll",
           "Roald Dahl"
         ],
-        "correctAnswer": "C.S. Lewis",
-        "category": "pop",
-        "contributor": "Daniel Moreira",
-        "createdAt": "2025-07-19T17:36:33.860421Z",
-        "difficulty": "hard",
-        "githubProfile": ""
+        "correctAnswer": "C.S. Lewis"
       }
     ]
   }
