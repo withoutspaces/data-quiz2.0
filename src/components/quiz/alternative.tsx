@@ -2,7 +2,8 @@ import React from "react";
 import clsx from "clsx";
 
 interface AlternativeProps {
-  handleClickedOption: () => void;
+  handleClickedOption: (a: string) => void;
+  alternative: string;
   selected: boolean;
   children: React.ReactNode;
   isRight: boolean;
@@ -12,6 +13,7 @@ interface AlternativeProps {
 
 export function Alternative({
   handleClickedOption,
+  alternative,
   selected,
   children,
   isRight,
@@ -37,7 +39,7 @@ export function Alternative({
   return (
     <button
       type="button"
-      onClick={() => handleClickedOption()}
+      onClick={() => handleClickedOption(alternative)}
       disabled={disabled}
       className={dynamicClasses}
     >

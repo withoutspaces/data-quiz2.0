@@ -1,7 +1,7 @@
 import type { Category, Difficulty } from "../types/questions";
 import { useLocation, useNavigate } from "react-router-dom";
 import { randomizeQuestions } from "../utils/randomizeQuestions";
-import { useState, useMemo } from "react";
+import { useState, useMemo, useCallback } from "react";
 import { ScoreDisplay } from "@/components/quiz/scoreDisplay";
 import { Alternative } from "@/components/quiz/alternative";
 import { BackButton } from "@/components/quiz/backButton";
@@ -47,27 +47,27 @@ export function Game() {
     return shuffle(alternatives);
   }, [alternatives]);
 
-  function handleClickedOption(alternative: string) {
+  const handleClickedOption = useCallback((alternative: string) => {
     setCurrentAlternativeSelected(alternative);
-  }
+  }, []);
 
-  function handleEndGame() {
+  const handleEndGame = useCallback(() => {
     navigate("/end", {
       state: { score: currentScore, numberOfQuestions: TOTAL_QUESTIONS },
     });
-  }
+  }, [navigate, currentScore]);
 
-  function handleBackButton() {
+  const handleBackButton = useCallback(() => {
     navigate("/");
-  }
+  }, []);
 
-  function handleNextQuestion() {
+  const handleNextQuestion = useCallback(() => {
     setShowRightAlternative(false);
     setCurrentAlternativeSelected(null);
-    setCurrentQuestion(currentQuestion + 1);
-  }
+    setCurrentQuestion((prev) => prev + 1);
+  }, []);
 
-  function verifyAnswer() {
+  const verifyAnswer = useCallback(() => {
     setShowRightAlternative(true);
     if (currentAlternativeSelected === correctAnswer) {
       setCurrentScore((prev) => prev + 1);
@@ -77,7 +77,12 @@ export function Game() {
       playWrongSound();
       toast.error("Resposta incorreta");
     }
-  }
+  }, [
+    currentAlternativeSelected,
+    correctAnswer,
+    playCorretSound,
+    playWrongSound,
+  ]);
 
   return (
     <>
@@ -104,7 +109,8 @@ export function Game() {
               isWrong={showRightAlternative && alternative !== correctAnswer}
               selected={currentAlternativeSelected === alternative}
               disabled={showRightAlternative}
-              handleClickedOption={() => handleClickedOption(alternative)}
+              handleClickedOption={handleClickedOption}
+              alternative={alternative}
               key={index}
             >
               {alternative}
