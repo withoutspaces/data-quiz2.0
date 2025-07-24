@@ -5,7 +5,7 @@ interface BackButtonProps {
 export function BackButton({ onClick }: BackButtonProps) {
   return (
     <button
-      className="text-indigo-200 ml-4 mt-4 font-semibold hover:text-indigo-400 hover:line"
+      className="text-indigo-200 absolute top-4 left-4 font-semibold hover:text-indigo-400 hover:line"
       onClick={onClick}
     >
       ◀️ Voltar
