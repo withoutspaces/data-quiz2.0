@@ -3,12 +3,7 @@
     "easy": [
       {
         "question": "Qual foi o ano da Proclamação da República do Brasil?",
-        "alternatives": [
-          "1889",
-          "1822",
-          "1900",
-          "1898"
-        ],
+        "alternatives": ["1889", "1822", "1900", "1898"],
         "correctAnswer": "1889"
       },
       {
@@ -23,22 +18,12 @@
       },
       {
         "question": "Em que ano o homem pisou na Lua pela primeira vez?",
-        "alternatives": [
-          "1969",
-          "1959",
-          "1979",
-          "1989"
-        ],
+        "alternatives": ["1969", "1959", "1979", "1989"],
         "correctAnswer": "1969"
       },
       {
         "question": "Qual civilização construiu as pirâmides de Gizé?",
-        "alternatives": [
-          "Egípcia",
-          "Romana",
-          "Grega",
-          "Maia"
-        ],
+        "alternatives": ["Egípcia", "Romana", "Grega", "Maia"],
         "correctAnswer": "Egípcia"
       },
       {
@@ -53,12 +38,7 @@
       },
       {
         "question": "Qual era o nome do navio que afundou em 1912 após colidir com um iceberg?",
-        "alternatives": [
-          "Titanic",
-          "Britannic",
-          "Olympic",
-          "Lusitania"
-        ],
+        "alternatives": ["Titanic", "Britannic", "Olympic", "Lusitania"],
         "correctAnswer": "Titanic"
       },
       {
@@ -73,12 +53,7 @@
       },
       {
         "question": "Em que país nasceu Adolf Hitler?",
-        "alternatives": [
-          "Áustria",
-          "Alemanha",
-          "França",
-          "Itália"
-        ],
+        "alternatives": ["Áustria", "Alemanha", "França", "Itália"],
         "correctAnswer": "Áustria"
       },
       {
@@ -153,12 +128,7 @@
       },
       {
         "question": "Onde ocorreu a Batalha de Stalingrado, um dos confrontos mais sangrentos da Segunda Guerra Mundial?",
-        "alternatives": [
-          "Alemanha",
-          "França",
-          "União Soviética",
-          "Inglaterra"
-        ],
+        "alternatives": ["Alemanha", "França", "União Soviética", "Inglaterra"],
         "correctAnswer": "União Soviética"
       },
       {
@@ -193,22 +163,12 @@
       },
       {
         "question": "O sistema de castas na Índia antiga estava intrinsecamente ligado a qual religião?",
-        "alternatives": [
-          "Budismo",
-          "Islamismo",
-          "Jainismo",
-          "Hinduísmo"
-        ],
+        "alternatives": ["Budismo", "Islamismo", "Jainismo", "Hinduísmo"],
         "correctAnswer": "Hinduísmo"
       },
       {
         "question": "Qual foi a cidade-estado grega conhecida por sua forte militarização e disciplina rigorosa?",
-        "alternatives": [
-          "Atenas",
-          "Tebas",
-          "Esparta",
-          "Corinto"
-        ],
+        "alternatives": ["Atenas", "Tebas", "Esparta", "Corinto"],
         "correctAnswer": "Esparta"
       },
       {
@@ -253,22 +213,12 @@
       },
       {
         "question": "Qual imperador romano é famoso por ter oficializado o Cristianismo como religião do Império Romano através do Édito de Tessalônica?",
-        "alternatives": [
-          "Júlio César",
-          "Augusto",
-          "Constantino",
-          "Teodósio I"
-        ],
+        "alternatives": ["Júlio César", "Augusto", "Constantino", "Teodósio I"],
         "correctAnswer": "Teodósio I"
       },
       {
         "question": "Qual civilização antiga desenvolveu a escrita hieroglífica e construiu as pirâmides de Gizé?",
-        "alternatives": [
-          "Mesopotâmica",
-          "Grega",
-          "Egípcia",
-          "Romana"
-        ],
+        "alternatives": ["Mesopotâmica", "Grega", "Egípcia", "Romana"],
         "correctAnswer": "Egípcia"
       },
       {
@@ -363,12 +313,7 @@
       },
       {
         "question": "Qual foi o nome dado aos grandes castelos fortificados construídos na Idade Média, que serviam como residência e defesa?",
-        "alternatives": [
-          "Vilas",
-          "Mosteiros",
-          "Feudos",
-          "Castelos Medievais"
-        ],
+        "alternatives": ["Vilas", "Mosteiros", "Feudos", "Castelos Medievais"],
         "correctAnswer": "Castelos Medievais"
       }
     ],
@@ -405,42 +350,22 @@
       },
       {
         "question": "Qual imperador romano tornou o cristianismo a religião oficial do Império Romano?",
-        "alternatives": [
-          "Teodósio I",
-          "Constantino I",
-          "Nero",
-          "Augusto"
-        ],
+        "alternatives": ["Teodósio I", "Constantino I", "Nero", "Augusto"],
         "correctAnswer": "Teodósio I"
       },
       {
         "question": "Em que ano a Queda do Muro de Berlim aconteceu?",
-        "alternatives": [
-          "1989",
-          "1991",
-          "1985",
-          "1990"
-        ],
+        "alternatives": ["1989", "1991", "1985", "1990"],
         "correctAnswer": "1989"
       },
       {
         "question": "Qual civilização antiga é conhecida por desenvolver a escrita cuneiforme?",
-        "alternatives": [
-          "Mesopotâmica",
-          "Egípcia",
-          "Grega",
-          "Romana"
-        ],
+        "alternatives": ["Mesopotâmica", "Egípcia", "Grega", "Romana"],
         "correctAnswer": "Mesopotâmica"
       },
       {
         "question": "Quem foi o faraó egípcio cujo túmulo foi descoberto quase intacto em 1922?",
-        "alternatives": [
-          "Tutancâmon",
-          "Ramsés II",
-          "Cleópatra",
-          "Akhenaton"
-        ],
+        "alternatives": ["Tutancâmon", "Ramsés II", "Cleópatra", "Akhenaton"],
         "correctAnswer": "Tutancâmon"
       },
       {
@@ -525,12 +450,7 @@
       },
       {
         "question": "Qual civilização pré-colombiana construiu cidades como Machu Picchu e um vasto império nos Andes?",
-        "alternatives": [
-          "Maias",
-          "Astecas",
-          "Incas",
-          "Olmecas"
-        ],
+        "alternatives": ["Maias", "Astecas", "Incas", "Olmecas"],
         "correctAnswer": "Incas"
       },
       {
@@ -595,12 +515,7 @@
       },
       {
         "question": "Qual era o nome do sistema de trabalho compulsório imposto pelos espanhóis aos povos indígenas nas colônias americanas, especialmente nas minas?",
-        "alternatives": [
-          "Encomienda",
-          "Mita",
-          "Repartimiento",
-          "Feitoria"
-        ],
+        "alternatives": ["Encomienda", "Mita", "Repartimiento", "Feitoria"],
         "correctAnswer": "Mita"
       },
       {
@@ -625,12 +540,7 @@
       },
       {
         "question": "Quem foi o filósofo grego que foi mestre de Alexandre, o Grande, e fundou o Liceu?",
-        "alternatives": [
-          "Platão",
-          "Sócrates",
-          "Aristóteles",
-          "Pitágoras"
-        ],
+        "alternatives": ["Platão", "Sócrates", "Aristóteles", "Pitágoras"],
         "correctAnswer": "Aristóteles"
       },
       {
@@ -675,12 +585,7 @@
       },
       {
         "question": "O termo 'Cortina de Ferro' foi popularizado por Winston Churchill para descrever a divisão ideológica e física de qual continente durante a Guerra Fria?",
-        "alternatives": [
-          "América do Norte",
-          "Ásia",
-          "Europa",
-          "África"
-        ],
+        "alternatives": ["América do Norte", "Ásia", "Europa", "África"],
         "correctAnswer": "Europa"
       },
       {
@@ -777,12 +682,7 @@
       },
       {
         "question": "Em que ano ocorreu o massacre da Praça da Paz Celestial na China?",
-        "alternatives": [
-          "1989",
-          "1979",
-          "1999",
-          "1969"
-        ],
+        "alternatives": ["1989", "1979", "1999", "1969"],
         "correctAnswer": "1989"
       },
       {
@@ -907,12 +807,7 @@
       },
       {
         "question": "Em qual cidade, em 1945, a Conferência de Potsdam reuniu os líderes Aliados para discutir o futuro da Alemanha e da Europa pós-Segunda Guerra Mundial?",
-        "alternatives": [
-          "Yalta",
-          "Teerã",
-          "Berlim",
-          "Potsdam"
-        ],
+        "alternatives": ["Yalta", "Teerã", "Berlim", "Potsdam"],
         "correctAnswer": "Potsdam"
       },
       {
@@ -927,12 +822,7 @@
       },
       {
         "question": "Qual dos seguintes não foi um dos Três Grandes estados que compunham a Tríplice Aliança no Período Clássico da Mesopotâmia?",
-        "alternatives": [
-          "Assíria",
-          "Babilônia",
-          "Egito",
-          "Elam"
-        ],
+        "alternatives": ["Assíria", "Babilônia", "Egito", "Elam"],
         "correctAnswer": "Egito"
       },
       {
@@ -1017,12 +907,7 @@
       },
       {
         "question": "A 'Pax Romana' (27 a.C. - 180 d.C.) foi um período de paz e estabilidade no Império Romano. Qual imperador iniciou essa era?",
-        "alternatives": [
-          "Júlio César",
-          "Nero",
-          "Augusto",
-          "Trajano"
-        ],
+        "alternatives": ["Júlio César", "Nero", "Augusto", "Trajano"],
         "correctAnswer": "Augusto"
       },
       {
@@ -1101,12 +986,7 @@
     "easy": [
       {
         "question": "Qual é o planeta mais próximo do Sol?",
-        "alternatives": [
-          "Mercúrio",
-          "Vênus",
-          "Terra",
-          "Marte"
-        ],
+        "alternatives": ["Mercúrio", "Vênus", "Terra", "Marte"],
         "correctAnswer": "Mercúrio"
       },
       {
@@ -1131,22 +1011,12 @@
       },
       {
         "question": "Qual é a unidade básica da vida?",
-        "alternatives": [
-          "Célula",
-          "Átomo",
-          "Molécula",
-          "Tecido"
-        ],
+        "alternatives": ["Célula", "Átomo", "Molécula", "Tecido"],
         "correctAnswer": "Célula"
       },
       {
         "question": "Qual é a força que nos puxa para o centro da Terra?",
-        "alternatives": [
-          "Gravidade",
-          "Magnetismo",
-          "Eletricidade",
-          "Fricção"
-        ],
+        "alternatives": ["Gravidade", "Magnetismo", "Eletricidade", "Fricção"],
         "correctAnswer": "Gravidade"
       },
       {
@@ -1161,43 +1031,173 @@
       },
       {
         "question": "Qual é o maior órgão do corpo humano?",
-        "alternatives": [
-          "Pele",
-          "Fígado",
-          "Coração",
-          "Cérebro"
-        ],
+        "alternatives": ["Pele", "Fígado", "Coração", "Cérebro"],
         "correctAnswer": "Pele"
       },
       {
         "question": "Qual é a capital do Brasil?",
-        "alternatives": [
-          "Brasília",
-          "Rio de Janeiro",
-          "São Paulo",
-          "Salvador"
-        ],
+        "alternatives": ["Brasília", "Rio de Janeiro", "São Paulo", "Salvador"],
         "correctAnswer": "Brasília"
       },
       {
         "question": "Qual é o processo pelo qual a água congela?",
-        "alternatives": [
-          "Solidificação",
-          "Evaporação",
-          "Fusão",
-          "Sublimação"
-        ],
+        "alternatives": ["Solidificação", "Evaporação", "Fusão", "Sublimação"],
         "correctAnswer": "Solidificação"
       },
       {
         "question": "Qual é o animal terrestre mais rápido?",
-        "alternatives": [
-          "Guepardo",
-          "Leão",
-          "Antílope",
-          "Cavalo"
-        ],
+        "alternatives": ["Guepardo", "Leão", "Antílope", "Cavalo"],
         "correctAnswer": "Guepardo"
+      },
+      {
+        "question": "Qual é a unidade básica da vida e o menor componente de um organismo capaz de realizar todas as funções vitais?",
+        "alternatives": ["Átomo", "Molécula", "Célula", "Tecido"],
+        "correctAnswer": "Célula"
+      },
+      {
+        "question": "Qual planeta do nosso sistema solar é conhecido como o 'Planeta Vermelho'?",
+        "alternatives": ["Vênus", "Marte", "Júpiter", "Saturno"],
+        "correctAnswer": "Marte"
+      },
+      {
+        "question": "Qual gás as plantas absorvem da atmosfera para realizar a fotossíntese?",
+        "alternatives": [
+          "Oxigênio",
+          "Nitrogênio",
+          "Dióxido de Carbono",
+          "Hidrogênio"
+        ],
+        "correctAnswer": "Dióxido de Carbono"
+      },
+      {
+        "question": "Qual é o nome do processo pelo qual a água passa do estado líquido para o gasoso?",
+        "alternatives": [
+          "Condensação",
+          "Sublimação",
+          "Solidificação",
+          "Evaporação"
+        ],
+        "correctAnswer": "Evaporação"
+      },
+      {
+        "question": "Qual é o maior órgão do corpo humano?",
+        "alternatives": ["Cérebro", "Coração", "Fígado", "Pele"],
+        "correctAnswer": "Pele"
+      },
+      {
+        "question": "Qual é a força que atrai objetos em direção ao centro da Terra?",
+        "alternatives": [
+          "Força Centrífuga",
+          "Gravidade",
+          "Magnetismo",
+          "Fricção"
+        ],
+        "correctAnswer": "Gravidade"
+      },
+      {
+        "question": "Qual é o principal componente do ar que respiramos, representando cerca de 78% da atmosfera?",
+        "alternatives": [
+          "Oxigênio",
+          "Dióxido de Carbono",
+          "Nitrogênio",
+          "Argônio"
+        ],
+        "correctAnswer": "Nitrogênio"
+      },
+      {
+        "question": "Qual animal é conhecido por seu longo pescoço e por ser o mais alto mamífero terrestre?",
+        "alternatives": ["Elefante", "Girafa", "Camelo", "Alce"],
+        "correctAnswer": "Girafa"
+      },
+      {
+        "question": "Qual é o nome do satélite natural da Terra?",
+        "alternatives": ["Phobos", "Titã", "Lua", "Ganimedes"],
+        "correctAnswer": "Lua"
+      },
+      {
+        "question": "Qual parte da planta é responsável pela absorção de água e nutrientes do solo?",
+        "alternatives": ["Folha", "Caule", "Flor", "Raiz"],
+        "correctAnswer": "Raiz"
+      },
+      {
+        "question": "Qual é o nome do processo pelo qual a energia é liberada dos alimentos nas células?",
+        "alternatives": [
+          "Fotossíntese",
+          "Respiração Celular",
+          "Digestão",
+          "Transpiração"
+        ],
+        "correctAnswer": "Respiração Celular"
+      },
+      {
+        "question": "Qual é a principal função do esqueleto no corpo humano?",
+        "alternatives": [
+          "Bombear sangue",
+          "Produzir hormônios",
+          "Suporte, proteção de órgãos e movimento",
+          "Armazenar gordura"
+        ],
+        "correctAnswer": "Suporte, proteção de órgãos e movimento"
+      },
+      {
+        "question": "Qual fenômeno natural é causado pelo movimento das placas tectônicas da Terra?",
+        "alternatives": ["Tufões", "Enchentes", "Terremotos", "Secas"],
+        "correctAnswer": "Terremotos"
+      },
+      {
+        "question": "Qual é o nome do estado da matéria que não tem forma nem volume definidos?",
+        "alternatives": ["Líquido", "Sólido", "Plasma", "Gás"],
+        "correctAnswer": "Gás"
+      },
+      {
+        "question": "Qual vitamina é produzida na pele humana pela exposição à luz solar?",
+        "alternatives": [
+          "Vitamina C",
+          "Vitamina B12",
+          "Vitamina D",
+          "Vitamina K"
+        ],
+        "correctAnswer": "Vitamina D"
+      },
+      {
+        "question": "O que é um 'ecossistema'?",
+        "alternatives": [
+          "Um grupo de animais da mesma espécie",
+          "Uma área geográfica com clima similar",
+          "Uma comunidade de organismos vivos interagindo com seu ambiente não vivo",
+          "Um tipo de bioma terrestre"
+        ],
+        "correctAnswer": "Uma comunidade de organismos vivos interagindo com seu ambiente não vivo"
+      },
+      {
+        "question": "Qual instrumento é usado para medir a temperatura?",
+        "alternatives": ["Barômetro", "Anemômetro", "Termômetro", "Higrômetro"],
+        "correctAnswer": "Termômetro"
+      },
+      {
+        "question": "Qual é o nome da galáxia onde nosso sistema solar está localizado?",
+        "alternatives": ["Andrômeda", "Via Láctea", "Triângulo", "Cigarro"],
+        "correctAnswer": "Via Láctea"
+      },
+      {
+        "question": "O que o 'DNA' representa em biologia?",
+        "alternatives": [
+          "Ácido Ribonucleico",
+          "Ácido Deoxicribonucleico",
+          "Ácido Nutricional Avançado",
+          "Ácido Decomposto Naturalmente"
+        ],
+        "correctAnswer": "Ácido Deoxicribonucleico"
+      },
+      {
+        "question": "Qual gás é essencial para a queima (combustão) de substâncias?",
+        "alternatives": [
+          "Nitrogênio",
+          "Dióxido de Carbono",
+          "Hidrogênio",
+          "Oxigênio"
+        ],
+        "correctAnswer": "Oxigênio"
       }
     ],
     "medium": [
@@ -1213,42 +1213,22 @@
       },
       {
         "question": "Qual é o nome da galáxia em que o nosso sistema solar está localizado?",
-        "alternatives": [
-          "Via Láctea",
-          "Andrômeda",
-          "Triângulo",
-          "Redemoinho"
-        ],
+        "alternatives": ["Via Láctea", "Andrômeda", "Triângulo", "Redemoinho"],
         "correctAnswer": "Via Láctea"
       },
       {
         "question": "Qual é a parte do olho que controla a quantidade de luz que entra?",
-        "alternatives": [
-          "Íris",
-          "Pupila",
-          "Retina",
-          "Córnea"
-        ],
+        "alternatives": ["Íris", "Pupila", "Retina", "Córnea"],
         "correctAnswer": "Íris"
       },
       {
         "question": "Qual é o elemento químico mais abundante na crosta terrestre?",
-        "alternatives": [
-          "Oxigênio",
-          "Silício",
-          "Alumínio",
-          "Ferro"
-        ],
+        "alternatives": ["Oxigênio", "Silício", "Alumínio", "Ferro"],
         "correctAnswer": "Oxigênio"
       },
       {
         "question": "Qual é a menor partícula de um elemento que ainda retém as propriedades desse elemento?",
-        "alternatives": [
-          "Átomo",
-          "Molécula",
-          "Elétron",
-          "Próton"
-        ],
+        "alternatives": ["Átomo", "Molécula", "Elétron", "Próton"],
         "correctAnswer": "Átomo"
       },
       {
@@ -1263,22 +1243,12 @@
       },
       {
         "question": "Qual tipo de rocha é formado a partir do resfriamento e solidificação do magma ou lava?",
-        "alternatives": [
-          "Ígnea",
-          "Sedimentar",
-          "Metamórfica",
-          "Vulcânica"
-        ],
+        "alternatives": ["Ígnea", "Sedimentar", "Metamórfica", "Vulcânica"],
         "correctAnswer": "Ígnea"
       },
       {
         "question": "Qual é o processo pelo qual os organismos se adaptam ao seu ambiente ao longo do tempo?",
-        "alternatives": [
-          "Evolução",
-          "Mutação",
-          "Seleção natural",
-          "Adaptação"
-        ],
+        "alternatives": ["Evolução", "Mutação", "Seleção natural", "Adaptação"],
         "correctAnswer": "Evolução"
       },
       {
@@ -1300,17 +1270,172 @@
           "Produzir anticorpos"
         ],
         "correctAnswer": "Transportar oxigênio"
+      },
+      {
+        "question": "Qual cientista é amplamente creditado por desenvolver a teoria da evolução por seleção natural?",
+        "alternatives": [
+          "Gregor Mendel",
+          "Louis Pasteur",
+          "Charles Darwin",
+          "Albert Einstein"
+        ],
+        "correctAnswer": "Charles Darwin"
+      },
+      {
+        "question": "Qual é a principal função dos rins no corpo humano?",
+        "alternatives": [
+          "Bombear sangue para o corpo",
+          "Produzir bile para a digestão",
+          "Filtrar o sangue para remover resíduos e excesso de água",
+          "Controlar os níveis de açúcar no sangue"
+        ],
+        "correctAnswer": "Filtrar o sangue para remover resíduos e excesso de água"
+      },
+      {
+        "question": "Qual tipo de estrela é o nosso Sol?",
+        "alternatives": [
+          "Anã Branca",
+          "Gigante Vermelha",
+          "Estrela de Nêutrons",
+          "Anã Amarela"
+        ],
+        "correctAnswer": "Anã Amarela"
+      },
+      {
+        "question": "Em química, o que representa o número atômico de um elemento?",
+        "alternatives": [
+          "O número de nêutrons no núcleo",
+          "O número de massa do átomo",
+          "O número de prótons no núcleo",
+          "O número total de elétrons"
+        ],
+        "correctAnswer": "O número de prótons no núcleo"
+      },
+      {
+        "question": "Qual é o nome da camada da atmosfera terrestre mais próxima da superfície, onde ocorrem a maioria dos fenômenos meteorológicos?",
+        "alternatives": [
+          "Estratosfera",
+          "Mesosfera",
+          "Troposfera",
+          "Termosfera"
+        ],
+        "correctAnswer": "Troposfera"
+      },
+      {
+        "question": "Qual é o processo pelo qual as bactérias se reproduzem assexuadamente, dividindo-se em duas células filhas?",
+        "alternatives": ["Meiose", "Mitose", "Conjugação", "Fissão Binária"],
+        "correctAnswer": "Fissão Binária"
+      },
+      {
+        "question": "Qual é o nome do cientista que descobriu a penicilina, o primeiro antibiótico?",
+        "alternatives": [
+          "Louis Pasteur",
+          "Robert Koch",
+          "Alexander Fleming",
+          "Joseph Lister"
+        ],
+        "correctAnswer": "Alexander Fleming"
+      },
+      {
+        "question": "Qual tipo de rocha é formado pela compactação e cimentação de sedimentos?",
+        "alternatives": [
+          "Rocha Ígnea",
+          "Rocha Metamórfica",
+          "Rocha Sedimentar",
+          "Rocha Vulcânica"
+        ],
+        "correctAnswer": "Rocha Sedimentar"
+      },
+      {
+        "question": "Qual é o nome do pigmento verde nas plantas que é essencial para a fotossíntese?",
+        "alternatives": ["Caroteno", "Antocianina", "Clorofila", "Xantofila"],
+        "correctAnswer": "Clorofila"
+      },
+      {
+        "question": "Qual dos seguintes é um gás nobre, conhecido por sua inércia química?",
+        "alternatives": ["Oxigênio", "Hidrogênio", "Hélio", "Cloro"],
+        "correctAnswer": "Hélio"
+      },
+      {
+        "question": "Qual parte do cérebro humano é responsável pela coordenação motora e equilíbrio?",
+        "alternatives": ["Cerebelo", "Cerebro", "Tronco Encefálico", "Tálamo"],
+        "correctAnswer": "Cerebelo"
+      },
+      {
+        "question": "Qual é o principal efeito do aquecimento global na Terra?",
+        "alternatives": [
+          "Aumento das glaciações",
+          "Diminuição do nível do mar",
+          "Aumento da temperatura média do planeta",
+          "Redução da atividade vulcânica"
+        ],
+        "correctAnswer": "Aumento da temperatura média do planeta"
+      },
+      {
+        "question": "Qual é a unidade de medida padrão para energia no Sistema Internacional de Unidades?",
+        "alternatives": ["Watt (W)", "Volt (V)", "Ampere (A)", "Joule (J)"],
+        "correctAnswer": "Joule (J)"
+      },
+      {
+        "question": "Qual é o nome do processo de divisão celular que resulta em células com metade do número de cromossomos da célula original, crucial para a reprodução sexuada?",
+        "alternatives": ["Mitose", "Fissão Binária", "Meiose", "Clonagem"],
+        "correctAnswer": "Meiose"
+      },
+      {
+        "question": "Qual é o principal componente do Sol e de outras estrelas, onde ocorrem reações de fusão nuclear?",
+        "alternatives": ["Oxigênio", "Ferro", "Hélio", "Hidrogênio"],
+        "correctAnswer": "Hidrogênio"
+      },
+      {
+        "question": "Qual é o nome da doença causada pela deficiência de vitamina C?",
+        "alternatives": ["Raquitismo", "Beribéri", "Escorbuto", "Pellagra"],
+        "correctAnswer": "Escorbuto"
+      },
+      {
+        "question": "Qual tipo de lente corrige a miopia?",
+        "alternatives": [
+          "Lente Convexa",
+          "Lente Cilíndrica",
+          "Lente Prismática",
+          "Lente Côncava"
+        ],
+        "correctAnswer": "Lente Côncava"
+      },
+      {
+        "question": "O que a 'Teoria do Big Bang' descreve?",
+        "alternatives": [
+          "A formação de buracos negros",
+          "A origem e expansão do universo",
+          "O ciclo de vida das estrelas",
+          "A colisão de galáxias"
+        ],
+        "correctAnswer": "A origem e expansão do universo"
+      },
+      {
+        "question": "Qual órgão do sistema digestório é responsável principalmente pela absorção de nutrientes?",
+        "alternatives": [
+          "Estômago",
+          "Intestino Grosso",
+          "Intestino Delgado",
+          "Fígado"
+        ],
+        "correctAnswer": "Intestino Delgado"
+      },
+      {
+        "question": "Qual é o nome do processo pelo qual as plantas liberam vapor d'água para a atmosfera através de suas folhas?",
+        "alternatives": [
+          "Condensação",
+          "Evaporação",
+          "Transpiração",
+          "Percolação"
+        ],
+        "correctAnswer": "Transpiração"
       }
     ],
     "hard": [
       {
         "question": "Qual é o nome do efeito pelo qual a luz se dobra ao passar de um meio para outro?",
-        "alternatives": [
-          "Refração",
-          "Reflexão",
-          "Difração",
-          "Dispersão"
-        ],
+        "alternatives": ["Refração", "Reflexão", "Difração", "Dispersão"],
         "correctAnswer": "Refração"
       },
       {
@@ -1325,12 +1450,7 @@
       },
       {
         "question": "Qual é o nome da partícula subatômica que não possui carga elétrica?",
-        "alternatives": [
-          "Nêutron",
-          "Próton",
-          "Elétron",
-          "Fóton"
-        ],
+        "alternatives": ["Nêutron", "Próton", "Elétron", "Fóton"],
         "correctAnswer": "Nêutron"
       },
       {
@@ -1345,12 +1465,7 @@
       },
       {
         "question": "Qual é o nome do maior osso do corpo humano?",
-        "alternatives": [
-          "Fêmur",
-          "Tíbia",
-          "Úmero",
-          "Mandíbula"
-        ],
+        "alternatives": ["Fêmur", "Tíbia", "Úmero", "Mandíbula"],
         "correctAnswer": "Fêmur"
       },
       {
@@ -1375,12 +1490,7 @@
       },
       {
         "question": "Qual é o nome da unidade de medida de frequência em homenagem ao cientista alemão Heinrich Hertz?",
-        "alternatives": [
-          "Hertz (Hz)",
-          "Watt (W)",
-          "Joule (J)",
-          "Ampère (A)"
-        ],
+        "alternatives": ["Hertz (Hz)", "Watt (W)", "Joule (J)", "Ampère (A)"],
         "correctAnswer": "Hertz (Hz)"
       },
       {
@@ -1395,13 +1505,173 @@
       },
       {
         "question": "Qual é o nome do processo de transformação de um estado sólido diretamente para um estado gasoso, sem passar pelo estado líquido?",
-        "alternatives": [
-          "Sublimação",
-          "Condensação",
-          "Evaporação",
-          "Fusão"
-        ],
+        "alternatives": ["Sublimação", "Condensação", "Evaporação", "Fusão"],
         "correctAnswer": "Sublimação"
+      },
+      {
+        "question": "Qual é o nome do efeito pelo qual a luz se curva ao passar de um meio para outro com diferentes índices de refração?",
+        "alternatives": ["Difração", "Reflexão", "Interferência", "Refração"],
+        "correctAnswer": "Refração"
+      },
+      {
+        "question": "Em genética, o que é um alelo 'recessivo'?",
+        "alternatives": [
+          "Um gene que sempre se manifesta, independentemente de outro alelo",
+          "Um gene que só se manifesta se estiver em dose dupla (homozigose)",
+          "Um gene que causa uma mutação",
+          "Um gene que é transmitido apenas por via materna"
+        ],
+        "correctAnswer": "Um gene que só se manifesta se estiver em dose dupla (homozigose)"
+      },
+      {
+        "question": "Qual partícula subatômica tem carga elétrica neutra e é encontrada no núcleo do átomo?",
+        "alternatives": ["Próton", "Elétron", "Fóton", "Nêutron"],
+        "correctAnswer": "Nêutron"
+      },
+      {
+        "question": "Qual é o nome do fenômeno onde um buraco negro deforma o tecido do espaço-tempo ao seu redor, afetando a trajetória da luz e da matéria?",
+        "alternatives": [
+          "Expansão do Universo",
+          "Lente Gravitacional",
+          "Redshift Cosmologico",
+          "Colapso Estelar"
+        ],
+        "correctAnswer": "Lente Gravitacional"
+      },
+      {
+        "question": "Qual é o nome do processo de formação de rochas metamórficas a partir de rochas preexistentes sob alta pressão e temperatura, mas sem fusão?",
+        "alternatives": [
+          "Sedimentação",
+          "Cristalização",
+          "Metamorfismo",
+          "Vulcanismo"
+        ],
+        "correctAnswer": "Metamorfismo"
+      },
+      {
+        "question": "Em fisiologia humana, qual hormônio é liberado pela glândula tireoide e desempenha um papel crucial na regulação do metabolismo?",
+        "alternatives": ["Insulina", "Cortisol", "Adrenalina", "Tiroxina"],
+        "correctAnswer": "Tiroxina"
+      },
+      {
+        "question": "Qual é a principal função do DNA polimerase na replicação do DNA?",
+        "alternatives": [
+          "Separar as duas fitas de DNA",
+          "Sintetizar novas proteínas",
+          "Adicionar nucleotídeos à nova fita de DNA",
+          "Reparar erros na fita de RNA"
+        ],
+        "correctAnswer": "Adicionar nucleotídeos à nova fita de DNA"
+      },
+      {
+        "question": "Qual é o nome do estado da matéria que consiste em um gás ionizado, onde os elétrons foram arrancados dos átomos?",
+        "alternatives": [
+          "Gás",
+          "Líquido",
+          "Plasma",
+          "Condensado de Bose-Einstein"
+        ],
+        "correctAnswer": "Plasma"
+      },
+      {
+        "question": "Em física de partículas, qual bóson é responsável por conferir massa a outras partículas fundamentais?",
+        "alternatives": ["Fóton", "Glúon", "Bóson W/Z", "Bóson de Higgs"],
+        "correctAnswer": "Bóson de Higgs"
+      },
+      {
+        "question": "Qual processo geológico é responsável pela formação de cadeias de montanhas como os Himalaias, resultante da colisão de placas tectônicas?",
+        "alternatives": ["Vulcanismo", "Subducção", "Orogenia", "Erosão"],
+        "correctAnswer": "Orogenia"
+      },
+      {
+        "question": "Qual é a principal teoria que descreve como as mitocôndrias e os cloroplastos teriam se originado de bactérias que foram englobadas por células maiores?",
+        "alternatives": [
+          "Teoria da Biogênese",
+          "Teoria Celular",
+          "Teoria Endossimbiótica",
+          "Teoria da Panspermia"
+        ],
+        "correctAnswer": "Teoria Endossimbiótica"
+      },
+      {
+        "question": "Em química orgânica, qual grupo funcional caracteriza os álcoois?",
+        "alternatives": [
+          "Carbonila (-CO-)",
+          "Carboxila (-COOH)",
+          "Hidroxila (-OH)",
+          "Éter (-O-)"
+        ],
+        "correctAnswer": "Hidroxila (-OH)"
+      },
+      {
+        "question": "Qual é o nome do fenômeno óptico onde a luz branca se decompõe em suas cores componentes (o arco-íris)?",
+        "alternatives": ["Reflexão", "Absorção", "Difração", "Dispersão"],
+        "correctAnswer": "Dispersão"
+      },
+      {
+        "question": "Qual é a função da mielina no sistema nervoso?",
+        "alternatives": [
+          "Produzir neurotransmissores",
+          "Conduzir o sangue para os neurônios",
+          "Isolar e acelerar a condução de impulsos nervosos",
+          "Proteger o cérebro contra impactos físicos"
+        ],
+        "correctAnswer": "Isolar e acelerar a condução de impulsos nervosos"
+      },
+      {
+        "question": "Qual o nome do processo de formação de uma estrela a partir de uma nuvem de gás e poeira que colapsa sob sua própria gravidade?",
+        "alternatives": [
+          "Supernova",
+          "Fusão Nuclear",
+          "Nascimento Estelar",
+          "Gigante Vermelha"
+        ],
+        "correctAnswer": "Nascimento Estelar"
+      },
+      {
+        "question": "Qual é o principal gás de efeito estufa emitido em grandes quantidades por atividades humanas, contribuindo significativamente para o aquecimento global?",
+        "alternatives": [
+          "Metano (CH4)",
+          "Vapor d'água (H2O)",
+          "Dióxido de Carbono (CO2)",
+          "Óxido Nitroso (N2O)"
+        ],
+        "correctAnswer": "Dióxido de Carbono (CO2)"
+      },
+      {
+        "question": "Qual o nome do cientista que formulou as três leis do movimento e a lei da gravitação universal?",
+        "alternatives": [
+          "Albert Einstein",
+          "Galileu Galilei",
+          "Isaac Newton",
+          "Nikola Tesla"
+        ],
+        "correctAnswer": "Isaac Newton"
+      },
+      {
+        "question": "Qual é a principal diferença entre um vírus e uma bactéria?",
+        "alternatives": [
+          "Vírus são organismos unicelulares, bactérias são multicelulares",
+          "Bactérias são sempre patogênicas, vírus nunca",
+          "Vírus são parasitas intracelulares obrigatórios (precisam de células hospedeiras), bactérias são organismos vivos independentes",
+          "Bactérias possuem DNA, vírus não"
+        ],
+        "correctAnswer": "Vírus são parasitas intracelulares obrigatórios (precisam de células hospedeiras), bactérias são organismos vivos independentes"
+      },
+      {
+        "question": "Qual é o nome da teoria que descreve a relação entre a massa e a energia, famosa pela equação E=mc²?",
+        "alternatives": [
+          "Teoria da Relatividade Geral",
+          "Mecânica Quântica",
+          "Teoria da Relatividade Especial",
+          "Lei da Conservação da Energia"
+        ],
+        "correctAnswer": "Teoria da Relatividade Especial"
+      },
+      {
+        "question": "Em geologia, qual é o nome dado ao material rochoso fundido que se encontra abaixo da superfície terrestre?",
+        "alternatives": ["Lava", "Sedimento", "Gneisse", "Magma"],
+        "correctAnswer": "Magma"
       }
     ]
   },
@@ -1409,62 +1679,32 @@
     "easy": [
       {
         "question": "Qual é o componente principal de um computador que executa as instruções de um programa?",
-        "alternatives": [
-          "CPU",
-          "RAM",
-          "HD",
-          "Placa de Vídeo"
-        ],
+        "alternatives": ["CPU", "RAM", "HD", "Placa de Vídeo"],
         "correctAnswer": "CPU"
       },
       {
         "question": "Qual é o sistema operacional mais usado em smartphones?",
-        "alternatives": [
-          "Android",
-          "iOS",
-          "Windows Phone",
-          "BlackBerry OS"
-        ],
+        "alternatives": ["Android", "iOS", "Windows Phone", "BlackBerry OS"],
         "correctAnswer": "Android"
       },
       {
         "question": "Qual é o nome da rede mundial de computadores que permite a troca de informações?",
-        "alternatives": [
-          "Internet",
-          "Intranet",
-          "Extranet",
-          "Rede Local"
-        ],
+        "alternatives": ["Internet", "Intranet", "Extranet", "Rede Local"],
         "correctAnswer": "Internet"
       },
       {
         "question": "Qual é o nome do dispositivo usado para digitar texto em um computador?",
-        "alternatives": [
-          "Teclado",
-          "Mouse",
-          "Monitor",
-          "Impressora"
-        ],
+        "alternatives": ["Teclado", "Mouse", "Monitor", "Impressora"],
         "correctAnswer": "Teclado"
       },
       {
         "question": "Qual é a sigla para o sistema de posicionamento global?",
-        "alternatives": [
-          "GPS",
-          "Wi-Fi",
-          "Bluetooth",
-          "USB"
-        ],
+        "alternatives": ["GPS", "Wi-Fi", "Bluetooth", "USB"],
         "correctAnswer": "GPS"
       },
       {
         "question": "Qual é o nome do dispositivo que permite a conexão de vários computadores a uma rede?",
-        "alternatives": [
-          "Roteador",
-          "Switch",
-          "Modem",
-          "Hub"
-        ],
+        "alternatives": ["Roteador", "Switch", "Modem", "Hub"],
         "correctAnswer": "Roteador"
       },
       {
@@ -1479,254 +1719,209 @@
       },
       {
         "question": "Qual é a tecnologia que permite a comunicação sem fio entre dispositivos a curtas distâncias?",
-        "alternatives": [
-          "Bluetooth",
-          "Wi-Fi",
-          "NFC",
-          "Infravermelho"
-        ],
+        "alternatives": ["Bluetooth", "Wi-Fi", "NFC", "Infravermelho"],
         "correctAnswer": "Bluetooth"
       },
       {
         "question": "Qual é o nome do dispositivo de armazenamento de dados não volátil usado em computadores?",
-        "alternatives": [
-          "SSD",
-          "RAM",
-          "Cache",
-          "Processador"
-        ],
+        "alternatives": ["SSD", "RAM", "Cache", "Processador"],
         "correctAnswer": "SSD"
       },
       {
         "question": "Qual é o nome da empresa responsável pelo sistema operacional Windows?",
-        "alternatives": [
-          "Microsoft",
-          "Apple",
-          "Google",
-          "IBM"
-        ],
+        "alternatives": ["Microsoft", "Apple", "Google", "IBM"],
         "correctAnswer": "Microsoft"
       },
       {
-    "question": "Qual componente de hardware é considerado o 'cérebro' do computador, responsável por executar a maioria das operações e cálculos?",
-    "alternatives": [
-      "Placa de Vídeo (GPU)",
-      "Memória RAM",
-      "Disco Rígido (HD)",
-      "Processador (CPU)"
-    ],
-    "correctAnswer": "Processador (CPU)"
-  },
-  {
-    "question": "Qual é a principal função de um navegador de internet como Google Chrome ou Firefox?",
-    "alternatives": [
-      "Editar documentos de texto",
-      "Enviar e-mails",
-      "Acessar e exibir páginas da web",
-      "Gerenciar arquivos do sistema"
-    ],
-    "correctAnswer": "Acessar e exibir páginas da web"
-  },
-  {
-    "question": "Qual tipo de rede permite que computadores em uma área geográfica limitada (como uma casa ou escritório) se conectem e compartilhem recursos?",
-    "alternatives": [
-      "WAN (Wide Area Network)",
-      "MAN (Metropolitan Area Network)",
-      "LAN (Local Area Network)",
-      "GAN (Global Area Network)"
-    ],
-    "correctAnswer": "LAN (Local Area Network)"
-  },
-  {
-    "question": "Qual tecnologia permite que dispositivos se conectem sem fio em curtas distâncias, comumente usada para fones de ouvido e teclados?",
-    "alternatives": [
-      "Wi-Fi",
-      "Ethernet",
-      "Bluetooth",
-      "NFC"
-    ],
-    "correctAnswer": "Bluetooth"
-  },
-  {
-    "question": "O que significa 'URL' no contexto da internet?",
-    "alternatives": [
-      "User Remote Login",
-      "Universal Resource Locator",
-      "Uniform Router Link",
-      "Unique Resource Language"
-    ],
-    "correctAnswer": "Universal Resource Locator"
-  },
-  {
-    "question": "Qual é a função de um software antivírus?",
-    "alternatives": [
-      "Acelerar a conexão de internet",
-      "Otimizar a bateria de notebooks",
-      "Detectar e remover programas maliciosos (malware)",
-      "Compactar arquivos grandes"
-    ],
-    "correctAnswer": "Detectar e remover programas maliciosos (malware)"
-  },
-  {
-    "question": "Qual termo é usado para descrever o armazenamento de dados e acesso a serviços através da internet, em vez de diretamente no seu computador?",
-    "alternatives": [
-      "Robótica",
-      "Big Data",
-      "Computação em Nuvem",
-      "Inteligência Artificial"
-    ],
-    "correctAnswer": "Computação em Nuvem"
-  },
-  {
-    "question": "Qual dispositivo é usado para converter sinais digitais de um computador em sinais analógicos para transmissão por linhas telefônicas (e vice-versa), permitindo a conexão à internet?",
-    "alternatives": [
-      "Roteador",
-      "Switch",
-      "Modem",
-      "Hub"
-    ],
-    "correctAnswer": "Modem"
-  },
-  {
-    "question": "O que é um 'Pixel' em uma tela digital?",
-    "alternatives": [
-      "Um tipo de cabo de rede",
-      "A menor unidade de imagem que pode ser exibida",
-      "Um formato de arquivo de áudio",
-      "Um tipo de memória RAM"
-    ],
-    "correctAnswer": "A menor unidade de imagem que pode ser exibida"
-  },
-  {
-    "question": "Qual linguagem de programação é frequentemente usada para criar a estrutura e o conteúdo de páginas da web?",
-    "alternatives": [
-      "Python",
-      "Java",
-      "HTML",
-      "C++"
-    ],
-    "correctAnswer": "HTML"
-  },
-  {
-    "question": "Qual é a principal função de um firewall em uma rede de computadores?",
-    "alternatives": [
-      "Aumentar a velocidade da internet",
-      "Proteger contra vírus e malwares",
-      "Controlar o tráfego de rede e bloquear acessos não autorizados",
-      "Gerenciar senhas de usuários"
-    ],
-    "correctAnswer": "Controlar o tráfego de rede e bloquear acessos não autorizados"
-  },
-  {
-    "question": "O que a sigla 'Wi-Fi' representa em redes sem fio?",
-    "alternatives": [
-      "Wireless Fidelity",
-      "Web File Internet",
-      "Wide Field Internet",
-      "Wireless Forum"
-    ],
-    "correctAnswer": "Wireless Fidelity"
-  },
-  {
-    "question": "Qual tipo de impressora utiliza um cartucho de tinta líquida para formar imagens e textos no papel?",
-    "alternatives": [
-      "Impressora a Laser",
-      "Impressora de Matriz de Pontos",
-      "Impressora a Jato de Tinta",
-      "Impressora Térmica"
-    ],
-    "correctAnswer": "Impressora a Jato de Tinta"
-  },
-  {
-    "question": "O que é 'RAM' em um computador e qual sua principal função?",
-    "alternatives": [
-      "Um tipo de armazenamento permanente para arquivos",
-      "Uma memória de acesso aleatório usada para dados temporários em execução",
-      "Um sistema de resfriamento do processador",
-      "Um componente para conectar à internet"
-    ],
-    "correctAnswer": "Uma memória de acesso aleatório usada para dados temporários em execução"
-  },
-  {
-    "question": "Qual das seguintes opções é um exemplo de sistema operacional para smartphones?",
-    "alternatives": [
-      "Microsoft Word",
-      "Adobe Photoshop",
-      "Android",
-      "Google Chrome"
-    ],
-    "correctAnswer": "Android"
-  },
-  {
-    "question": "Qual é o nome do sistema de arquivos geralmente usado para armazenar dados em drives USB e cartões de memória, sendo compatível com a maioria dos sistemas operacionais?",
-    "alternatives": [
-      "NTFS",
-      "ext4",
-      "FAT32",
-      "APFS"
-    ],
-    "correctAnswer": "FAT32"
-  },
-  {
-    "question": "O que significa o 'www' no início de um endereço de internet?",
-    "alternatives": [
-      "World Wide Web",
-      "Wireless Web Works",
-      "Web World Wires",
-      "Wide Web World"
-    ],
-    "correctAnswer": "World Wide Web"
-  },
-  {
-    "question": "Qual é o propósito de uma 'Placa-mãe' em um computador?",
-    "alternatives": [
-      "Armazenar dados permanentemente",
-      "Conectar-se a redes sem fio",
-      "Conectar e comunicar todos os componentes de hardware do PC",
-      "Exibir imagens na tela"
-    ],
-    "correctAnswer": "Conectar e comunicar todos os componentes de hardware do PC"
-  },
-  {
-    "question": "Qual tecnologia é usada para fazer pagamentos por aproximação com cartões ou smartphones em terminais de venda?",
-    "alternatives": [
-      "GPS",
-      "QR Code",
-      "NFC (Near Field Communication)",
-      "Infravermelho"
-    ],
-    "correctAnswer": "NFC (Near Field Communication)"
-  },
-  {
-    "question": "O que um 'backup' de dados significa em computação?",
-    "alternatives": [
-      "Apagar todos os arquivos do computador",
-      "Reformatar o disco rígido",
-      "Criar cópias de segurança de arquivos importantes",
-      "Instalar um novo sistema operacional"
-    ],
-    "correctAnswer": "Criar cópias de segurança de arquivos importantes"
-  }
+        "question": "Qual componente de hardware é considerado o 'cérebro' do computador, responsável por executar a maioria das operações e cálculos?",
+        "alternatives": [
+          "Placa de Vídeo (GPU)",
+          "Memória RAM",
+          "Disco Rígido (HD)",
+          "Processador (CPU)"
+        ],
+        "correctAnswer": "Processador (CPU)"
+      },
+      {
+        "question": "Qual é a principal função de um navegador de internet como Google Chrome ou Firefox?",
+        "alternatives": [
+          "Editar documentos de texto",
+          "Enviar e-mails",
+          "Acessar e exibir páginas da web",
+          "Gerenciar arquivos do sistema"
+        ],
+        "correctAnswer": "Acessar e exibir páginas da web"
+      },
+      {
+        "question": "Qual tipo de rede permite que computadores em uma área geográfica limitada (como uma casa ou escritório) se conectem e compartilhem recursos?",
+        "alternatives": [
+          "WAN (Wide Area Network)",
+          "MAN (Metropolitan Area Network)",
+          "LAN (Local Area Network)",
+          "GAN (Global Area Network)"
+        ],
+        "correctAnswer": "LAN (Local Area Network)"
+      },
+      {
+        "question": "Qual tecnologia permite que dispositivos se conectem sem fio em curtas distâncias, comumente usada para fones de ouvido e teclados?",
+        "alternatives": ["Wi-Fi", "Ethernet", "Bluetooth", "NFC"],
+        "correctAnswer": "Bluetooth"
+      },
+      {
+        "question": "O que significa 'URL' no contexto da internet?",
+        "alternatives": [
+          "User Remote Login",
+          "Universal Resource Locator",
+          "Uniform Router Link",
+          "Unique Resource Language"
+        ],
+        "correctAnswer": "Universal Resource Locator"
+      },
+      {
+        "question": "Qual é a função de um software antivírus?",
+        "alternatives": [
+          "Acelerar a conexão de internet",
+          "Otimizar a bateria de notebooks",
+          "Detectar e remover programas maliciosos (malware)",
+          "Compactar arquivos grandes"
+        ],
+        "correctAnswer": "Detectar e remover programas maliciosos (malware)"
+      },
+      {
+        "question": "Qual termo é usado para descrever o armazenamento de dados e acesso a serviços através da internet, em vez de diretamente no seu computador?",
+        "alternatives": [
+          "Robótica",
+          "Big Data",
+          "Computação em Nuvem",
+          "Inteligência Artificial"
+        ],
+        "correctAnswer": "Computação em Nuvem"
+      },
+      {
+        "question": "Qual dispositivo é usado para converter sinais digitais de um computador em sinais analógicos para transmissão por linhas telefônicas (e vice-versa), permitindo a conexão à internet?",
+        "alternatives": ["Roteador", "Switch", "Modem", "Hub"],
+        "correctAnswer": "Modem"
+      },
+      {
+        "question": "O que é um 'Pixel' em uma tela digital?",
+        "alternatives": [
+          "Um tipo de cabo de rede",
+          "A menor unidade de imagem que pode ser exibida",
+          "Um formato de arquivo de áudio",
+          "Um tipo de memória RAM"
+        ],
+        "correctAnswer": "A menor unidade de imagem que pode ser exibida"
+      },
+      {
+        "question": "Qual linguagem de programação é frequentemente usada para criar a estrutura e o conteúdo de páginas da web?",
+        "alternatives": ["Python", "Java", "HTML", "C++"],
+        "correctAnswer": "HTML"
+      },
+      {
+        "question": "Qual é a principal função de um firewall em uma rede de computadores?",
+        "alternatives": [
+          "Aumentar a velocidade da internet",
+          "Proteger contra vírus e malwares",
+          "Controlar o tráfego de rede e bloquear acessos não autorizados",
+          "Gerenciar senhas de usuários"
+        ],
+        "correctAnswer": "Controlar o tráfego de rede e bloquear acessos não autorizados"
+      },
+      {
+        "question": "O que a sigla 'Wi-Fi' representa em redes sem fio?",
+        "alternatives": [
+          "Wireless Fidelity",
+          "Web File Internet",
+          "Wide Field Internet",
+          "Wireless Forum"
+        ],
+        "correctAnswer": "Wireless Fidelity"
+      },
+      {
+        "question": "Qual tipo de impressora utiliza um cartucho de tinta líquida para formar imagens e textos no papel?",
+        "alternatives": [
+          "Impressora a Laser",
+          "Impressora de Matriz de Pontos",
+          "Impressora a Jato de Tinta",
+          "Impressora Térmica"
+        ],
+        "correctAnswer": "Impressora a Jato de Tinta"
+      },
+      {
+        "question": "O que é 'RAM' em um computador e qual sua principal função?",
+        "alternatives": [
+          "Um tipo de armazenamento permanente para arquivos",
+          "Uma memória de acesso aleatório usada para dados temporários em execução",
+          "Um sistema de resfriamento do processador",
+          "Um componente para conectar à internet"
+        ],
+        "correctAnswer": "Uma memória de acesso aleatório usada para dados temporários em execução"
+      },
+      {
+        "question": "Qual das seguintes opções é um exemplo de sistema operacional para smartphones?",
+        "alternatives": [
+          "Microsoft Word",
+          "Adobe Photoshop",
+          "Android",
+          "Google Chrome"
+        ],
+        "correctAnswer": "Android"
+      },
+      {
+        "question": "Qual é o nome do sistema de arquivos geralmente usado para armazenar dados em drives USB e cartões de memória, sendo compatível com a maioria dos sistemas operacionais?",
+        "alternatives": ["NTFS", "ext4", "FAT32", "APFS"],
+        "correctAnswer": "FAT32"
+      },
+      {
+        "question": "O que significa o 'www' no início de um endereço de internet?",
+        "alternatives": [
+          "World Wide Web",
+          "Wireless Web Works",
+          "Web World Wires",
+          "Wide Web World"
+        ],
+        "correctAnswer": "World Wide Web"
+      },
+      {
+        "question": "Qual é o propósito de uma 'Placa-mãe' em um computador?",
+        "alternatives": [
+          "Armazenar dados permanentemente",
+          "Conectar-se a redes sem fio",
+          "Conectar e comunicar todos os componentes de hardware do PC",
+          "Exibir imagens na tela"
+        ],
+        "correctAnswer": "Conectar e comunicar todos os componentes de hardware do PC"
+      },
+      {
+        "question": "Qual tecnologia é usada para fazer pagamentos por aproximação com cartões ou smartphones em terminais de venda?",
+        "alternatives": [
+          "GPS",
+          "QR Code",
+          "NFC (Near Field Communication)",
+          "Infravermelho"
+        ],
+        "correctAnswer": "NFC (Near Field Communication)"
+      },
+      {
+        "question": "O que um 'backup' de dados significa em computação?",
+        "alternatives": [
+          "Apagar todos os arquivos do computador",
+          "Reformatar o disco rígido",
+          "Criar cópias de segurança de arquivos importantes",
+          "Instalar um novo sistema operacional"
+        ],
+        "correctAnswer": "Criar cópias de segurança de arquivos importantes"
+      }
     ],
     "medium": [
       {
         "question": "Qual é o nome da linguagem de programação mais popular para desenvolvimento web frontend?",
-        "alternatives": [
-          "JavaScript",
-          "Python",
-          "Java",
-          "C#"
-        ],
+        "alternatives": ["JavaScript", "Python", "Java", "C#"],
         "correctAnswer": "JavaScript"
       },
       {
         "question": "Qual é o protocolo de rede usado para enviar e-mails?",
-        "alternatives": [
-          "SMTP",
-          "HTTP",
-          "FTP",
-          "POP3"
-        ],
+        "alternatives": ["SMTP", "HTTP", "FTP", "POP3"],
         "correctAnswer": "SMTP"
       },
       {
@@ -1771,12 +1966,7 @@
       },
       {
         "question": "Qual é o nome da tecnologia de exibição que não requer retroiluminação, resultando em pretos mais profundos e cores mais vibrantes?",
-        "alternatives": [
-          "OLED",
-          "LCD",
-          "LED",
-          "Plasma"
-        ],
+        "alternatives": ["OLED", "LCD", "LED", "Plasma"],
         "correctAnswer": "OLED"
       },
       {
@@ -1791,234 +1981,219 @@
       },
       {
         "question": "Qual é o nome do padrão de comunicação sem fio de alta velocidade usado para redes locais?",
-        "alternatives": [
-          "Wi-Fi",
-          "Ethernet",
-          "5G",
-          "Li-Fi"
-        ],
+        "alternatives": ["Wi-Fi", "Ethernet", "5G", "Li-Fi"],
         "correctAnswer": "Wi-Fi"
       },
       {
         "question": "Qual é o nome do primeiro programa de computador que conseguia passar no Teste de Turing, em 2014?",
-        "alternatives": [
-          "Eugene Goostman",
-          "AlphaGo",
-          "Deep Blue",
-          "Watson"
-        ],
+        "alternatives": ["Eugene Goostman", "AlphaGo", "Deep Blue", "Watson"],
         "correctAnswer": "Eugene Goostman"
       },
       {
-    "question": "Qual das seguintes tecnologias de rede é mais adequada para conexões de alta velocidade em redes locais, utilizando cabos de par trançado?",
-    "alternatives": [
-      "Wi-Fi 6E",
-      "5G",
-      "Bluetooth Low Energy (LE)",
-      "Ethernet Gigabit"
-    ],
-    "correctAnswer": "Ethernet Gigabit"
-  },
-  {
-    "question": "Em arquiteturas de processadores, o que o termo 'cache L1' geralmente se refere?",
-    "alternatives": [
-      "Uma área de armazenamento temporário na memória RAM",
-      "O armazenamento de longo prazo mais rápido do sistema",
-      "Um pequeno e muito rápido banco de memória integrado diretamente à CPU",
-      "O cache de disco para arquivos do sistema operacional"
-    ],
-    "correctAnswer": "Um pequeno e muito rápido banco de memória integrado diretamente à CPU"
-  },
-  {
-    "question": "Qual protocolo é usado para transferir arquivos de forma segura pela internet, geralmente em um ambiente cliente-servidor, com criptografia?",
-    "alternatives": [
-      "FTP (File Transfer Protocol)",
-      "HTTP (Hypertext Transfer Protocol)",
-      "SMTP (Simple Mail Transfer Protocol)",
-      "SFTP (SSH File Transfer Protocol)"
-    ],
-    "correctAnswer": "SFTP (SSH File Transfer Protocol)"
-  },
-  {
-    "question": "No desenvolvimento web, o que é um 'framework' JavaScript como React, Angular ou Vue?",
-    "alternatives": [
-      "Um programa para compactar arquivos de código",
-      "Uma linguagem de programação para estilizar páginas",
-      "Um conjunto de bibliotecas e ferramentas para facilitar a construção de aplicações web",
-      "Um tipo de servidor web para hospedar sites"
-    ],
-    "correctAnswer": "Um conjunto de bibliotecas e ferramentas para facilitar a construção de aplicações web"
-  },
-  {
-    "question": "Qual é a principal vantagem de um SSD (Solid State Drive) em comparação com um HD (Hard Disk Drive) tradicional?",
-    "alternatives": [
-      "Maior capacidade de armazenamento pelo mesmo custo",
-      "Menor consumo de energia e maior resistência a impactos",
-      "Melhor para backup de longo prazo de grandes volumes de dados",
-      "Não requer fonte de alimentação externa"
-    ],
-    "correctAnswer": "Menor consumo de energia e maior resistência a impactos"
-  },
-  {
-    "question": "No contexto da cibersegurança, o que é um ataque de 'Phishing'?",
-    "alternatives": [
-      "Uma tentativa de sobrecarregar um servidor com tráfego excessivo",
-      "A instalação de um vírus diretamente no hardware",
-      "Uma tentativa fraudulenta de obter informações sensíveis, fingindo ser uma entidade confiável",
-      "O roubo de dados através de força bruta em senhas"
-    ],
-    "correctAnswer": "Uma tentativa fraudulenta de obter informações sensíveis, fingindo ser uma entidade confiável"
-  },
-  {
-    "question": "Qual termo descreve a capacidade de um sistema de computador ou de uma rede para lidar com uma carga de trabalho crescente?",
-    "alternatives": [
-      "Latência",
-      "Taxa de Transferência",
-      "Escalabilidade",
-      "Redundância"
-    ],
-    "correctAnswer": "Escalabilidade"
-  },
-  {
-    "question": "O que é 'API' (Application Programming Interface) no desenvolvimento de software?",
-    "alternatives": [
-      "Um tipo de programa antivírus",
-      "Um conjunto de rotinas, protocolos e ferramentas para construir software",
-      "Um dispositivo físico para conexão de redes",
-      "Uma linguagem de marcação para documentos"
-    ],
-    "correctAnswer": "Um conjunto de rotinas, protocolos e ferramentas para construir software"
-  },
-  {
-    "question": "Qual é a principal diferença entre um IP público e um IP privado?",
-    "alternatives": [
-      "IP público é usado apenas por roteadores, IP privado por computadores",
-      "IP público é visível na internet global, IP privado é restrito a uma rede local",
-      "IP público é fixo, IP privado é dinâmico",
-      "IP público é para servidores, IP privado para clientes"
-    ],
-    "correctAnswer": "IP público é visível na internet global, IP privado é restrito a uma rede local"
-  },
-  {
-    "question": "Em um banco de dados, o que representa uma 'chave primária'?",
-    "alternatives": [
-      "Um campo que armazena informações confidenciais",
-      "Um campo que pode ser repetido em várias linhas da tabela",
-      "Um campo que identifica unicamente cada registro em uma tabela",
-      "Um tipo de criptografia de dados"
-    ],
-    "correctAnswer": "Um campo que identifica unicamente cada registro em uma tabela"
-  },
-   {
-    "question": "Qual é a principal função do 'DHCP' (Dynamic Host Configuration Protocol) em uma rede?",
-    "alternatives": [
-      "Traduzir nomes de domínio em endereços IP",
-      "Atribuir automaticamente endereços IP e outras configurações de rede a dispositivos",
-      "Garantir a segurança das conexões HTTPS",
-      "Roteamento de pacotes de dados entre diferentes redes"
-    ],
-    "correctAnswer": "Atribuir automaticamente endereços IP e outras configurações de rede a dispositivos"
-  },
-  {
-    "question": "Em sistemas de computação, o que é um 'thread'?",
-    "alternatives": [
-      "Um tipo de cabo de rede para alta velocidade",
-      "Uma linha de código em um programa que causa um erro",
-      "A menor unidade de processamento que pode ser escalonada por um sistema operacional",
-      "Um protocolo para comunicação entre servidores"
-    ],
-    "correctAnswer": "A menor unidade de processamento que pode ser escalonada por um sistema operacional"
-  },
-  {
-    "question": "Qual é a principal distinção entre SaaS, PaaS e IaaS em serviços de computação em nuvem?",
-    "alternatives": [
-      "SaaS é para hardware, PaaS para software e IaaS para redes",
-      "SaaS oferece software pronto, PaaS uma plataforma de desenvolvimento, IaaS infraestrutura virtual",
-      "SaaS é gratuito, PaaS é pago e IaaS é de código aberto",
-      "SaaS é para usuários finais, PaaS para administradores de sistema, IaaS para desenvolvedores"
-    ],
-    "correctAnswer": "SaaS oferece software pronto, PaaS uma plataforma de desenvolvimento, IaaS infraestrutura virtual"
-  },
-  {
-    "question": "Em criptografia, qual é a principal característica da criptografia de chave simétrica?",
-    "alternatives": [
-      "Usa uma chave pública para criptografar e uma chave privada para descriptografar",
-      "Usa a mesma chave para criptografar e descriptografar dados",
-      "É mais lenta que a criptografia assimétrica para grandes volumes de dados",
-      "É usada principalmente para assinaturas digitais"
-    ],
-    "correctAnswer": "Usa a mesma chave para criptografar e descriptografar dados"
-  },
-  {
-    "question": "Qual é o propósito de uma 'VPN' (Virtual Private Network)?",
-    "alternatives": [
-      "Aumentar a velocidade da sua conexão com a internet",
-      "Criar uma rede local para jogos online",
-      "Estender uma rede privada através de uma rede pública, adicionando segurança e privacidade",
-      "Monitorar o uso de dados em smartphones"
-    ],
-    "correctAnswer": "Estender uma rede privada através de uma rede pública, adicionando segurança e privacidade"
-  },
-  {
-    "question": "No contexto de inteligência artificial, o que é 'Aprendizado de Máquina' (Machine Learning)?",
-    "alternatives": [
-      "A capacidade de robôs substituírem humanos em todas as tarefas",
-      "Um campo da IA que permite sistemas aprenderem com dados sem serem explicitamente programados",
-      "O estudo de como máquinas podem pensar como humanos",
-      "Um método para criar programas que resolvem problemas lógicos"
-    ],
-    "correctAnswer": "Um campo da IA que permite sistemas aprenderem com dados sem serem explicitamente programados"
-  },
-  {
-    "question": "O que é 'throughput' (vazão) em uma rede de computadores?",
-    "alternatives": [
-      "O atraso na transmissão de dados",
-      "A quantidade de dados que pode ser transmitida com sucesso por unidade de tempo",
-      "O número de erros em uma transmissão de dados",
-      "A capacidade máxima de banda de um cabo"
-    ],
-    "correctAnswer": "A quantidade de dados que pode ser transmitida com sucesso por unidade de tempo"
-  },
-  {
-    "question": "Qual é a principal função de um sistema 'ERP' (Enterprise Resource Planning)?",
-    "alternatives": [
-      "Gerenciar redes sociais",
-      "Integrar e gerenciar todos os processos de negócios de uma organização",
-      "Criar designs gráficos para websites",
-      "Desenvolver aplicativos móveis"
-    ],
-    "correctAnswer": "Integrar e gerenciar todos os processos de negócios de uma organização"
-  },
-  {
-    "question": "Em programação, o que um 'IDE' (Integrated Development Environment) oferece aos desenvolvedores?",
-    "alternatives": [
-      "Um espaço para armazenar códigos online",
-      "Uma ferramenta para testar a velocidade da internet",
-      "Um ambiente de software que integra ferramentas para desenvolvimento de código, depuração e compilação",
-      "Um serviço de nuvem para hospedar aplicativos"
-    ],
-    "correctAnswer": "Um ambiente de software que integra ferramentas para desenvolvimento de código, depuração e compilação"
-  },
-  {
-    "question": "Qual tecnologia de display emite sua própria luz por pixel, permitindo pretos perfeitos e cores vibrantes, mas com risco de burn-in?",
-    "alternatives": [
-      "LCD (Liquid Crystal Display)",
-      "LED (Light Emitting Diode)",
-      "OLED (Organic Light Emitting Diode)",
-      "Plasma"
-    ],
-    "correctAnswer": "OLED (Organic Light Emitting Diode)"
-  }
+        "question": "Qual das seguintes tecnologias de rede é mais adequada para conexões de alta velocidade em redes locais, utilizando cabos de par trançado?",
+        "alternatives": [
+          "Wi-Fi 6E",
+          "5G",
+          "Bluetooth Low Energy (LE)",
+          "Ethernet Gigabit"
+        ],
+        "correctAnswer": "Ethernet Gigabit"
+      },
+      {
+        "question": "Em arquiteturas de processadores, o que o termo 'cache L1' geralmente se refere?",
+        "alternatives": [
+          "Uma área de armazenamento temporário na memória RAM",
+          "O armazenamento de longo prazo mais rápido do sistema",
+          "Um pequeno e muito rápido banco de memória integrado diretamente à CPU",
+          "O cache de disco para arquivos do sistema operacional"
+        ],
+        "correctAnswer": "Um pequeno e muito rápido banco de memória integrado diretamente à CPU"
+      },
+      {
+        "question": "Qual protocolo é usado para transferir arquivos de forma segura pela internet, geralmente em um ambiente cliente-servidor, com criptografia?",
+        "alternatives": [
+          "FTP (File Transfer Protocol)",
+          "HTTP (Hypertext Transfer Protocol)",
+          "SMTP (Simple Mail Transfer Protocol)",
+          "SFTP (SSH File Transfer Protocol)"
+        ],
+        "correctAnswer": "SFTP (SSH File Transfer Protocol)"
+      },
+      {
+        "question": "No desenvolvimento web, o que é um 'framework' JavaScript como React, Angular ou Vue?",
+        "alternatives": [
+          "Um programa para compactar arquivos de código",
+          "Uma linguagem de programação para estilizar páginas",
+          "Um conjunto de bibliotecas e ferramentas para facilitar a construção de aplicações web",
+          "Um tipo de servidor web para hospedar sites"
+        ],
+        "correctAnswer": "Um conjunto de bibliotecas e ferramentas para facilitar a construção de aplicações web"
+      },
+      {
+        "question": "Qual é a principal vantagem de um SSD (Solid State Drive) em comparação com um HD (Hard Disk Drive) tradicional?",
+        "alternatives": [
+          "Maior capacidade de armazenamento pelo mesmo custo",
+          "Menor consumo de energia e maior resistência a impactos",
+          "Melhor para backup de longo prazo de grandes volumes de dados",
+          "Não requer fonte de alimentação externa"
+        ],
+        "correctAnswer": "Menor consumo de energia e maior resistência a impactos"
+      },
+      {
+        "question": "No contexto da cibersegurança, o que é um ataque de 'Phishing'?",
+        "alternatives": [
+          "Uma tentativa de sobrecarregar um servidor com tráfego excessivo",
+          "A instalação de um vírus diretamente no hardware",
+          "Uma tentativa fraudulenta de obter informações sensíveis, fingindo ser uma entidade confiável",
+          "O roubo de dados através de força bruta em senhas"
+        ],
+        "correctAnswer": "Uma tentativa fraudulenta de obter informações sensíveis, fingindo ser uma entidade confiável"
+      },
+      {
+        "question": "Qual termo descreve a capacidade de um sistema de computador ou de uma rede para lidar com uma carga de trabalho crescente?",
+        "alternatives": [
+          "Latência",
+          "Taxa de Transferência",
+          "Escalabilidade",
+          "Redundância"
+        ],
+        "correctAnswer": "Escalabilidade"
+      },
+      {
+        "question": "O que é 'API' (Application Programming Interface) no desenvolvimento de software?",
+        "alternatives": [
+          "Um tipo de programa antivírus",
+          "Um conjunto de rotinas, protocolos e ferramentas para construir software",
+          "Um dispositivo físico para conexão de redes",
+          "Uma linguagem de marcação para documentos"
+        ],
+        "correctAnswer": "Um conjunto de rotinas, protocolos e ferramentas para construir software"
+      },
+      {
+        "question": "Qual é a principal diferença entre um IP público e um IP privado?",
+        "alternatives": [
+          "IP público é usado apenas por roteadores, IP privado por computadores",
+          "IP público é visível na internet global, IP privado é restrito a uma rede local",
+          "IP público é fixo, IP privado é dinâmico",
+          "IP público é para servidores, IP privado para clientes"
+        ],
+        "correctAnswer": "IP público é visível na internet global, IP privado é restrito a uma rede local"
+      },
+      {
+        "question": "Em um banco de dados, o que representa uma 'chave primária'?",
+        "alternatives": [
+          "Um campo que armazena informações confidenciais",
+          "Um campo que pode ser repetido em várias linhas da tabela",
+          "Um campo que identifica unicamente cada registro em uma tabela",
+          "Um tipo de criptografia de dados"
+        ],
+        "correctAnswer": "Um campo que identifica unicamente cada registro em uma tabela"
+      },
+      {
+        "question": "Qual é a principal função do 'DHCP' (Dynamic Host Configuration Protocol) em uma rede?",
+        "alternatives": [
+          "Traduzir nomes de domínio em endereços IP",
+          "Atribuir automaticamente endereços IP e outras configurações de rede a dispositivos",
+          "Garantir a segurança das conexões HTTPS",
+          "Roteamento de pacotes de dados entre diferentes redes"
+        ],
+        "correctAnswer": "Atribuir automaticamente endereços IP e outras configurações de rede a dispositivos"
+      },
+      {
+        "question": "Em sistemas de computação, o que é um 'thread'?",
+        "alternatives": [
+          "Um tipo de cabo de rede para alta velocidade",
+          "Uma linha de código em um programa que causa um erro",
+          "A menor unidade de processamento que pode ser escalonada por um sistema operacional",
+          "Um protocolo para comunicação entre servidores"
+        ],
+        "correctAnswer": "A menor unidade de processamento que pode ser escalonada por um sistema operacional"
+      },
+      {
+        "question": "Qual é a principal distinção entre SaaS, PaaS e IaaS em serviços de computação em nuvem?",
+        "alternatives": [
+          "SaaS é para hardware, PaaS para software e IaaS para redes",
+          "SaaS oferece software pronto, PaaS uma plataforma de desenvolvimento, IaaS infraestrutura virtual",
+          "SaaS é gratuito, PaaS é pago e IaaS é de código aberto",
+          "SaaS é para usuários finais, PaaS para administradores de sistema, IaaS para desenvolvedores"
+        ],
+        "correctAnswer": "SaaS oferece software pronto, PaaS uma plataforma de desenvolvimento, IaaS infraestrutura virtual"
+      },
+      {
+        "question": "Em criptografia, qual é a principal característica da criptografia de chave simétrica?",
+        "alternatives": [
+          "Usa uma chave pública para criptografar e uma chave privada para descriptografar",
+          "Usa a mesma chave para criptografar e descriptografar dados",
+          "É mais lenta que a criptografia assimétrica para grandes volumes de dados",
+          "É usada principalmente para assinaturas digitais"
+        ],
+        "correctAnswer": "Usa a mesma chave para criptografar e descriptografar dados"
+      },
+      {
+        "question": "Qual é o propósito de uma 'VPN' (Virtual Private Network)?",
+        "alternatives": [
+          "Aumentar a velocidade da sua conexão com a internet",
+          "Criar uma rede local para jogos online",
+          "Estender uma rede privada através de uma rede pública, adicionando segurança e privacidade",
+          "Monitorar o uso de dados em smartphones"
+        ],
+        "correctAnswer": "Estender uma rede privada através de uma rede pública, adicionando segurança e privacidade"
+      },
+      {
+        "question": "No contexto de inteligência artificial, o que é 'Aprendizado de Máquina' (Machine Learning)?",
+        "alternatives": [
+          "A capacidade de robôs substituírem humanos em todas as tarefas",
+          "Um campo da IA que permite sistemas aprenderem com dados sem serem explicitamente programados",
+          "O estudo de como máquinas podem pensar como humanos",
+          "Um método para criar programas que resolvem problemas lógicos"
+        ],
+        "correctAnswer": "Um campo da IA que permite sistemas aprenderem com dados sem serem explicitamente programados"
+      },
+      {
+        "question": "O que é 'throughput' (vazão) em uma rede de computadores?",
+        "alternatives": [
+          "O atraso na transmissão de dados",
+          "A quantidade de dados que pode ser transmitida com sucesso por unidade de tempo",
+          "O número de erros em uma transmissão de dados",
+          "A capacidade máxima de banda de um cabo"
+        ],
+        "correctAnswer": "A quantidade de dados que pode ser transmitida com sucesso por unidade de tempo"
+      },
+      {
+        "question": "Qual é a principal função de um sistema 'ERP' (Enterprise Resource Planning)?",
+        "alternatives": [
+          "Gerenciar redes sociais",
+          "Integrar e gerenciar todos os processos de negócios de uma organização",
+          "Criar designs gráficos para websites",
+          "Desenvolver aplicativos móveis"
+        ],
+        "correctAnswer": "Integrar e gerenciar todos os processos de negócios de uma organização"
+      },
+      {
+        "question": "Em programação, o que um 'IDE' (Integrated Development Environment) oferece aos desenvolvedores?",
+        "alternatives": [
+          "Um espaço para armazenar códigos online",
+          "Uma ferramenta para testar a velocidade da internet",
+          "Um ambiente de software que integra ferramentas para desenvolvimento de código, depuração e compilação",
+          "Um serviço de nuvem para hospedar aplicativos"
+        ],
+        "correctAnswer": "Um ambiente de software que integra ferramentas para desenvolvimento de código, depuração e compilação"
+      },
+      {
+        "question": "Qual tecnologia de display emite sua própria luz por pixel, permitindo pretos perfeitos e cores vibrantes, mas com risco de burn-in?",
+        "alternatives": [
+          "LCD (Liquid Crystal Display)",
+          "LED (Light Emitting Diode)",
+          "OLED (Organic Light Emitting Diode)",
+          "Plasma"
+        ],
+        "correctAnswer": "OLED (Organic Light Emitting Diode)"
+      }
     ],
     "hard": [
       {
         "question": "Qual é o nome do algoritmo de criptografia simétrica amplamente utilizado para proteger informações confidenciais?",
-        "alternatives": [
-          "AES",
-          "RSA",
-          "SHA",
-          "MD5"
-        ],
+        "alternatives": ["AES", "RSA", "SHA", "MD5"],
         "correctAnswer": "AES"
       },
       {
@@ -2111,206 +2286,206 @@
         ],
         "correctAnswer": "Lei de Moore"
       },
-        {
-    "question": "Qual técnica de otimização de banco de dados envolve a divisão de uma tabela grande em múltiplas tabelas menores e mais gerenciáveis, geralmente distribuídas em diferentes servidores?",
-    "alternatives": [
-      "Indexação",
-      "Normalização",
-      "Sharding",
-      "Desnormalização"
-    ],
-    "correctAnswer": "Sharding"
-  },
-  {
-    "question": "Em criptografia, qual é a principal característica de uma função de hash criptográfica que a torna útil para verificar a integridade de dados?",
-    "alternatives": [
-      "Sua reversibilidade (facilidade de descriptografia)",
-      "Capacidade de gerar chaves simétricas",
-      "Resistência a colisões e irreversibilidade (difícil de reverter para o dado original)",
-      "Baixa complexidade computacional para ataques de força bruta"
-    ],
-    "correctAnswer": "Resistência a colisões e irreversibilidade (difícil de reverter para o dado original)"
-  },
-  {
-    "question": "Qual dos seguintes algoritmos de ordenação possui a complexidade de tempo média e pior caso de O(n log n)?",
-    "alternatives": [
-      "Bubble Sort",
-      "Insertion Sort",
-      "Quick Sort",
-      "Selection Sort"
-    ],
-    "correctAnswer": "Quick Sort"
-  },
-  {
-    "question": "O que o protocolo 'BGP' (Border Gateway Protocol) faz em uma rede IP global?",
-    "alternatives": [
-      "Gerencia endereços IP dentro de uma rede local",
-      "Converte nomes de domínio em endereços IP",
-      "Determina as melhores rotas entre sistemas autônomos na internet",
-      "Autentica usuários em uma rede sem fio"
-    ],
-    "correctAnswer": "Determina as melhores rotas entre sistemas autônomos na internet"
-  },
-  {
-    "question": "Em engenharia de software, o que é um 'microsserviço'?",
-    "alternatives": [
-      "Um pequeno bug em um software",
-      "Um software monolítico executado em múltiplos servidores",
-      "Uma abordagem arquitetural onde a aplicação é construída como uma coleção de pequenos serviços independentes",
-      "Um sistema operacional minimalista para dispositivos embarcados"
-    ],
-    "correctAnswer": "Uma abordagem arquitetural onde a aplicação é construída como uma coleção de pequenos serviços independentes"
-  },
-  {
-    "question": "Qual é a principal diferença entre a computação quântica e a computação clássica em termos de processamento de informações?",
-    "alternatives": [
-      "A computação quântica é mais rápida em todas as tarefas computacionais",
-      "A computação clássica usa qubits, enquanto a quântica usa bits binários",
-      "A computação quântica utiliza fenômenos como superposição e entrelaçamento para processar informações",
-      "A computação quântica exige temperaturas ambiente para funcionar eficientemente"
-    ],
-    "correctAnswer": "A computação quântica utiliza fenômenos como superposição e entrelaçamento para processar informações"
-  },
-  {
-    "question": "Em sistemas operacionais, o que é o 'kernel'?",
-    "alternatives": [
-      "Um aplicativo de interface gráfica para o usuário",
-      "O componente central que gerencia os recursos do sistema e a comunicação hardware/software",
-      "Um programa para desfragmentar o disco rígido",
-      "Uma ferramenta para otimização de memória RAM"
-    ],
-    "correctAnswer": "O componente central que gerencia os recursos do sistema e a comunicação hardware/software"
-  },
-  {
-    "question": "Qual conceito da programação orientada a objetos permite que um objeto se comporte de diferentes maneiras dependendo do contexto, geralmente através de herança ou interfaces?",
-    "alternatives": [
-      "Encapsulamento",
-      "Herança",
-      "Abstração",
-      "Polimorfismo"
-    ],
-    "correctAnswer": "Polimorfismo"
-  },
-  {
-    "question": "Qual é a principal função do protocolo 'DNS' (Domain Name System) na internet?",
-    "alternatives": [
-      "Atribuir endereços IP a dispositivos",
-      "Garantir a segurança da conexão Wi-Fi",
-      "Traduzir nomes de domínio legíveis por humanos (ex: google.com) em endereços IP numéricos",
-      "Controlar o fluxo de dados em redes de fibra óptica"
-    ],
-    "correctAnswer": "Traduzir nomes de domínio legíveis por humanos (ex: google.com) em endereços IP numéricos"
-  },
-  {
-    "question": "Em segurança da informação, o que é um 'exploit de dia zero' (zero-day exploit)?",
-    "alternatives": [
-      "Um tipo de ataque que ocorre apenas no primeiro dia de uso de um software",
-      "Uma vulnerabilidade de segurança conhecida pelo público e corrigida rapidamente",
-      "Uma vulnerabilidade de software que ainda não foi descoberta ou publicamente conhecida pelo fornecedor",
-      "Um ataque que visa apenas sistemas operacionais mais antigos"
-    ],
-    "correctAnswer": "Uma vulnerabilidade de software que ainda não foi descoberta ou publicamente conhecida pelo fornecedor"
-  },
-  {
-    "question": "Qual dos seguintes algoritmos de criptografia assimétrica é amplamente utilizado para assinaturas digitais e troca segura de chaves em SSL/TLS?",
-    "alternatives": [
-      "AES (Advanced Encryption Standard)",
-      "DES (Data Encryption Standard)",
-      "RSA (Rivest–Shamir–Adleman)",
-      "MD5 (Message-Digest Algorithm 5)"
-    ],
-    "correctAnswer": "RSA (Rivest–Shamir–Adleman)"
-  },
-  {
-    "question": "No contexto de redes de computadores, o que é um ataque 'DDoS' (Distributed Denial of Service)?",
-    "alternatives": [
-      "Um ataque que rouba dados de um único computador",
-      "Uma tentativa de sobrecarregar um servidor ou serviço online com tráfego massivo de múltiplas fontes",
-      "A instalação de um vírus em uma rede local",
-      "Um método para descriptografar dados de forma rápida"
-    ],
-    "correctAnswer": "Uma tentativa de sobrecarregar um servidor ou serviço online com tráfego massivo de múltiplas fontes"
-  },
-  {
-    "question": "Qual paradigma de programação enfatiza a composição de funções puras, evitando estados mutáveis e efeitos colaterais?",
-    "alternatives": [
-      "Programação Orientada a Objetos",
-      "Programação Imperativa",
-      "Programação Funcional",
-      "Programação Lógica"
-    ],
-    "correctAnswer": "Programação Funcional"
-  },
-  {
-    "question": "Em virtualização, qual software permite que múltiplas máquinas virtuais rodem em um único hardware físico?",
-    "alternatives": [
-      "Sistema Operacional Convidado",
-      "Container",
-      "Hipervisor (Type-1 ou Type-2)",
-      "Emulador"
-    ],
-    "correctAnswer": "Hipervisor (Type-1 ou Type-2)"
-  },
-  {
-    "question": "Qual é a principal característica que diferencia uma linguagem de programação 'compilada' de uma 'interpretada'?",
-    "alternatives": [
-      "Linguagens compiladas são executadas linha por linha, interpretadas são traduzidas antes",
-      "Linguagens compiladas são multiplataforma, interpretadas não",
-      "Linguagens compiladas são traduzidas para código de máquina antes da execução, interpretadas são executadas por um interpretador em tempo real",
-      "Linguagens compiladas exigem menos memória RAM"
-    ],
-    "correctAnswer": "Linguagens compiladas são traduzidas para código de máquina antes da execução, interpretadas são executadas por um interpretador em tempo real"
-  },
-  {
-    "question": "Em sistemas distribuídos, o que significa o teorema 'CAP' (Consistency, Availability, Partition Tolerance)?",
-    "alternatives": [
-      "Que um sistema distribuído pode sempre garantir Consistência, Acessibilidade e Particionamento",
-      "Que um sistema distribuído só pode garantir duas das três propriedades (Consistência, Disponibilidade, Tolerância à Partição) simultaneamente",
-      "Que a Criptografia, Autenticação e Privacidade são os pilares da segurança",
-      "Que um sistema deve ser Completo, Aberto e Performático"
-    ],
-    "correctAnswer": "Que um sistema distribuído só pode garantir duas das três propriedades (Consistência, Disponibilidade, Tolerância à Partição) simultaneamente"
-  },
-  {
-    "question": "Qual das seguintes estruturas de dados oferece acesso O(1) (constante) para inserção, remoção e busca em média, mas não garante a ordem dos elementos?",
-    "alternatives": [
-      "Lista Encadeada",
-      "Array Ordenado",
-      "Tabela Hash (Hash Table)",
-      "Árvore Binária de Busca"
-    ],
-    "correctAnswer": "Tabela Hash (Hash Table)"
-  },
-  {
-    "question": "No desenvolvimento de software ágil, o que o 'Scrum Master' representa dentro da equipe Scrum?",
-    "alternatives": [
-      "O cliente que define os requisitos do produto",
-      "O líder técnico que toma todas as decisões de design",
-      "Um facilitador que garante que a equipe siga as práticas Scrum e remove impedimentos",
-      "O responsável por testar o software desenvolvido"
-    ],
-    "correctAnswer": "Um facilitador que garante que a equipe siga as práticas Scrum e remove impedimentos"
-  },
-  {
-    "question": "O que é 'Docker' no contexto de desenvolvimento e implantação de software?",
-    "alternatives": [
-      "Um sistema operacional completo para servidores web",
-      "Uma plataforma de virtualização de hardware para criar máquinas virtuais",
-      "Uma plataforma para desenvolver, empacotar e executar aplicações em contêineres isolados",
-      "Um software de monitoramento de rede para detecção de intrusões"
-    ],
-    "correctAnswer": "Uma plataforma para desenvolver, empacotar e executar aplicações em contêineres isolados"
-  },
-  {
-    "question": "Qual protocolo de rede é fundamental para a camada de transporte, oferecendo entrega confiável, ordenada e com controle de fluxo?",
-    "alternatives": [
-      "UDP (User Datagram Protocol)",
-      "IP (Internet Protocol)",
-      "ARP (Address Resolution Protocol)",
-      "TCP (Transmission Control Protocol)"
-    ],
-    "correctAnswer": "TCP (Transmission Control Protocol)"
-  }
+      {
+        "question": "Qual técnica de otimização de banco de dados envolve a divisão de uma tabela grande em múltiplas tabelas menores e mais gerenciáveis, geralmente distribuídas em diferentes servidores?",
+        "alternatives": [
+          "Indexação",
+          "Normalização",
+          "Sharding",
+          "Desnormalização"
+        ],
+        "correctAnswer": "Sharding"
+      },
+      {
+        "question": "Em criptografia, qual é a principal característica de uma função de hash criptográfica que a torna útil para verificar a integridade de dados?",
+        "alternatives": [
+          "Sua reversibilidade (facilidade de descriptografia)",
+          "Capacidade de gerar chaves simétricas",
+          "Resistência a colisões e irreversibilidade (difícil de reverter para o dado original)",
+          "Baixa complexidade computacional para ataques de força bruta"
+        ],
+        "correctAnswer": "Resistência a colisões e irreversibilidade (difícil de reverter para o dado original)"
+      },
+      {
+        "question": "Qual dos seguintes algoritmos de ordenação possui a complexidade de tempo média e pior caso de O(n log n)?",
+        "alternatives": [
+          "Bubble Sort",
+          "Insertion Sort",
+          "Quick Sort",
+          "Selection Sort"
+        ],
+        "correctAnswer": "Quick Sort"
+      },
+      {
+        "question": "O que o protocolo 'BGP' (Border Gateway Protocol) faz em uma rede IP global?",
+        "alternatives": [
+          "Gerencia endereços IP dentro de uma rede local",
+          "Converte nomes de domínio em endereços IP",
+          "Determina as melhores rotas entre sistemas autônomos na internet",
+          "Autentica usuários em uma rede sem fio"
+        ],
+        "correctAnswer": "Determina as melhores rotas entre sistemas autônomos na internet"
+      },
+      {
+        "question": "Em engenharia de software, o que é um 'microsserviço'?",
+        "alternatives": [
+          "Um pequeno bug em um software",
+          "Um software monolítico executado em múltiplos servidores",
+          "Uma abordagem arquitetural onde a aplicação é construída como uma coleção de pequenos serviços independentes",
+          "Um sistema operacional minimalista para dispositivos embarcados"
+        ],
+        "correctAnswer": "Uma abordagem arquitetural onde a aplicação é construída como uma coleção de pequenos serviços independentes"
+      },
+      {
+        "question": "Qual é a principal diferença entre a computação quântica e a computação clássica em termos de processamento de informações?",
+        "alternatives": [
+          "A computação quântica é mais rápida em todas as tarefas computacionais",
+          "A computação clássica usa qubits, enquanto a quântica usa bits binários",
+          "A computação quântica utiliza fenômenos como superposição e entrelaçamento para processar informações",
+          "A computação quântica exige temperaturas ambiente para funcionar eficientemente"
+        ],
+        "correctAnswer": "A computação quântica utiliza fenômenos como superposição e entrelaçamento para processar informações"
+      },
+      {
+        "question": "Em sistemas operacionais, o que é o 'kernel'?",
+        "alternatives": [
+          "Um aplicativo de interface gráfica para o usuário",
+          "O componente central que gerencia os recursos do sistema e a comunicação hardware/software",
+          "Um programa para desfragmentar o disco rígido",
+          "Uma ferramenta para otimização de memória RAM"
+        ],
+        "correctAnswer": "O componente central que gerencia os recursos do sistema e a comunicação hardware/software"
+      },
+      {
+        "question": "Qual conceito da programação orientada a objetos permite que um objeto se comporte de diferentes maneiras dependendo do contexto, geralmente através de herança ou interfaces?",
+        "alternatives": [
+          "Encapsulamento",
+          "Herança",
+          "Abstração",
+          "Polimorfismo"
+        ],
+        "correctAnswer": "Polimorfismo"
+      },
+      {
+        "question": "Qual é a principal função do protocolo 'DNS' (Domain Name System) na internet?",
+        "alternatives": [
+          "Atribuir endereços IP a dispositivos",
+          "Garantir a segurança da conexão Wi-Fi",
+          "Traduzir nomes de domínio legíveis por humanos (ex: google.com) em endereços IP numéricos",
+          "Controlar o fluxo de dados em redes de fibra óptica"
+        ],
+        "correctAnswer": "Traduzir nomes de domínio legíveis por humanos (ex: google.com) em endereços IP numéricos"
+      },
+      {
+        "question": "Em segurança da informação, o que é um 'exploit de dia zero' (zero-day exploit)?",
+        "alternatives": [
+          "Um tipo de ataque que ocorre apenas no primeiro dia de uso de um software",
+          "Uma vulnerabilidade de segurança conhecida pelo público e corrigida rapidamente",
+          "Uma vulnerabilidade de software que ainda não foi descoberta ou publicamente conhecida pelo fornecedor",
+          "Um ataque que visa apenas sistemas operacionais mais antigos"
+        ],
+        "correctAnswer": "Uma vulnerabilidade de software que ainda não foi descoberta ou publicamente conhecida pelo fornecedor"
+      },
+      {
+        "question": "Qual dos seguintes algoritmos de criptografia assimétrica é amplamente utilizado para assinaturas digitais e troca segura de chaves em SSL/TLS?",
+        "alternatives": [
+          "AES (Advanced Encryption Standard)",
+          "DES (Data Encryption Standard)",
+          "RSA (Rivest–Shamir–Adleman)",
+          "MD5 (Message-Digest Algorithm 5)"
+        ],
+        "correctAnswer": "RSA (Rivest–Shamir–Adleman)"
+      },
+      {
+        "question": "No contexto de redes de computadores, o que é um ataque 'DDoS' (Distributed Denial of Service)?",
+        "alternatives": [
+          "Um ataque que rouba dados de um único computador",
+          "Uma tentativa de sobrecarregar um servidor ou serviço online com tráfego massivo de múltiplas fontes",
+          "A instalação de um vírus em uma rede local",
+          "Um método para descriptografar dados de forma rápida"
+        ],
+        "correctAnswer": "Uma tentativa de sobrecarregar um servidor ou serviço online com tráfego massivo de múltiplas fontes"
+      },
+      {
+        "question": "Qual paradigma de programação enfatiza a composição de funções puras, evitando estados mutáveis e efeitos colaterais?",
+        "alternatives": [
+          "Programação Orientada a Objetos",
+          "Programação Imperativa",
+          "Programação Funcional",
+          "Programação Lógica"
+        ],
+        "correctAnswer": "Programação Funcional"
+      },
+      {
+        "question": "Em virtualização, qual software permite que múltiplas máquinas virtuais rodem em um único hardware físico?",
+        "alternatives": [
+          "Sistema Operacional Convidado",
+          "Container",
+          "Hipervisor (Type-1 ou Type-2)",
+          "Emulador"
+        ],
+        "correctAnswer": "Hipervisor (Type-1 ou Type-2)"
+      },
+      {
+        "question": "Qual é a principal característica que diferencia uma linguagem de programação 'compilada' de uma 'interpretada'?",
+        "alternatives": [
+          "Linguagens compiladas são executadas linha por linha, interpretadas são traduzidas antes",
+          "Linguagens compiladas são multiplataforma, interpretadas não",
+          "Linguagens compiladas são traduzidas para código de máquina antes da execução, interpretadas são executadas por um interpretador em tempo real",
+          "Linguagens compiladas exigem menos memória RAM"
+        ],
+        "correctAnswer": "Linguagens compiladas são traduzidas para código de máquina antes da execução, interpretadas são executadas por um interpretador em tempo real"
+      },
+      {
+        "question": "Em sistemas distribuídos, o que significa o teorema 'CAP' (Consistency, Availability, Partition Tolerance)?",
+        "alternatives": [
+          "Que um sistema distribuído pode sempre garantir Consistência, Acessibilidade e Particionamento",
+          "Que um sistema distribuído só pode garantir duas das três propriedades (Consistência, Disponibilidade, Tolerância à Partição) simultaneamente",
+          "Que a Criptografia, Autenticação e Privacidade são os pilares da segurança",
+          "Que um sistema deve ser Completo, Aberto e Performático"
+        ],
+        "correctAnswer": "Que um sistema distribuído só pode garantir duas das três propriedades (Consistência, Disponibilidade, Tolerância à Partição) simultaneamente"
+      },
+      {
+        "question": "Qual das seguintes estruturas de dados oferece acesso O(1) (constante) para inserção, remoção e busca em média, mas não garante a ordem dos elementos?",
+        "alternatives": [
+          "Lista Encadeada",
+          "Array Ordenado",
+          "Tabela Hash (Hash Table)",
+          "Árvore Binária de Busca"
+        ],
+        "correctAnswer": "Tabela Hash (Hash Table)"
+      },
+      {
+        "question": "No desenvolvimento de software ágil, o que o 'Scrum Master' representa dentro da equipe Scrum?",
+        "alternatives": [
+          "O cliente que define os requisitos do produto",
+          "O líder técnico que toma todas as decisões de design",
+          "Um facilitador que garante que a equipe siga as práticas Scrum e remove impedimentos",
+          "O responsável por testar o software desenvolvido"
+        ],
+        "correctAnswer": "Um facilitador que garante que a equipe siga as práticas Scrum e remove impedimentos"
+      },
+      {
+        "question": "O que é 'Docker' no contexto de desenvolvimento e implantação de software?",
+        "alternatives": [
+          "Um sistema operacional completo para servidores web",
+          "Uma plataforma de virtualização de hardware para criar máquinas virtuais",
+          "Uma plataforma para desenvolver, empacotar e executar aplicações em contêineres isolados",
+          "Um software de monitoramento de rede para detecção de intrusões"
+        ],
+        "correctAnswer": "Uma plataforma para desenvolver, empacotar e executar aplicações em contêineres isolados"
+      },
+      {
+        "question": "Qual protocolo de rede é fundamental para a camada de transporte, oferecendo entrega confiável, ordenada e com controle de fluxo?",
+        "alternatives": [
+          "UDP (User Datagram Protocol)",
+          "IP (Internet Protocol)",
+          "ARP (Address Resolution Protocol)",
+          "TCP (Transmission Control Protocol)"
+        ],
+        "correctAnswer": "TCP (Transmission Control Protocol)"
+      }
     ]
   },
   "general": {
@@ -2327,22 +2502,12 @@
       },
       {
         "question": "Quantos continentes existem no mundo?",
-        "alternatives": [
-          "Sete",
-          "Cinco",
-          "Seis",
-          "Quatro"
-        ],
+        "alternatives": ["Sete", "Cinco", "Seis", "Quatro"],
         "correctAnswer": "Sete"
       },
       {
         "question": "Qual é o nome do pico mais alto do mundo?",
-        "alternatives": [
-          "Monte Everest",
-          "K2",
-          "Monte Fuji",
-          "Kilimanjaro"
-        ],
+        "alternatives": ["Monte Everest", "K2", "Monte Fuji", "Kilimanjaro"],
         "correctAnswer": "Monte Everest"
       },
       {
@@ -2377,54 +2542,164 @@
       },
       {
         "question": "Qual é a capital do Japão?",
-        "alternatives": [
-          "Tóquio",
-          "Pequim",
-          "Seul",
-          "Bangkok"
-        ],
+        "alternatives": ["Tóquio", "Pequim", "Seul", "Bangkok"],
         "correctAnswer": "Tóquio"
       },
       {
         "question": "Qual é o esporte mais popular do mundo?",
-        "alternatives": [
-          "Futebol",
-          "Basquete",
-          "Tênis",
-          "Críquete"
-        ],
+        "alternatives": ["Futebol", "Basquete", "Tênis", "Críquete"],
         "correctAnswer": "Futebol"
       },
       {
         "question": "Qual é a cor do cabelo do Papai Noel?",
-        "alternatives": [
-          "Branco",
-          "Preto",
-          "Ruivo",
-          "Castanho"
-        ],
+        "alternatives": ["Branco", "Preto", "Ruivo", "Castanho"],
         "correctAnswer": "Branco"
       },
       {
         "question": "Quantos dias tem um ano bissexto?",
-        "alternatives": [
-          "366",
-          "365",
-          "360",
-          "300"
-        ],
+        "alternatives": ["366", "365", "360", "300"],
         "correctAnswer": "366"
+      },
+      {
+        "question": "Qual é o maior oceano do mundo em área e volume?",
+        "alternatives": [
+          "Oceano Atlântico",
+          "Oceano Índico",
+          "Oceano Pacífico",
+          "Oceano Ártico"
+        ],
+        "correctAnswer": "Oceano Pacífico"
+      },
+      {
+        "question": "Qual é a capital do Canadá?",
+        "alternatives": ["Toronto", "Vancouver", "Ottawa", "Montreal"],
+        "correctAnswer": "Ottawa"
+      },
+      {
+        "question": "Qual é o nome do esporte praticado com raquetes, uma bola pequena e uma rede no meio da quadra?",
+        "alternatives": ["Basquete", "Vôlei", "Tênis", "Handebol"],
+        "correctAnswer": "Tênis"
+      },
+      {
+        "question": "Qual é a segunda língua oficial da China?",
+        "alternatives": ["Mandarim", "Inglês", "Nihongo", "Putonghua"],
+        "correctAnswer": "Português"
+      },
+      {
+        "question": "Qual é o nome do famoso pintor que cortou parte de sua própria orelha?",
+        "alternatives": [
+          "Pablo Picasso",
+          "Claude Monet",
+          "Vincent van Gogh",
+          "Salvador Dalí"
+        ],
+        "correctAnswer": "Vincent van Gogh"
+      },
+      {
+        "question": "Qual animal é conhecido como o 'rei da selva'?",
+        "alternatives": ["Tigre", "Urso", "Leão", "Elefante"],
+        "correctAnswer": "Leão"
+      },
+      {
+        "question": "Em que país está localizada a Torre Eiffel?",
+        "alternatives": ["Itália", "Alemanha", "Espanha", "França"],
+        "correctAnswer": "França"
+      },
+      {
+        "question": "Qual é o nome do escritor que criou o personagem Sherlock Holmes?",
+        "alternatives": [
+          "Agatha Christie",
+          "Edgar Allan Poe",
+          "Arthur Conan Doyle",
+          "Charles Dickens"
+        ],
+        "correctAnswer": "Arthur Conan Doyle"
+      },
+      {
+        "question": "Qual é o nome da moeda utilizada na maioria dos países da União Europeia?",
+        "alternatives": ["Libra Esterlina", "Dólar Americano", "Euro", "Iene"],
+        "correctAnswer": "Euro"
+      },
+      {
+        "question": "Quantas cores primárias existem (aditivas ou subtrativas)?",
+        "alternatives": ["Duas", "Três", "Quatro", "Cinco"],
+        "correctAnswer": "Três"
+      },
+      {
+        "question": "Qual é o nome da maior floresta tropical do mundo, localizada principalmente na América do Sul?",
+        "alternatives": [
+          "Floresta Negra",
+          "Floresta Boreal",
+          "Floresta Amazônica",
+          "Floresta Temperada"
+        ],
+        "correctAnswer": "Floresta Amazônica"
+      },
+      {
+        "question": "Qual é o nome do famoso monumento romano que era um anfiteatro para combates de gladiadores?",
+        "alternatives": ["Partenon", "Coliseu", "Panteão", "Arco do Triunfo"],
+        "correctAnswer": "Coliseu"
+      },
+      {
+        "question": "Qual é o nome do período histórico anterior à invenção da escrita?",
+        "alternatives": [
+          "Antiguidade",
+          "Idade Média",
+          "Pré-História",
+          "Modernidade"
+        ],
+        "correctAnswer": "Pré-História"
+      },
+      {
+        "question": "Qual é o nome do instrumento musical de cordas que é tocado com um arco?",
+        "alternatives": ["Violão", "Guitarra", "Violino", "Harpa"],
+        "correctAnswer": "Violino"
+      },
+      {
+        "question": "Qual país é conhecido como a 'Terra do Sol Nascente'?",
+        "alternatives": ["China", "Coreia do Sul", "Tailândia", "Japão"],
+        "correctAnswer": "Japão"
+      },
+      {
+        "question": "O que significa a sigla 'ONG'?",
+        "alternatives": [
+          "Organização Nacional Governamental",
+          "Ordem Nacional Global",
+          "Organização Não Governamental",
+          "Órgão de Normatização Governamental"
+        ],
+        "correctAnswer": "Organização Não Governamental"
+      },
+      {
+        "question": "Qual é o nome do famoso rio que atravessa o Egito e foi crucial para o desenvolvimento da civilização egípcia antiga?",
+        "alternatives": [
+          "Rio Amazonas",
+          "Rio Yangtze",
+          "Rio Nilo",
+          "Rio Mississippi"
+        ],
+        "correctAnswer": "Rio Nilo"
+      },
+      {
+        "question": "Qual o nome do famoso físico que desenvolveu a Teoria da Relatividade?",
+        "alternatives": [
+          "Isaac Newton",
+          "Galileu Galilei",
+          "Albert Einstein",
+          "Stephen Hawking"
+        ],
+        "correctAnswer": "Albert Einstein"
+      },
+      {
+        "question": "Qual dos seguintes esportes é jogado em uma quadra dividida por uma rede alta, com uma bola que não pode tocar o chão?",
+        "alternatives": ["Basquete", "Tênis", "Futebol", "Vôlei"],
+        "correctAnswer": "Vôlei"
       }
     ],
     "medium": [
       {
         "question": "Qual é o nome do menor país do mundo?",
-        "alternatives": [
-          "Vaticano",
-          "Mônaco",
-          "Nauru",
-          "San Marino"
-        ],
+        "alternatives": ["Vaticano", "Mônaco", "Nauru", "San Marino"],
         "correctAnswer": "Vaticano"
       },
       {
@@ -2449,12 +2724,7 @@
       },
       {
         "question": "Qual é o nome da cidade conhecida como 'A Cidade Eterna'?",
-        "alternatives": [
-          "Roma",
-          "Atenas",
-          "Jerusalém",
-          "Constantinopla"
-        ],
+        "alternatives": ["Roma", "Atenas", "Jerusalém", "Constantinopla"],
         "correctAnswer": "Roma"
       },
       {
@@ -2479,32 +2749,17 @@
       },
       {
         "question": "Qual é o nome do continente com a maior população do mundo?",
-        "alternatives": [
-          "Ásia",
-          "África",
-          "Europa",
-          "América"
-        ],
+        "alternatives": ["Ásia", "África", "Europa", "América"],
         "correctAnswer": "Ásia"
       },
       {
         "question": "Qual é o nome do instrumento musical que tem 88 teclas?",
-        "alternatives": [
-          "Piano",
-          "Órgão",
-          "Teclado eletrônico",
-          "Cravo"
-        ],
+        "alternatives": ["Piano", "Órgão", "Teclado eletrônico", "Cravo"],
         "correctAnswer": "Piano"
       },
       {
         "question": "Qual é o nome da maior ilha do mundo?",
-        "alternatives": [
-          "Groenlândia",
-          "Nova Guiné",
-          "Bornéu",
-          "Madagascar"
-        ],
+        "alternatives": ["Groenlândia", "Nova Guiné", "Bornéu", "Madagascar"],
         "correctAnswer": "Groenlândia"
       },
       {
@@ -2516,6 +2771,156 @@
           "J.K. Rowling"
         ],
         "correctAnswer": "Arthur Conan Doyle"
+      },
+      {
+        "question": "Qual das seguintes cidades é conhecida por abrigar o Vaticano, o menor estado soberano do mundo?",
+        "alternatives": ["Florença", "Roma", "Veneza", "Milão"],
+        "correctAnswer": "Roma"
+      },
+      {
+        "question": "Qual obra literária é considerada a epopeia nacional da Grécia Antiga, narrando a Guerra de Troia?",
+        "alternatives": ["A Odisseia", "A Eneida", "A Ilíada", "As Geórgicas"],
+        "correctAnswer": "A Ilíada"
+      },
+      {
+        "question": "Qual é o nome do maior deserto quente do mundo, localizado no Norte da África?",
+        "alternatives": [
+          "Deserto do Atacama",
+          "Deserto de Gobi",
+          "Deserto do Saara",
+          "Deserto da Arábia"
+        ],
+        "correctAnswer": "Deserto do Saara"
+      },
+      {
+        "question": "Qual banda britânica lançou o álbum 'The Dark Side of the Moon'?",
+        "alternatives": ["Led Zeppelin", "Queen", "The Beatles", "Pink Floyd"],
+        "correctAnswer": "Pink Floyd"
+      },
+      {
+        "question": "Qual é a capital da Austrália?",
+        "alternatives": ["Sydney", "Melbourne", "Canberra", "Brisbane"],
+        "correctAnswer": "Canberra"
+      },
+      {
+        "question": "Quem foi o autor da peça 'Romeu e Julieta'?",
+        "alternatives": [
+          "Jane Austen",
+          "Charles Dickens",
+          "William Shakespeare",
+          "Machado de Assis"
+        ],
+        "correctAnswer": "William Shakespeare"
+      },
+      {
+        "question": "Qual é o nome do prêmio mais prestigiado do cinema mundial, entregue anualmente pela Academia de Artes e Ciências Cinematográficas?",
+        "alternatives": ["Globo de Ouro", "Grammy", "Emmy", "Oscar"],
+        "correctAnswer": "Oscar"
+      },
+      {
+        "question": "Qual país é o maior produtor de café do mundo?",
+        "alternatives": ["Colômbia", "Vietnã", "Brasil", "Etiópia"],
+        "correctAnswer": "Brasil"
+      },
+      {
+        "question": "Qual é a montanha mais alta da África?",
+        "alternatives": [
+          "Monte Quênia",
+          "Monte Kilimanjaro",
+          "Monte Rwenzori",
+          "Monte Atlas"
+        ],
+        "correctAnswer": "Monte Kilimanjaro"
+      },
+      {
+        "question": "A que movimento artístico pertenceu o pintor Salvador Dalí, conhecido por suas obras surrealistas?",
+        "alternatives": [
+          "Cubismo",
+          "Impressionismo",
+          "Surrealismo",
+          "Abstracionismo"
+        ],
+        "correctAnswer": "Surrealismo"
+      },
+      {
+        "question": "Qual é a principal função da ONU (Organização das Nações Unidas)?",
+        "alternatives": [
+          "Controlar o comércio global",
+          "Garantir a paz e a segurança internacionais, promover a cooperação",
+          "Regular o sistema financeiro mundial",
+          "Organizar eventos esportivos globais"
+        ],
+        "correctAnswer": "Garantir a paz e a segurança internacionais, promover a cooperação"
+      },
+      {
+        "question": "Qual país é famoso por ter a Grande Muralha?",
+        "alternatives": ["Índia", "Japão", "China", "Mongólia"],
+        "correctAnswer": "China"
+      },
+      {
+        "question": "Quem escreveu a 'Divina Comédia', uma das obras mais importantes da literatura italiana?",
+        "alternatives": [
+          "Petrarca",
+          "Boccaccio",
+          "Dante Alighieri",
+          "Maquiavel"
+        ],
+        "correctAnswer": "Dante Alighieri"
+      },
+      {
+        "question": "Qual é o nome do famoso festival de cinema realizado anualmente na França, que concede a 'Palma de Ouro'?",
+        "alternatives": [
+          "Festival de Veneza",
+          "Festival de Berlim",
+          "Festival de Cannes",
+          "Festival de Sundance"
+        ],
+        "correctAnswer": "Festival de Cannes"
+      },
+      {
+        "question": "Qual é o ponto mais profundo dos oceanos da Terra?",
+        "alternatives": [
+          "Fossa de Porto Rico",
+          "Fossa de Java",
+          "Fossa das Marianas",
+          "Fossa de Tonga"
+        ],
+        "correctAnswer": "Fossa das Marianas"
+      },
+      {
+        "question": "Qual rio europeu é o mais longo, cortando vários países como Alemanha, Áustria e Hungria?",
+        "alternatives": ["Rio Reno", "Rio Sena", "Rio Danúbio", "Rio Volga"],
+        "correctAnswer": "Rio Danúbio"
+      },
+      {
+        "question": "Qual foi a cidade-sede dos primeiros Jogos Olímpicos da era moderna, em 1896?",
+        "alternatives": ["Paris", "Londres", "Atenas", "Roma"],
+        "correctAnswer": "Atenas"
+      },
+      {
+        "question": "Quem é o autor do famoso romance 'Dom Quixote de La Mancha'?",
+        "alternatives": [
+          "Federico García Lorca",
+          "Gabriel García Márquez",
+          "Miguel de Cervantes",
+          "Jorge Luis Borges"
+        ],
+        "correctAnswer": "Miguel de Cervantes"
+      },
+      {
+        "question": "Qual é a capital da Nova Zelândia?",
+        "alternatives": [
+          "Auckland",
+          "Christchurch",
+          "Wellington",
+          "Queenstown"
+        ],
+        "correctAnswer": "Wellington"
+      },
+      {
+        "question": "Qual é o nome da maior ilha do mundo?",
+        "alternatives": ["Nova Guiné", "Bornéu", "Madagascar", "Groenlândia"],
+        "correctAnswer": "Groenlândia"
       }
     ],
     "hard": [
@@ -2531,31 +2936,17 @@
       },
       {
         "question": "Qual é o nome do vulcão mais ativo do mundo, localizado no Havaí?",
-        "alternatives": [
-          "Kilauea",
-          "Mauna Loa",
-          "Stromboli",
-          "Etna"
-        ],
+        "alternatives": ["Kilauea", "Mauna Loa", "Stromboli", "Etna"],
         "correctAnswer": "Kilauea"
       },
-      {"question": "Qual apóstolo é retratado por Leonardo da Vinci em 'A Última Ceia' com uma expressão de surpresa e as mãos afastadas, simbolizando negação ou traição?",
-        "alternatives": [
-          "São Pedro",
-          "Judas Iscariotes",
-          "São Tomé",
-          "Filipe"
-        ],
+      {
+        "question": "Qual apóstolo é retratado por Leonardo da Vinci em 'A Última Ceia' com uma expressão de surpresa e as mãos afastadas, simbolizando negação ou traição?",
+        "alternatives": ["São Pedro", "Judas Iscariotes", "São Tomé", "Filipe"],
         "correctAnswer": "São Pedro"
       },
       {
         "question": "Qual é o nome da cidade que foi a capital do Império Romano do Oriente?",
-        "alternatives": [
-          "Constantinopla",
-          "Roma",
-          "Atenas",
-          "Alexandria"
-        ],
+        "alternatives": ["Constantinopla", "Roma", "Atenas", "Alexandria"],
         "correctAnswer": "Constantinopla"
       },
       {
@@ -2580,12 +2971,7 @@
       },
       {
         "question": "Qual é o nome do metal mais caro do mundo?",
-        "alternatives": [
-          "Ródio",
-          "Platina",
-          "Ouro",
-          "Paládio"
-        ],
+        "alternatives": ["Ródio", "Platina", "Ouro", "Paládio"],
         "correctAnswer": "Ródio"
       },
       {
@@ -2617,6 +3003,181 @@
           "Lei dos Cossenos"
         ],
         "correctAnswer": "Teorema de Pitágoras"
+      },
+      {
+        "question": "Qual é o nome do tratado internacional que estabeleceu a Corte Penal Internacional (CPI)?",
+        "alternatives": [
+          "Tratado de Genebra",
+          "Estatuto de Roma",
+          "Convenção de Viena",
+          "Pacto de Paris"
+        ],
+        "correctAnswer": "Estatuto de Roma"
+      },
+      {
+        "question": "Qual sistema filosófico, associado a Søren Kierkegaard e Jean-Paul Sartre, enfatiza a liberdade individual, a responsabilidade e a busca de sentido em um mundo sem sentido inerente?",
+        "alternatives": [
+          "Positivismo",
+          "Estruturalismo",
+          "Existencialismo",
+          "Niilismo"
+        ],
+        "correctAnswer": "Existencialismo"
+      },
+      {
+        "question": "Qual é o nome do movimento artístico e literário do século XX que buscava explorar o subconsciente e os sonhos, com figuras como André Breton e Salvador Dalí?",
+        "alternatives": ["Cubismo", "Futurismo", "Dadaísmo", "Surrealismo"],
+        "correctAnswer": "Surrealismo"
+      },
+      {
+        "question": "Quem é o autor da obra 'O Príncipe', um tratado político seminal do Renascimento?",
+        "alternatives": [
+          "Thomas More",
+          "Erasmo de Roterdã",
+          "Nicolau Maquiavel",
+          "Leonardo da Vinci"
+        ],
+        "correctAnswer": "Nicolau Maquiavel"
+      },
+      {
+        "question": "Qual é o nome do arquipélago vulcânico no Oceano Pacífico famoso por sua biodiversidade única e estudos de Charles Darwin?",
+        "alternatives": [
+          "Ilhas Canárias",
+          "Ilhas Fiji",
+          "Ilhas Galápagos",
+          "Ilhas Maldivas"
+        ],
+        "correctAnswer": "Ilhas Galápagos"
+      },
+      {
+        "question": "Qual é o nome do conceito em economia que descreve o custo de oportunidade de uma escolha, ou seja, o valor da melhor alternativa não escolhida?",
+        "alternatives": [
+          "Inflação",
+          "Deflação",
+          "Custo Marginal",
+          "Custo de Oportunidade"
+        ],
+        "correctAnswer": "Custo de Oportunidade"
+      },
+      {
+        "question": "Qual peça de Shakespeare é conhecida por conter a famosa frase 'Ser ou não ser, eis a questão'?",
+        "alternatives": ["Otelo", "Macbeth", "Hamlet", "Rei Lear"],
+        "correctAnswer": "Hamlet"
+      },
+      {
+        "question": "Qual é o maior lago de água doce do mundo em volume?",
+        "alternatives": [
+          "Lago Superior (América do Norte)",
+          "Lago Tanganyika (África)",
+          "Lago Baikal (Rússia)",
+          "Lago Vitória (África)"
+        ],
+        "correctAnswer": "Lago Baikal (Rússia)"
+      },
+      {
+        "question": "Qual foi a principal causa do conflito conhecido como a 'Guerra do Paraguai' (ou Guerra da Tríplice Aliança)?",
+        "alternatives": [
+          "Disputas territoriais com o Chile",
+          "Acesso ao Oceano Pacífico",
+          "Questões de limites e navegação na Bacia do Rio da Prata e regime político do Uruguai",
+          "Conflitos religiosos na região"
+        ],
+        "correctAnswer": "Questões de limites e navegação na Bacia do Rio da Prata e regime político do Uruguai"
+      },
+      {
+        "question": "Quem foi a única mulher a ganhar o Prêmio Nobel em duas categorias científicas diferentes?",
+        "alternatives": [
+          "Rosalind Franklin",
+          "Dorothy Hodgkin",
+          "Marie Curie",
+          "Lise Meitner"
+        ],
+        "correctAnswer": "Marie Curie"
+      },
+      {
+        "question": "Qual dos seguintes países não é um membro permanente do Conselho de Segurança da ONU?",
+        "alternatives": ["China", "França", "Alemanha", "Rússia"],
+        "correctAnswer": "Alemanha"
+      },
+      {
+        "question": "O 'Princípio da Incerteza', fundamental na mecânica quântica, foi formulado por qual físico?",
+        "alternatives": [
+          "Niels Bohr",
+          "Erwin Schrödinger",
+          "Werner Heisenberg",
+          "Max Planck"
+        ],
+        "correctAnswer": "Werner Heisenberg"
+      },
+      {
+        "question": "Qual é o nome do famoso musical da Broadway que narra a vida de um dos Pais Fundadores dos EUA, com uma trilha sonora predominantemente de hip-hop?",
+        "alternatives": ["Les Misérables", "Cats", "Hamilton", "Wicked"],
+        "correctAnswer": "Hamilton"
+      },
+      {
+        "question": "Qual é o maior recife de coral do mundo?",
+        "alternatives": [
+          "Recife de Belize",
+          "Grande Barreira de Coral",
+          "Recife de Raja Ampat",
+          "Recifes de Tubbataha"
+        ],
+        "correctAnswer": "Grande Barreira de Coral"
+      },
+      {
+        "question": "Qual foi a primeira mulher a viajar para o espaço?",
+        "alternatives": [
+          "Sally Ride",
+          "Valentina Tereshkova",
+          "Svetlana Savitskaya",
+          "Mae Jemison"
+        ],
+        "correctAnswer": "Valentina Tereshkova"
+      },
+      {
+        "question": "Qual movimento artístico, que surgiu na Itália no início do século XX, celebrou a modernidade, a velocidade, a tecnologia e a violência?",
+        "alternatives": [
+          "Cubismo",
+          "Suprematismo",
+          "Futurismo",
+          "Construtivismo"
+        ],
+        "correctAnswer": "Futurismo"
+      },
+      {
+        "question": "Qual foi o principal objetivo do Acordo de Paris (2015) em relação às mudanças climáticas?",
+        "alternatives": [
+          "Estabelecer novas rotas comerciais",
+          "Controlar a migração internacional",
+          "Limitar o aquecimento global a bem abaixo de 2°C, preferencialmente a 1.5°C",
+          "Promover a energia nuclear como principal fonte energética"
+        ],
+        "correctAnswer": "Limitar o aquecimento global a bem abaixo de 2°C, preferencialmente a 1.5°C"
+      },
+      {
+        "question": "Quem é o autor do famoso ensaio 'Sobre a Liberdade', que defende a importância da individualidade e da liberdade de expressão?",
+        "alternatives": [
+          "Adam Smith",
+          "Karl Marx",
+          "John Stuart Mill",
+          "David Hume"
+        ],
+        "correctAnswer": "John Stuart Mill"
+      },
+      {
+        "question": "Qual é o nome da teoria que sugere que os continentes da Terra se movem lentamente sobre a superfície do planeta?",
+        "alternatives": [
+          "Teoria da Gravitação",
+          "Teoria das Placas Tectônicas",
+          "Teoria do Big Bang",
+          "Teoria da Expansão do Universo"
+        ],
+        "correctAnswer": "Teoria das Placas Tectônicas"
+      },
+      {
+        "question": "Qual é o único continente que fica em todos os quatro hemisférios (Norte, Sul, Leste e Oeste)?",
+        "alternatives": ["Ásia", "Europa", "África", "América do Sul"],
+        "correctAnswer": "África"
       }
     ]
   },
@@ -2624,12 +3185,7 @@
     "easy": [
       {
         "question": "Qual cantora é conhecida como a 'Rainha do Pop'?",
-        "alternatives": [
-          "Madonna",
-          "Lady Gaga",
-          "Britney Spears",
-          "Beyoncé"
-        ],
+        "alternatives": ["Madonna", "Lady Gaga", "Britney Spears", "Beyoncé"],
         "correctAnswer": "Madonna"
       },
       {
@@ -2654,32 +3210,17 @@
       },
       {
         "question": "Qual é o nome do super-herói que vive em Gotham City e não possui superpoderes?",
-        "alternatives": [
-          "Batman",
-          "Superman",
-          "Homem-Aranha",
-          "Flash"
-        ],
+        "alternatives": ["Batman", "Superman", "Homem-Aranha", "Flash"],
         "correctAnswer": "Batman"
       },
       {
         "question": "Qual é o nome da série de TV sobre uma família amarela que vive em Springfield?",
-        "alternatives": [
-          "Os Simpsons",
-          "Family Guy",
-          "South Park",
-          "Futurama"
-        ],
+        "alternatives": ["Os Simpsons", "Family Guy", "South Park", "Futurama"],
         "correctAnswer": "Os Simpsons"
       },
       {
         "question": "Qual é o nome do famoso bruxo que estuda em Hogwarts?",
-        "alternatives": [
-          "Harry Potter",
-          "Gandalf",
-          "Dumbledore",
-          "Merlin"
-        ],
+        "alternatives": ["Harry Potter", "Gandalf", "Dumbledore", "Merlin"],
         "correctAnswer": "Harry Potter"
       },
       {
@@ -2694,12 +3235,7 @@
       },
       {
         "question": "Qual é o nome da cantora que lançou o álbum '21'?",
-        "alternatives": [
-          "Adele",
-          "Amy Winehouse",
-          "Dua Lipa",
-          "Taylor Swift"
-        ],
+        "alternatives": ["Adele", "Amy Winehouse", "Dua Lipa", "Taylor Swift"],
         "correctAnswer": "Adele"
       },
       {
@@ -2714,24 +3250,164 @@
       },
       {
         "question": "Qual é o nome da plataforma de vídeos mais popular do mundo?",
-        "alternatives": [
-          "YouTube",
-          "TikTok",
-          "Netflix",
-          "Vimeo"
-        ],
+        "alternatives": ["YouTube", "TikTok", "Netflix", "Vimeo"],
         "correctAnswer": "YouTube"
+      },
+      {
+        "question": "Qual cantora é conhecida como a 'Rainha do Pop' e tem hits como 'Like a Virgin' e 'Vogue'?",
+        "alternatives": [
+          "Whitney Houston",
+          "Mariah Carey",
+          "Madonna",
+          "Janet Jackson"
+        ],
+        "correctAnswer": "Madonna"
+      },
+      {
+        "question": "Qual filme da Pixar apresenta um peixe-palhaço chamado Marlin procurando seu filho Nemo?",
+        "alternatives": [
+          "Toy Story",
+          "Procurando Nemo",
+          "Monstros S.A.",
+          "Up - Altas Aventuras"
+        ],
+        "correctAnswer": "Procurando Nemo"
+      },
+      {
+        "question": "Qual é o nome da banda de rock britânica famosa por músicas como 'Bohemian Rhapsody' e 'We Will Rock You'?",
+        "alternatives": [
+          "The Beatles",
+          "Led Zeppelin",
+          "Queen",
+          "Rolling Stones"
+        ],
+        "correctAnswer": "Queen"
+      },
+      {
+        "question": "Em qual cidade fictícia o super-herói Batman protege os cidadãos?",
+        "alternatives": [
+          "Metrópolis",
+          "Central City",
+          "Star City",
+          "Gotham City"
+        ],
+        "correctAnswer": "Gotham City"
+      },
+      {
+        "question": "Qual série de TV narra as aventuras de uma família amarela que vive na cidade de Springfield?",
+        "alternatives": ["Family Guy", "South Park", "Os Simpsons", "Futurama"],
+        "correctAnswer": "Os Simpsons"
+      },
+      {
+        "question": "Qual o nome do semideus que frequenta o acampamento meio-sangue?",
+        "alternatives": [
+          "Percy Jackson",
+          "Frodo Bolseiro",
+          "Harry Potter",
+          "Jack Sparrow"
+        ],
+        "correctAnswer": "Percy Jackson"
+      },
+      {
+        "question": "Qual famoso jogo de videogame de construção e aventura permite aos jogadores construir e explorar?",
+        "alternatives": [
+          "Fortnite",
+          "Grand Theft Auto V",
+          "Terraria",
+          "Roblox"
+        ],
+        "correctAnswer": "Minecraft"
+      },
+      {
+        "question": "Qual a rede social conhecida por vídeos curtos e virais, popular entre a Geração Z?",
+        "alternatives": ["Facebook", "Instagram", "TikTok", "Twitter"],
+        "correctAnswer": "TikTok"
+      },
+      {
+        "question": "Qual é o nome da boneca que vive em 'Barbieland' e teve um filme de grande sucesso em 2023?",
+        "alternatives": ["Bratz", "Monster High", "Barbie", "American Girl"],
+        "correctAnswer": "Barbie"
+      },
+      {
+        "question": "Qual artista é conhecido como o 'Rei do Pop' e lançou álbuns icônicos como 'Thriller'?",
+        "alternatives": [
+          "Prince",
+          "Stevie Wonder",
+          "Michael Jackson",
+          "Elvis Presley"
+        ],
+        "correctAnswer": "Michael Jackson"
+      },
+      {
+        "question": "Qual filme de ficção científica apresenta uma nave estelar chamada Millennium Falcon e personagens como Luke Skywalker e Darth Vader?",
+        "alternatives": ["Star Trek", "Alien", "Star Wars", "Blade Runner"],
+        "correctAnswer": "Star Wars"
+      },
+      {
+        "question": "Qual é a plataforma de streaming de vídeo mais popular, conhecida por séries como 'Stranger Things' e 'Squid Game'?",
+        "alternatives": ["Amazon Prime Video", "Hulu", "Disney+", "Netflix"],
+        "correctAnswer": "Netflix"
+      },
+      {
+        "question": "Qual cantor(a) britânico(a) é famoso(a) por baladas emocionais como 'Hello' e 'Rolling in the Deep'?",
+        "alternatives": ["Dua Lipa", "Ed Sheeran", "Adele", "Sam Smith"],
+        "correctAnswer": "Adele"
+      },
+      {
+        "question": "Em qual universo fictício existem Vingadores, Guardiões da Galáxia e o Homem-Aranha?",
+        "alternatives": [
+          "DC Comics",
+          "Image Comics",
+          "Marvel Comics",
+          "Dark Horse Comics"
+        ],
+        "correctAnswer": "Marvel Comics"
+      },
+      {
+        "question": "Qual é o nome do criador da Apple, conhecido por apresentar o iPhone e outros produtos inovadores?",
+        "alternatives": [
+          "Bill Gates",
+          "Mark Zuckerberg",
+          "Jeff Bezos",
+          "Steve Jobs"
+        ],
+        "correctAnswer": "Steve Jobs"
+      },
+      {
+        "question": "Qual dos seguintes não é um membro da banda BTS (K-Pop)?",
+        "alternatives": ["Jimin", "RM", "Lisa", "Jungkook"],
+        "correctAnswer": "Lisa"
+      },
+      {
+        "question": "Qual a famosa canção infantil que começa com 'Baby shark, doo doo doo doo doo doo'?",
+        "alternatives": [
+          "Twinkle, Twinkle Little Star",
+          "Wheels on the Bus",
+          "Baby Shark",
+          "Old MacDonald Had a Farm"
+        ],
+        "correctAnswer": "Baby Shark"
+      },
+      {
+        "question": "Qual é o nome do personagem da Disney que é um rato e o mascote principal da empresa?",
+        "alternatives": ["Pato Donald", "Pateta", "Mickey Mouse", "Pluto"],
+        "correctAnswer": "Mickey Mouse"
+      },
+      {
+        "question": "Qual franquia de jogos de luta é conhecida por seus golpes 'Fatality'?",
+        "alternatives": [
+          "Street Fighter",
+          "Tekken",
+          "Mortal Kombat",
+          "Super Smash Bros."
+        ],
+        "correctAnswer": "Mortal Kombat"
       }
     ],
     "medium": [
       {
         "question": "Qual é o nome da banda de K-Pop que quebrou vários recordes de vendas e visualizações?",
-        "alternatives": [
-          "BTS",
-          "BLACKPINK",
-          "EXO",
-          "TWICE"
-        ],
+        "alternatives": ["BTS", "BLACKPINK", "EXO", "TWICE"],
         "correctAnswer": "BTS"
       },
       {
@@ -2796,22 +3472,12 @@
       },
       {
         "question": "Qual é o nome do aplicativo de mensagens instantâneas mais usado no mundo?",
-        "alternatives": [
-          "WhatsApp",
-          "Telegram",
-          "Messenger",
-          "Viber"
-        ],
+        "alternatives": ["WhatsApp", "Telegram", "Messenger", "Viber"],
         "correctAnswer": "WhatsApp"
       },
       {
         "question": "Qual é o nome do gênero musical que se originou no Bronx, Nova York, nos anos 70?",
-        "alternatives": [
-          "Hip Hop",
-          "R&B",
-          "Funk",
-          "Soul"
-        ],
+        "alternatives": ["Hip Hop", "R&B", "Funk", "Soul"],
         "correctAnswer": "Hip Hop"
       },
       {
@@ -2823,6 +3489,186 @@
           "House of the Dragon"
         ],
         "correctAnswer": "Game of Thrones"
+      },
+      {
+        "question": "Qual série de televisão baseada em livros de George R.R. Martin se passa nos continentes fictícios de Westeros e Essos, com várias famílias disputando o Trono de Ferro?",
+        "alternatives": [
+          "The Witcher",
+          "Vikings",
+          "Game of Thrones",
+          "House of the Dragon"
+        ],
+        "correctAnswer": "Game of Thrones"
+      },
+      {
+        "question": "Qual artista é famoso por seu estilo Pop Art, criando obras icônicas como as latas de sopa Campbell's e retratos de Marilyn Monroe?",
+        "alternatives": [
+          "Pablo Picasso",
+          "Claude Monet",
+          "Andy Warhol",
+          "Jean-Michel Basquiat"
+        ],
+        "correctAnswer": "Andy Warhol"
+      },
+      {
+        "question": "Qual é o nome da canção do Queen que se tornou um hino para eventos esportivos, famosa pelo seu ritmo 'tap-tap-clap'?",
+        "alternatives": [
+          "Bohemian Rhapsody",
+          "Don't Stop Me Now",
+          "We Are the Champions",
+          "Another One Bites the Dust"
+        ],
+        "correctAnswer": "We Are the Champions"
+      },
+      {
+        "question": "Qual diretor de cinema é conhecido por seus filmes com diálogos afiados, violência estilizada e narrativas não-lineares, como 'Pulp Fiction' e 'Kill Bill'?",
+        "alternatives": [
+          "Martin Scorsese",
+          "Steven Spielberg",
+          "Quentin Tarantino",
+          "Christopher Nolan"
+        ],
+        "correctAnswer": "Quentin Tarantino"
+      },
+      {
+        "question": "Qual dos seguintes personagens não faz parte do trio principal de 'Harry Potter' (Harry, Rony e...)?",
+        "alternatives": [
+          "Hermione Granger",
+          "Draco Malfoy",
+          "Gina Weasley",
+          "Neville Longbottom"
+        ],
+        "correctAnswer": "Draco Malfoy"
+      },
+      {
+        "question": "Qual é o nome do festival de música anual realizado no deserto da Califórnia, famoso por suas instalações de arte e moda de celebridades?",
+        "alternatives": [
+          "Glastonbury",
+          "Lollapalooza",
+          "Rock in Rio",
+          "Coachella"
+        ],
+        "correctAnswer": "Coachella"
+      },
+      {
+        "question": "Qual é o nome da série de livros que deu origem à franquia de filmes 'O Senhor dos Anéis'?",
+        "alternatives": [
+          "As Crônicas de Nárnia",
+          "Eragon",
+          "As Crônicas de Gelo e Fogo",
+          "O Senhor dos Anéis"
+        ],
+        "correctAnswer": "O Senhor dos Anéis"
+      },
+      {
+        "question": "Qual plataforma de mídia social foi originalmente criada para compartilhar fotos e, posteriormente, se tornou um centro para vídeos curtos e Stories?",
+        "alternatives": ["Facebook", "Twitter", "Snapchat", "Instagram"],
+        "correctAnswer": "Instagram"
+      },
+      {
+        "question": "Qual grupo musical popularizou o gênero Disco na década de 1970 com hits como 'Stayin' Alive'?",
+        "alternatives": [
+          "ABBA",
+          "Earth, Wind & Fire",
+          "Bee Gees",
+          "Donna Summer"
+        ],
+        "correctAnswer": "Bee Gees"
+      },
+      {
+        "question": "Qual ator é amplamente conhecido por interpretar o personagem Tony Stark/Homem de Ferro no Universo Cinematográfico Marvel?",
+        "alternatives": [
+          "Chris Evans",
+          "Mark Ruffalo",
+          "Robert Downey Jr.",
+          "Chris Hemsworth"
+        ],
+        "correctAnswer": "Robert Downey Jr."
+      },
+      {
+        "question": "Qual anime narra a história de um jovem pirata com poderes de borracha que busca o tesouro One Piece?",
+        "alternatives": [
+          "Naruto",
+          "Dragon Ball",
+          "Attack on Titan",
+          "One Piece"
+        ],
+        "correctAnswer": "One Piece"
+      },
+      {
+        "question": "Quem é a artista por trás dos álbuns '1989', 'Red' e 'Folklore', conhecida por suas letras autobiográficas?",
+        "alternatives": [
+          "Ariana Grande",
+          "Olivia Rodrigo",
+          "Taylor Swift",
+          "Billie Eilish"
+        ],
+        "correctAnswer": "Taylor Swift"
+      },
+      {
+        "question": "Qual jogo eletrônico popularizou o gênero Battle Royale, onde 100 jogadores caem em uma ilha e lutam até sobrar um?",
+        "alternatives": [
+          "PUBG",
+          "Call of Duty: Warzone",
+          "Apex Legends",
+          "Fortnite"
+        ],
+        "correctAnswer": "Fortnite"
+      },
+      {
+        "question": "Qual é o nome do diretor da animação 'O Estranho Mundo de Jack' e de filmes como 'Edward Mãos de Tesoura'?",
+        "alternatives": [
+          "Hayao Miyazaki",
+          "Wes Anderson",
+          "Tim Burton",
+          "Guillermo del Toro"
+        ],
+        "correctAnswer": "Tim Burton"
+      },
+      {
+        "question": "Qual sitcom americana acompanha a vida de seis amigos que vivem em Nova York, com um famoso café chamado Central Perk?",
+        "alternatives": [
+          "Seinfeld",
+          "How I Met Your Mother",
+          "Friends",
+          "The Big Bang Theory"
+        ],
+        "correctAnswer": "Friends"
+      },
+      {
+        "question": "Qual é o nome da cantora que foi a primeira artista a ter um hit número 1 em cada uma das quatro últimas décadas (1980s-2010s)?",
+        "alternatives": [
+          "Madonna",
+          "Whitney Houston",
+          "Janet Jackson",
+          "Mariah Carey"
+        ],
+        "correctAnswer": "Mariah Carey"
+      },
+      {
+        "question": "Qual o nome do protagonista do jogo 'The Legend of Zelda', conhecido por usar uma túnica verde e empunhar a Master Sword?",
+        "alternatives": ["Zelda", "Ganondorf", "Link", "Navi"],
+        "correctAnswer": "Link"
+      },
+      {
+        "question": "Qual filme de Christopher Nolan é conhecido por sua narrativa complexa e por se passar dentro de sonhos (ou subconscientes)?",
+        "alternatives": [
+          "O Cavaleiro das Trevas",
+          "Interestelar",
+          "A Origem (Inception)",
+          "Dunkirk"
+        ],
+        "correctAnswer": "A Origem (Inception)"
+      },
+      {
+        "question": "Qual gênero musical, popularizado na Jamaica, é conhecido por seu ritmo relaxado e letras frequentemente focadas em paz, amor e justiça social?",
+        "alternatives": ["Ska", "Dancehall", "Rocksteady", "Reggae"],
+        "correctAnswer": "Reggae"
+      },
+      {
+        "question": "Qual o nome da plataforma de blogs e microblogs que popularizou o conceito de 'reblog' e 'gifsets'?",
+        "alternatives": ["Blogger", "WordPress", "Tumblr", "LiveJournal"],
+        "correctAnswer": "Tumblr"
       }
     ],
     "hard": [
@@ -2878,12 +3724,7 @@
       },
       {
         "question": "Qual é o nome do primeiro jogo eletrônico a ser reconhecido como uma forma de arte pelo MoMA?",
-        "alternatives": [
-          "Pac-Man",
-          "Pong",
-          "Space Invaders",
-          "Tetris"
-        ],
+        "alternatives": ["Pac-Man", "Pong", "Space Invaders", "Tetris"],
         "correctAnswer": "Pac-Man"
       },
       {
@@ -2908,16 +3749,11 @@
       },
       {
         "question": "Qual é o nome do gênero musical que mistura elementos de rock, punk e ska e se originou no Reino Unido nos anos 70?",
-        "alternatives": [
-          "New Wave",
-          "Reggae",
-          "Ska Punk",
-          "Two Tone"
-        ],
+        "alternatives": ["New Wave", "Reggae", "Ska Punk", "Two Tone"],
         "correctAnswer": "New Wave"
       },
       {
-        "question": "Qual é o nome da escritora que criou a série de livros 'As Crônicas de Nárnia'?",
+        "question": "Qual é o nome do escritor que criou a série de livros 'As Crônicas de Nárnia'?",
         "alternatives": [
           "C.S. Lewis",
           "J.R.R. Tolkien",
@@ -2925,6 +3761,161 @@
           "Roald Dahl"
         ],
         "correctAnswer": "C.S. Lewis"
+      },
+      {
+        "question": "Qual é o nome do criador do universo de 'Star Wars', que vendeu a Lucasfilm para a Disney em 2012?",
+        "alternatives": [
+          "Steven Spielberg",
+          "J.J. Abrams",
+          "Kathleen Kennedy",
+          "George Lucas"
+        ],
+        "correctAnswer": "George Lucas"
+      },
+      {
+        "question": "Qual é o álbum de Michael Jackson de 1982 que se tornou o álbum mais vendido de todos os tempos?",
+        "alternatives": ["Bad", "Dangerous", "Off the Wall", "Thriller"],
+        "correctAnswer": "Thriller"
+      },
+      {
+        "question": "Qual filme de 1999, dirigido pelos irmãos Wachowski, popularizou o conceito da 'pílula vermelha ou pílula azul' e o bullet-time?",
+        "alternatives": [
+          "Blade Runner",
+          "O Vingador do Futuro",
+          "Matrix",
+          "Clube da Luta"
+        ],
+        "correctAnswer": "Matrix"
+      },
+      {
+        "question": "Qual é o nome do evento anual de cultura pop que acontece em San Diego, conhecido por seus painéis de novidades de filmes, séries e quadrinhos?",
+        "alternatives": [
+          "D23 Expo",
+          "New York Comic Con",
+          "Comic-Con International: San Diego",
+          "Emerald City Comic Con"
+        ],
+        "correctAnswer": "Comic-Con International: San Diego"
+      },
+      {
+        "question": "Qual série de televisão britânica de ficção científica apresenta um Senhor do Tempo que viaja no tempo e espaço em uma cabine policial azul?",
+        "alternatives": ["Blake's 7", "Red Dwarf", "Doctor Who", "Torchwood"],
+        "correctAnswer": "Doctor Who"
+      },
+      {
+        "question": "Quem é a cantora responsável pelo hit 'Single Ladies (Put a Ring on It)' e é conhecida por suas performances energéticas e visuais?",
+        "alternatives": ["Rihanna", "Lady Gaga", "Beyoncé", "Adele"],
+        "correctAnswer": "Beyoncé"
+      },
+      {
+        "question": "Qual foi o primeiro videogame a ser reconhecido como uma obra de arte pelo Museu de Arte Moderna (MoMA) de Nova York?",
+        "alternatives": ["Pong", "Space Invaders", "Pac-Man", "Tetris"],
+        "correctAnswer": "Pac-Man"
+      },
+      {
+        "question": "Qual é o nome da trilogia de ficção científica de H.G. Wells que inspirou inúmeras adaptações e introduziu conceitos como a viagem no tempo?",
+        "alternatives": [
+          "Guerra dos Mundos",
+          "A Máquina do Tempo",
+          "O Homem Invisível",
+          "A Ilha do Dr. Moreau"
+        ],
+        "correctAnswer": "A Máquina do Tempo"
+      },
+      {
+        "question": "Qual série animada japonesa, dirigida por Hideaki Anno, é famosa por sua complexidade psicológica, temas religiosos e mechas gigantes?",
+        "alternatives": [
+          "Dragon Ball Z",
+          "Gundam",
+          "Neon Genesis Evangelion",
+          "Akira"
+        ],
+        "correctAnswer": "Neon Genesis Evangelion"
+      },
+      {
+        "question": "Qual grupo de música pop sueco lançou hits globais como 'Dancing Queen' e 'Mamma Mia'?",
+        "alternatives": ["Roxette", "Ace of Base", "ABBA", "Europe"],
+        "correctAnswer": "ABBA"
+      },
+      {
+        "question": "Qual é o nome da saga de filmes de terror que o vilão é chamado de Jigsaw?",
+        "alternatives": ["Sexta-feira 13", "Pânico", "Jogos Mortais", "Hostel"],
+        "correctAnswer": "Jogos Mortais"
+      },
+      {
+        "question": "Qual artista musical é conhecido por seu estilo camaleônico, sua androginia e hits como 'Space Oddity' e 'Heroes'?",
+        "alternatives": [
+          "Freddie Mercury",
+          "Elton John",
+          "David Bowie",
+          "Prince"
+        ],
+        "correctAnswer": "David Bowie"
+      },
+      {
+        "question": "Qual é o nome do primeiro super-herói criado pela Marvel Comics, que apareceu em 'Marvel Comics #1' em 1939?",
+        "alternatives": [
+          "Capitão América",
+          "Tocha Humana original (Jim Hammond)",
+          "Namor, o Príncipe Submarino",
+          "Pantera Negra"
+        ],
+        "correctAnswer": "Tocha Humana original (Jim Hammond)"
+      },
+      {
+        "question": "Qual sitcom americana foi a primeira a apresentar um protagonista abertamente gay (Ellen Morgan) e causou controvérsia ao abordar o tema?",
+        "alternatives": ["Will & Grace", "Modern Family", "Ellen", "Seinfeld"],
+        "correctAnswer": "Ellen"
+      },
+      {
+        "question": "Qual é o nome da saga de jogos de RPG da CD Projekt Red, baseada nos livros de Andrzej Sapkowski, que segue as aventuras de Geralt de Rívia?",
+        "alternatives": ["Skyrim", "Dragon Age", "The Witcher", "Dark Souls"],
+        "correctAnswer": "The Witcher"
+      },
+      {
+        "question": "Qual banda de rock alternativo dos anos 90 lançou o icônico álbum 'Nevermind', com a música 'Smells Like Teen Spirit'?",
+        "alternatives": [
+          "Pearl Jam",
+          "Soundgarden",
+          "Nirvana",
+          "Alice in Chains"
+        ],
+        "correctAnswer": "Nirvana"
+      },
+      {
+        "question": "Qual é o nome da famosa série de televisão de David Lynch que explora o assassinato de Laura Palmer em uma pequena cidade?",
+        "alternatives": [
+          "Arquivo X",
+          "Lost",
+          "Twin Peaks",
+          "The Twilight Zone"
+        ],
+        "correctAnswer": "Twin Peaks"
+      },
+      {
+        "question": "Qual foi o primeiro console de videogame doméstico amplamente bem-sucedido, lançado pela Atari em 1977?",
+        "alternatives": [
+          "Nintendo Entertainment System (NES)",
+          "Magnavox Odyssey",
+          "Atari 2600",
+          "Intellivision"
+        ],
+        "correctAnswer": "Atari 2600"
+      },
+      {
+        "question": "Qual é o nome do gênero musical que surgiu na década de 1970, caracterizado por letras diretas, agressivas e sonoridade crua, com bandas como Sex Pistols e The Clash?",
+        "alternatives": ["Heavy Metal", "Glam Rock", "Punk Rock", "New Wave"],
+        "correctAnswer": "Punk Rock"
+      },
+      {
+        "question": "Qual livro de ficção científica de Philip K. Dick inspirou o filme 'Blade Runner'?",
+        "alternatives": [
+          "Ubik",
+          "Androides Sonham Com Ovelhas Elétricas?",
+          "Valis",
+          "O Homem do Castelo Alto"
+        ],
+        "correctAnswer": "Androides Sonham Com Ovelhas Elétricas?"
       }
     ]
   }
