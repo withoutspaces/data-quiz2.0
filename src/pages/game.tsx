@@ -1,14 +1,13 @@
+import { useState, useMemo, useCallback } from "react";
 import type { Category, Difficulty } from "../types/questions";
 import { useLocation, useNavigate } from "react-router-dom";
 import { randomizeQuestions } from "../utils/randomizeQuestions";
-import { useState, useMemo, useCallback } from "react";
 import { ScoreDisplay } from "@/components/quiz/scoreDisplay";
 import { Alternative } from "@/components/quiz/alternative";
 import { BackButton } from "@/components/quiz/backButton";
 import { useSound } from "@/hooks/useSound";
 import { shuffle } from "@/utils/shuffle";
 import { Button } from "@/components/ui/button";
-import { Title } from "@/components/quiz/title";
 import { toast } from "sonner";
 
 import response from "../data/data.json";
@@ -17,9 +16,7 @@ const TOTAL_QUESTIONS = 10;
 const LAST_QUESTION_INDEX = TOTAL_QUESTIONS - 1;
 
 export function Game() {
-  const [currentAlternativeSelected, setCurrentAlternativeSelected] = useState<
-    string | null
-  >(null);
+  const [currentAlternativeSelected, setCurrentAlternativeSelected] = useState<string | null>(null);
   const [showRightAlternative, setShowRightAlternative] = useState(false);
   const [currentQuestion, setCurrentQuestion] = useState(0);
   const [currentScore, setCurrentScore] = useState(0);
@@ -40,8 +37,7 @@ export function Game() {
     return randomizeQuestions(questions);
   }, [questions]);
 
-  const { alternatives, correctAnswer, question } =
-    randomizedQuestions[currentQuestion];
+  const { alternatives, correctAnswer, question } = randomizedQuestions[currentQuestion];
 
   const shuffledAlternatives = useMemo(() => {
     return shuffle(alternatives);
@@ -56,10 +52,6 @@ export function Game() {
       state: { score: currentScore, numberOfQuestions: TOTAL_QUESTIONS },
     });
   }, [navigate, currentScore]);
-
-  const handleBackButton = useCallback(() => {
-    navigate("/");
-  }, []);
 
   const handleNextQuestion = useCallback(() => {
     setShowRightAlternative(false);
@@ -77,16 +69,11 @@ export function Game() {
       playWrongSound();
       toast.error("Resposta incorreta");
     }
-  }, [
-    currentAlternativeSelected,
-    correctAnswer,
-    playCorretSound,
-    playWrongSound,
-  ]);
+  }, [currentAlternativeSelected, correctAnswer, playCorretSound, playWrongSound]);
 
   return (
     <>
-      <BackButton onClick={handleBackButton} />
+      <BackButton />
       <div className="flex flex-col items-center px-4 gap-8 h-screen justify-center">
         <div className="flex items-center gap-1">
           <img src="/logo2.png" alt="" className="w-[72px]" />
@@ -95,15 +82,17 @@ export function Game() {
           </h1>
         </div>
 
-        <ScoreDisplay
-          currentQuestion={currentQuestion}
-          currentScore={currentScore}
-        />
+        <div className="flex items-center gap-4">
+          <span className="font-semibold">Questão: {currentQuestion + 1}/10</span>
+          <ScoreDisplay currentQuestion={currentQuestion} currentScore={currentScore} />
+        </div>
 
-        <Title title={question} />
+        <div className="text-center ring-1 ring-indigo-800 rounded-md p-3 md:max-w-xl">
+          <p>{question}</p>
+        </div>
 
         <div className="flex flex-col min-w-80 gap-4">
-          {shuffledAlternatives.map((alternative, index) => (
+          {shuffledAlternatives.map((alternative) => (
             <Alternative
               isRight={showRightAlternative && alternative === correctAnswer}
               isWrong={showRightAlternative && alternative !== correctAnswer}
@@ -111,7 +100,7 @@ export function Game() {
               disabled={showRightAlternative}
               handleClickedOption={handleClickedOption}
               alternative={alternative}
-              key={index}
+              key={alternative}
             >
               {alternative}
             </Alternative>
@@ -123,7 +112,7 @@ export function Game() {
             disabled={currentAlternativeSelected == null}
             variant="default"
             onClick={handleEndGame}
-            className="bg-green-700 hover:bg-green-800 hover:scale-110 transition-all ease-in-out w-4/5 md:w-1/5"
+            className="bg-green-700 hover:bg-green-800 hover:scale-110 transition-all ease-in-out w-3/4 sm:w-2/5 md:w-3/12"
           >
             Finalizar
           </Button>
@@ -133,7 +122,7 @@ export function Game() {
             variant="default"
             className="bg-indigo-700 text-white p-4 rounded-md outline-none
           hover:bg-indigo-800 hover:scale-110 ease-in-out transition-all active:bg-indigo-800
-          active:scale-110 disabled:cursor-not-allowed w-4/5 md:w-1/5"
+          active:scale-110 disabled:cursor-not-allowed w-3/4 sm:w-2/5 md:w-3/12"
           >
             Próxima pergunta
           </Button>
@@ -144,7 +133,7 @@ export function Game() {
             variant="default"
             className="bg-indigo-700 text-white p-4 rounded-md outline-none
           hover:bg-indigo-800 hover:scale-110 ease-in-out transition-all active:bg-indigo-800
-          active:scale-110 disabled:cursor-not-allowed w-4/5 md:w-1/5"
+          active:scale-110 disabled:cursor-not-allowed w-3/4 sm:w-2/5 md:w-3/12"
           >
             Confirmar
           </Button>

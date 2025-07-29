@@ -20,18 +20,17 @@ export function Alternative({
   isWrong,
   disabled,
 }: AlternativeProps) {
-  const baseClasses = "ease-in-out transition-all p-4 rounded-md text-white";
+  const baseClasses =
+    "ease-in-out transition-all p-4 rounded-md text-white max-w-80 md:max-w-96 outline-none focus-visible:ring-2 focus-visible:ring-indigo-100";
   const defaultStateClasses =
     "bg-indigo-500 hover:bg-indigo-600 active:bg-indigo-700 hover:scale-105 md:hover:scale-110";
 
   const dynamicClasses = clsx(
     baseClasses,
     {
-      "bg-green-700 scale-105 ring-2 ring-green-400 md:hover:scale-110":
-        isRight,
+      "bg-green-700 scale-105 ring-2 ring-green-400 md:hover:scale-110": isRight,
       "bg-red-900 ring-2 ring-red-500": isWrong,
-      "bg-indigo-600 scale-105 ring-2 ring-indigo-400 md:hover:scale-110":
-        selected && !isRight,
+      "bg-indigo-600 scale-105 ring-2 ring-indigo-400 md:hover:scale-110": selected && !isRight,
     },
     !isRight && !isWrong && !selected && defaultStateClasses
   );

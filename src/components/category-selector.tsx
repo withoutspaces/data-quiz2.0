@@ -41,10 +41,7 @@ export function CategorySelector({ handleNavigate }: CategorySelectorProps) {
 
   return (
     <Form {...form}>
-      <form
-        onSubmit={form.handleSubmit(onSubmit)}
-        className="flex flex-col gap-10 w-full"
-      >
+      <form onSubmit={form.handleSubmit(onSubmit)} className="flex flex-col gap-10 w-full">
         <div className="flex gap-3">
           <FormField
             control={form.control}
@@ -61,9 +58,7 @@ export function CategorySelector({ handleNavigate }: CategorySelectorProps) {
                     <SelectItem value="history">História</SelectItem>
                     <SelectItem value="science">Ciências</SelectItem>
                     <SelectItem value="technology">Tecnologia</SelectItem>
-                    <SelectItem value="general">
-                      Conhecimentos Gerais
-                    </SelectItem>
+                    <SelectItem value="general">Conhecimentos Gerais</SelectItem>
                     <SelectItem value="pop">Cultura pop</SelectItem>
                   </SelectContent>
                 </Select>
@@ -101,10 +96,7 @@ export function CategorySelector({ handleNavigate }: CategorySelectorProps) {
             )}
           />
         </div>
-        <Button
-          className="bg-indigo-500 self-center w-1/2 mt-40 md:mt-0"
-          type="submit"
-        >
+        <Button className="bg-indigo-500 self-center w-1/2 mt-40 md:mt-0" type="submit">
           Iniciar
         </Button>
       </form>
