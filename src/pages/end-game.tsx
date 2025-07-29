@@ -61,10 +61,6 @@ export function EndGame() {
           </div>
         </div>
 
-        {/* <p className="text-center">
-          Parabéns! Você finalizou o jogo. Clique no botão abaixo para jogar
-          novamente.
-        </p> */}
         <div className="flex gap-3">
           <button
             onClick={handlePlayAgain}

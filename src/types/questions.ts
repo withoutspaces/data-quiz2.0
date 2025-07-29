@@ -10,7 +10,7 @@ type QuestionsDifficulty = {
   hard: Question;
 };
 
-export type Questions = {
+export type QuestionCategory = {
   history: QuestionsDifficulty;
   science: QuestionsDifficulty;
   technology: QuestionsDifficulty;
